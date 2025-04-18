@@ -1,0 +1,1935 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	1991
+#@/user_id	linux
+C 	C	c=1 d=0.0515605 t=1991
+F G 	FG	c=1 d=0.985112 t=1991
+M 	M	c=1 d=0.00151855 t=1991
+a 	阿	c=2 d=1.95123 t=1991
+ai qing 	爱情	c=1 d=0.99005 t=1991
+an bu zhen ming 	岸部真明	c=1 d=0.97531 t=1991
+an jian 	按键	c=1 d=0.970446 t=1991
+an niu 	按钮	c=1 d=0.318224 t=1991
+an quan 	安全	c=1 d=0.180866 t=1991
+an se 	暗色	c=1 d=0.000789043 t=1991
+an wei 	安慰	c=2 d=0.00512907 t=1991
+an xia 	按下	c=1 d=0.970446 t=1991
+an zhuang 	安装	c=5 d=3.41121 t=1991
+ba 	把	c=4 d=2.92682 t=1991
+ba shi jian 	把时间	c=1 d=0.00227676 t=1991
+ba ta 	把他	c=1 d=0.514274 t=1991
+ba wo 	把我	c=1 d=0.383623 t=1991
+ba wo 	把握	c=1 d=0.382893 t=1991
+ba wo dang cheng 	把我当成	c=1 d=0.0265162 t=1991
+bai bai 	白白	c=0 d=5.0296e-05 t=1991
+ban 	办	c=2 d=1.83712 t=1991
+ban ben 	版本	c=1 d=1.09005 t=1990
+ban ben de bao 	版本的包	c=1 d=1 t=1991
+ban bo 	斑驳	c=0 d=0.0024234 t=1991
+ban bo de 	斑驳的	c=1 d=0.0243554 t=1991
+ban nian li 	半年里	c=1 d=0.000476044 t=1991
+ban nian shi jian 	半年时间	c=1 d=0.00164502 t=1991
+ban wo tong xing 	伴我同行	c=1 d=1 t=1991
+ban zhe 	伴着	c=0 d=0.000339653 t=1991
+ban zhe ni 	伴着你	c=1 d=0.00341356 t=1991
+bang ding 	绑定	c=2 d=1.73039 t=1991
+bang wo 	帮我	c=3 d=2.21527 t=1991
+bang wo pai zhao 	帮我拍照	c=1 d=0.0141931 t=1991
+bang zhu 	帮助	c=1 d=0.00465413 t=1991
+bang zhu ni 	帮助你	c=1 d=0.00289433 t=1991
+bao 	包	c=2 d=2.0938 t=1991
+bao 	报	c=1 d=0.873716 t=1991
+bao 	抱	c=1 d=0.882497 t=1991
+bao cun 	保存	c=1 d=0.865022 t=1991
+bao cuo 	报错	c=1 d=0.965605 t=1991
+bao guan li qi 	包管理器	c=1 d=0.97531 t=1991
+bao guang 	曝光	c=2 d=1.98012 t=1991
+bao han 	包含	c=1 d=0.826959 t=1991
+bao kao 	报考	c=1 d=0.722527 t=1991
+bao liu 	保留	c=2 d=0.296253 t=1991
+bao lu 	暴露	c=1 d=0.0229371 t=1991
+bao rong 	包容	c=2 d=0.0532131 t=1991
+bao wei le 	包围了	c=1 d=0.0437178 t=1991
+bao zheng 	保证	c=1 d=0.232236 t=1991
+bei 	北	c=0 d=0.0302704 t=1991
+bei 	被	c=4 d=0.270374 t=1991
+bei fen 	备份	c=1 d=0.000911882 t=1991
+bei hou 	背后	c=1 d=0.0178634 t=1991
+bei jian da 	北建大	c=1 d=0.304221 t=1991
+bei jing 	北京	c=10 d=8.01111 t=1991
+bei jing 	背景	c=3 d=2.78844 t=1991
+bei jing gong shang da xue 	北京工商大学	c=1 d=0.927743 t=1991
+bei jing hua gong da xue 	北京化工大学	c=1 d=0.843665 t=1991
+bei jing hua gong xue yuan 	北京化工学院	c=1 d=0.847894 t=1991
+bei jing jian zhu da xue 	北京建筑大学	c=8 d=4.7793 t=1991
+bei jing lin ye 	北京林业	c=1 d=0.941765 t=1991
+bei jing you dian 	北京邮电	c=4 d=3.69073 t=1991
+bei jing you dian da xue 	北京邮电大学	c=1 d=0.946485 t=1991
+bei shang 	悲伤	c=1 d=0.103312 t=1991
+bei shang 	背上	c=1 d=0.10383 t=1991
+bei you 	北邮	c=1 d=0.97531 t=1991
+bei you li 	北邮里	c=1 d=0.878095 t=1991
+ben ci 	本次	c=1 d=0.873716 t=1991
+ben di 	本地	c=2 d=1.8295 t=1991
+ben ke 	本科	c=1 d=0.918512 t=1991
+ben zhi de qu bie 	本质的区别	c=1 d=0.112478 t=1991
+ben zhuan ye 	本专业	c=0 d=0.0839457 t=1991
+beng kui 	崩溃	c=1 d=0.980199 t=1991
+bi li 	比例	c=1 d=0.000833397 t=1991
+bi lu 	秘鲁	c=1 d=0.960789 t=1991
+bi wo 	比我	c=2 d=0.966306 t=1991
+bi xu 	必须	c=2 d=0.264042 t=1991
+bian 	便	c=0 d=0.0509156 t=1991
+bian 	边	c=0 d=0.000127476 t=1991
+bian bu zai 	便不再	c=1 d=0.511709 t=1991
+bian cheng 	编程	c=2 d=1.56365 t=1991
+bian dan 	变淡	c=1 d=0.995012 t=1991
+bian de 	变得	c=2 d=0.0982405 t=1991
+bian hua 	变化	c=1 d=0.00283702 t=1991
+bian ji 	编辑	c=2 d=1.93707 t=1991
+bian ji qi 	编辑器	c=1 d=0.00128757 t=1991
+bian jiu chan 	边纠缠	c=1 d=0.00128115 t=1991
+bian li 	便利	c=1 d=0.985112 t=1991
+bian li 	遍历	c=1 d=1 t=1991
+bian liang 	变量	c=9 d=1.01007 t=1991
+bian liang de 	变量的	c=2 d=0.151785 t=1991
+bian liang qu 	变量区	c=1 d=0.162026 t=1991
+bian liang wei 	变量为	c=1 d=0.106992 t=1991
+bian shao le 	变少了	c=1 d=0.00207043 t=1991
+bian xie 	便携	c=1 d=0.891366 t=1991
+bian xie 	编写	c=1 d=0.960789 t=1991
+bian xie yi ge han shu 	编写一个函数	c=1 d=0.852144 t=1991
+bian yi 	编译	c=1 d=0.88692 t=1991
+bian yi de 	编译的	c=1 d=0.163654 t=1991
+bian yi qi 	编译器	c=1 d=0.882497 t=1991
+bian yi qiu qi 	编译求其	c=1 d=0.105399 t=1991
+bian yuan 	边缘	c=1 d=0.822835 t=1991
+biao 	表	c=2 d=1.99005 t=1991
+bie ming 	别名	c=1 d=0.951229 t=1991
+bie ren 	别人	c=1 d=0.941765 t=1991
+bing 	并	c=2 d=1.63204 t=1991
+bing 	病	c=1 d=1 t=1991
+bing jin xing 	并进行	c=1 d=0.99005 t=1991
+bing mei you 	并没有	c=1 d=0.00236968 t=1991
+bing pai 	并排	c=1 d=0.980199 t=1991
+bing yun xing 	并运行	c=1 d=0.891366 t=1991
+bo fang 	播放	c=2 d=1.97045 t=1991
+bo fang lie biao 	播放列表	c=0 d=0.0941765 t=1991
+bo he 	薄荷	c=1 d=0.00136719 t=1991
+bo ke 	博客	c=1 d=0.995012 t=1991
+bu 	不	c=4 d=1.67375 t=1991
+bu chang 	不长	c=1 d=0.128591 t=1991
+bu chu 	不出	c=1 d=0.205975 t=1991
+bu duan 	不断	c=1 d=0.000457378 t=1991
+bu duo 	不多	c=1 d=0.00442715 t=1991
+bu fen 	部分	c=1 d=0.99005 t=1991
+bu gan 	不敢	c=1 d=0.965605 t=1991
+bu guo 	不过	c=1 d=0.0399551 t=1991
+bu hao 	不好	c=0 d=0.00218184 t=1991
+bu hao de ren 	不好的人	c=1 d=0.0219278 t=1991
+bu jia zai 	不加载	c=3 d=2.29188 t=1991
+bu ju 	布局	c=1 d=0.97531 t=1991
+bu lian guan 	不连贯	c=1 d=0.000949097 t=1991
+bu lian xi 	不联系	c=1 d=0.00251621 t=1991
+bu ming que 	不明确	c=1 d=0.0123389 t=1991
+bu neng 	不能	c=4 d=3.01935 t=1991
+bu qi 	不起	c=1 d=0.951229 t=1991
+bu qi yong 	不启用	c=1 d=0.00568457 t=1991
+bu qing chu 	不清楚	c=1 d=0.00120654 t=1991
+bu quan 	补全	c=5 d=4.19268 t=1991
+bu sheng cheng 	不生成	c=1 d=0.000907334 t=1991
+bu shi 	不是	c=2 d=0.959989 t=1991
+bu shi fei yao 	不是非要	c=1 d=0.946485 t=1991
+bu shi lei xing 	不是类型	c=1 d=0.126186 t=1991
+bu shi wo neng 	不是我能	c=1 d=0.00367942 t=1991
+bu shu zai 	部署在	c=1 d=0.923116 t=1991
+bu ti shi 	不提示	c=1 d=0.826959 t=1991
+bu tong 	不同	c=1 d=0.970446 t=1991
+bu tong de 	不同的	c=1 d=0.0339895 t=1991
+bu xian shi 	不显示	c=2 d=1.90484 t=1991
+bu xue xi 	不学习	c=1 d=0.904837 t=1991
+bu yong 	不用	c=1 d=0.404542 t=1991
+bu yuan 	不远	c=1 d=0.0335406 t=1991
+bu zai 	不再	c=1 d=0.293841 t=1991
+bu zai 	不在	c=1 d=0.000792752 t=1991
+bu zheng chang 	不正常	c=1 d=0.909373 t=1991
+bu zhi chi 	不支持	c=1 d=0.079659 t=1991
+bu zhi cong he shi qi 	不知从何时起	c=1 d=0.000401622 t=1991
+bu zu 	不足	c=1 d=0.860708 t=1991
+cai 	猜	c=1 d=1 t=1991
+cai liao 	材料	c=2 d=1.79069 t=1991
+cai neng 	才能	c=1 d=0.628135 t=1991
+can shu 	参数	c=0 d=0.026982 t=1991
+cang ku 	仓库	c=4 d=3.04754 t=1991
+cao xin 	操心	c=1 d=0.606531 t=1991
+cao zuo 	操作	c=1 d=0.995012 t=1991
+cao zuo dui xiang 	操作对象	c=1 d=0.226502 t=1991
+cao zuo nei cun 	操作内存	c=1 d=0.1764 t=1991
+cao zuo yin yong 	操作引用	c=1 d=0.19398 t=1991
+ce hui 	测绘	c=1 d=0.99005 t=1991
+ce shi 	测试	c=2 d=0.980199 t=1991
+cha jian 	插件	c=6 d=4.91446 t=1991
+cha jue 	察觉	c=0 d=0.0697676 t=1991
+cha kan 	查看	c=4 d=2.5643 t=1991
+cha kan qi 	查看器	c=1 d=0.951229 t=1991
+cha ru 	插入	c=1 d=0.970446 t=1991
+cha zhao 	查找	c=0 d=0.00561348 t=1991
+cha zhao de 	查找的	c=1 d=0.0564161 t=1991
+chan rao 	缠绕	c=1 d=0.0248475 t=1991
+chang an 	长按	c=2 d=1.83258 t=1991
+chang chang 	常常	c=1 d=0.00339653 t=1991
+chang ge 	唱歌	c=1 d=0.017163 t=1991
+chang jian de 	常见的	c=1 d=0.927743 t=1991
+chang liang 	常量	c=3 d=0.334212 t=1991
+chang liang qu 	常量区	c=0 d=0.0118245 t=1991
+chang liang qu de 	常量区的	c=1 d=0.118837 t=1991
+chang shi jian 	长时间	c=1 d=0.00249118 t=1991
+chao sheng bo ce ju 	超声波测距	c=0 d=0.0970446 t=1991
+chao sheng bo ce ju mo kuai 	超声波测距模块	c=1 d=0.97531 t=1991
+che di 	彻底	c=0 d=0.0571209 t=1991
+chen deng 	臣等	c=0 d=0.099005 t=1991
+chen kai 	陈开	c=4 d=2.97419 t=1991
+chen mi 	沉迷	c=1 d=0.818731 t=1991
+chen shui 	沉睡	c=1 d=0.0475963 t=1991
+chen zhong de 	沉重的	c=1 d=0.10435 t=1991
+cheng hu 	称呼	c=2 d=1.87888 t=1991
+cheng ji 	成绩	c=1 d=0.440432 t=1991
+cheng wei 	成为	c=2 d=0.180427 t=1991
+cheng xu 	程序	c=2 d=1.90727 t=1991
+cheng xu beng kui 	程序崩溃	c=1 d=0.0948935 t=1991
+chong fen de 	充分的	c=1 d=0.0280154 t=1991
+chong jing 	憧憬	c=1 d=0.0116786 t=1991
+chong tu 	冲突	c=1 d=0.918512 t=1991
+chu 	处	c=1 d=0.0347353 t=1991
+chu bu 	初步	c=1 d=1 t=1991
+chu fa 	触发	c=1 d=0.00759701 t=1991
+chu lai 	出来	c=3 d=0.462112 t=1991
+chu lai de 	出来的	c=1 d=0.00050296 t=1991
+chu le 	除了	c=1 d=0.554327 t=1991
+chu qu 	出去	c=1 d=0.786628 t=1991
+chu shi hua 	初始化	c=1 d=0.0788664 t=1991
+chu xian 	出现	c=1 d=0.000944363 t=1991
+chu xian de 	出现的	c=1 d=0.951229 t=1991
+chu xian le 	出现了	c=1 d=0.185444 t=1991
+chu xian zai 	出现在	c=0 d=0.0360595 t=1991
+chuan 	川	c=1 d=0.694197 t=1991
+chuang jian 	创建	c=4 d=3.23469 t=1991
+chuang jian de 	创建的	c=1 d=0.0731678 t=1991
+chuang jian hao le 	创建好了	c=1 d=0.0623495 t=1991
+chun 	春	c=0 d=0.099005 t=1991
+chun jie 	春节	c=2 d=0.0389358 t=1991
+chun tian 	春天	c=3 d=0.131764 t=1991
+chuo 	戳	c=1 d=0.211189 t=1991
+ci 	此	c=1 d=0.985112 t=1991
+ci gei wo 	赐给我	c=1 d=0.000561443 t=1991
+ci hui 	词汇	c=1 d=0.704688 t=1991
+ci ku 	词库	c=1 d=0.895834 t=1991
+ci yu 	词语	c=0 d=0.0995012 t=1991
+cong 	从	c=5 d=2.64845 t=1991
+cong duan 	葱段	c=1 d=0.946485 t=1991
+cong shi 	从事	c=2 d=1.83795 t=1991
+cong zi ji lai de 	从自己来的	c=1 d=0.000626727 t=1991
+cu ti 	粗体	c=4 d=3.37283 t=1991
+cun chu 	存储	c=3 d=1.28204 t=1991
+cun fang zai 	存放在	c=1 d=0.116484 t=1991
+cuo wu 	错误	c=4 d=3.04534 t=1991
+da jian 	搭建	c=1 d=0.951229 t=1991
+da kai 	打开	c=3 d=2.58162 t=1991
+da kai shi 	打开时	c=1 d=0.99005 t=1991
+da lian 	大连	c=4 d=3.6242 t=1991
+da lian hai shi da xue 	大连海事大学	c=2 d=1.91202 t=1991
+da lian jiao tong da xue 	大连交通大学	c=1 d=0.923116 t=1991
+da shu ju fen xi 	大数据分析	c=1 d=0.873716 t=1991
+da suan 	打算	c=1 d=0.00143012 t=1991
+da xiao 	大小	c=4 d=3.45434 t=1991
+da xiao ma 	大小码	c=1 d=0.980199 t=1991
+da xue 	大学	c=11 d=7.29383 t=1991
+da xue 	大雪	c=1 d=0.0184074 t=1991
+da xue ren 	大雪人	c=1 d=0.0145524 t=1991
+dai 	带	c=0 d=0.000324708 t=1991
+dai gei ni 	带给你	c=1 d=0.909373 t=1991
+dai li 	代理	c=3 d=2.88323 t=1991
+dai ling 	带领	c=1 d=0.00299814 t=1991
+dai ling ni 	带令你	c=1 d=0.00326335 t=1991
+dai ling ni 	带领你	c=1 d=0.00327971 t=1991
+dai lu 	带路	c=1 d=0.985112 t=1991
+dai ma 	代码	c=7 d=5.02878 t=1991
+dai ma qiu qu 	代码求取	c=1 d=0.117068 t=1991
+dai ma qu 	代码区	c=1 d=0.117655 t=1991
+dai zhe 	带着	c=1 d=0.771052 t=1991
+dan 	但	c=4 d=1.0869 t=1991
+dan 	单	c=1 d=0.384812 t=1991
+dan an 	单按	c=1 d=0.873716 t=1991
+dan ci 	单词	c=2 d=1.9605 t=1991
+dan ge 	单个	c=2 d=1.00506 t=1991
+dan jian 	单键	c=1 d=0.843665 t=1991
+dan ke yi 	但可以	c=0 d=0.00629761 t=1991
+dan ke yi bei diao yong 	但可以被调用	c=1 d=0.0632918 t=1991
+dan ni 	但你	c=1 d=0.00444934 t=1991
+dan sheng ming 	但声明	c=1 d=0.0547488 t=1991
+dan shi 	但是	c=3 d=1.8053 t=1991
+dan wo men 	但我们	c=1 d=0.0023344 t=1991
+dang 	当	c=2 d=0.0326559 t=1991
+dang bu tong de 	当不同的	c=1 d=0.00786762 t=1991
+dang cheng 	当成	c=0 d=0.00263839 t=1991
+dang han shu 	当函数	c=1 d=0.0639279 t=1991
+dang ni 	当你	c=2 d=0.985112 t=1991
+dang qian 	当前	c=6 d=4.47901 t=1991
+dang qian suo shu 	当前所属	c=1 d=0.00701293 t=1991
+dang shi 	当时	c=1 d=0.0207543 t=1991
+dang tian wan shang 	当天晚上	c=1 d=0.0107807 t=1991
+dang wo 	当我	c=0 d=0.00162445 t=1991
+dang wo di di 	当我弟弟	c=1 d=0.0163259 t=1991
+dang zhong 	当中	c=1 d=0.66371 t=1991
+dang zuo 	当作	c=1 d=0.985112 t=1991
+dao 	到	c=2 d=1.85698 t=1991
+dao da 	到达	c=1 d=0.00379148 t=1991
+dao de 	到的	c=2 d=1.8202 t=1991
+dao le 	到了	c=1 d=0.951229 t=1991
+dao lu 	道路	c=1 d=0.00332928 t=1991
+dao na li qu 	到哪里去	c=0 d=6.7217e-05 t=1991
+dao sun 	到孙	c=1 d=1 t=1991
+de 	地	c=2 d=1.78765 t=1991
+de 	得	c=1 d=0.0322254 t=1991
+de 	的	c=93 d=23.9844 t=1991
+de ci yu 	的词语	c=1 d=1 t=1991
+de dao 	得到	c=2 d=0.223944 t=1991
+de di fang 	的地方	c=0 d=0.000178203 t=1991
+de guan xi 	的关系	c=1 d=0.995012 t=1991
+de hua 	的话	c=1 d=0.070772 t=1991
+de ren 	的人	c=0 d=0.00218184 t=1991
+de shi 	的是	c=1 d=0.0211736 t=1991
+de shi hou 	的时候	c=2 d=0.0499013 t=1991
+de shi qing 	的事情	c=1 d=0.680451 t=1991
+de wei zhi 	的位置	c=0 d=7.84864e-05 t=1991
+de zhi 	得知	c=0 d=0.0852144 t=1991
+dei mai 	得买	c=1 d=0.980199 t=1991
+den 	扽	c=0 d=0.0970446 t=1991
+den ji 	扽级	c=1 d=0.0513033 t=1991
+deng 	等	c=2 d=1.46544 t=1991
+deng 	邓	c=2 d=1.81785 t=1991
+deng ji 	等级	c=1 d=0.99005 t=1991
+di 	地	c=0 d=0.000227676 t=1991
+di 	第	c=1 d=0.786628 t=1991
+di bu 	底部	c=1 d=0.965605 t=1991
+di di 	弟弟	c=0 d=0.00325704 t=1991
+di er tian 	第二天	c=1 d=0.000536738 t=1991
+di gu 	低谷	c=0 d=0.000108628 t=1991
+di qi 	第七	c=1 d=0.88692 t=1991
+di xiong zi mei 	弟兄姊妹	c=1 d=0.00307331 t=1991
+di yi 	第一	c=1 d=1 t=1991
+di yi tian 	第一天	c=1 d=0.00160441 t=1991
+di zhi 	地址	c=1 d=0.232411 t=1991
+di zhi shi shen me 	地址是什么	c=1 d=0.937067 t=1991
+di zhi shu xing 	地址属性	c=2 d=0.469287 t=1991
+di zhi yun suan fu 	地址运算符	c=1 d=0.218712 t=1991
+dian 	点	c=1 d=0.00548905 t=1991
+dian chi 	电池	c=1 d=0.955997 t=1991
+dian ji kong zhi 	电机控制	c=1 d=0.970446 t=1991
+dian nao duan 	电脑端	c=1 d=0.97531 t=1991
+dian yi xia 	点一下	c=1 d=0.965605 t=1991
+diao 	掉	c=1 d=0.07502 t=1991
+diao yong 	调用	c=2 d=0.232257 t=1991
+die 	爹	c=0 d=0.00124007 t=1991
+ding bu 	顶部	c=1 d=0.955997 t=1991
+ding yi 	定义	c=2 d=0.514607 t=1991
+ding zhu 	叮嘱	c=1 d=0.56836 t=1991
+dong li 	动力	c=1 d=0.551563 t=1991
+dong tai 	动态	c=1 d=0.0804596 t=1991
+dong tian 	冬天	c=2 d=0.0451917 t=1991
+dou 	抖	c=1 d=0.980199 t=1991
+dou 	都	c=1 d=0.00147367 t=1991
+dou ban 	豆瓣	c=2 d=1.98511 t=1991
+dou cong 	都从	c=1 d=0.0126512 t=1991
+dou he 	都和	c=0 d=0.000197932 t=1991
+dou he ni you guan 	都和你有关	c=1 d=0.00198925 t=1991
+dou hui 	都会	c=1 d=0.150318 t=1991
+dou ke yi 	都可以	c=1 d=0.00182715 t=1991
+dou mei you 	都没有	c=1 d=0.379083 t=1991
+dou shi 	都是	c=3 d=0.531895 t=1991
+dou shi ni 	都是你	c=0 d=0.000109172 t=1991
+dou shi ni zai bao hu 	都是你在保护	c=1 d=0.00109719 t=1991
+dou shi zhu fu 	都是祝福	c=1 d=0.00112497 t=1991
+dou yao 	都要	c=1 d=0.00843808 t=1991
+dou yi yang 	都一样	c=1 d=0.0850088 t=1991
+dou yin wei 	都因为	c=1 d=0.00247875 t=1991
+dou zai 	都在	c=0 d=0.000194013 t=1991
+duan 	端	c=1 d=0.99005 t=1991
+duan kou 	端口	c=1 d=1 t=1991
+dui 	堆	c=2 d=0.138232 t=1991
+dui 	对	c=3 d=2.57571 t=1991
+dui bu shang 	对不上	c=1 d=1.09352 t=1991
+dui bu shang jiao 	对不上焦	c=1 d=0.99005 t=1991
+dui de 	堆得	c=1 d=0.0149208 t=1991
+dui ji 	堆积	c=1 d=0.0992613 t=1991
+dui le 	堆了	c=1 d=0.0144076 t=1991
+dui nei cun 	堆内存	c=1 d=0.0916297 t=1991
+dui ni 	对你	c=1 d=0.00180897 t=1991
+dui ni de 	对你的	c=1 d=0.00265848 t=1991
+dui pu tong 	对普通	c=1 d=0.0765355 t=1991
+dui qi 	对齐	c=1 d=1 t=1991
+dui qu 	堆区	c=1 d=0.160414 t=1991
+dui wo 	对我	c=1 d=0.025223 t=1991
+dui wo de 	对我的	c=2 d=0.0293276 t=1991
+dui xiang 	对象	c=8 d=1.39928 t=1991
+dui ying de 	对应的	c=1 d=0.932394 t=1991
+dui yu 	对于	c=1 d=0.08291 t=1991
+duo ci 	多次	c=1 d=0.0599047 t=1991
+duo ge 	多个	c=1 d=0.955997 t=1991
+duo hang 	多行	c=2 d=1.92741 t=1991
+en dian 	恩典	c=0 d=0.0965605 t=1991
+en dian zhi lu 	恩典之路	c=2 d=1.97045 t=1991
+er 	二	c=1 d=0.357007 t=1991
+er 	而	c=2 d=0.865022 t=1991
+er ni 	而你	c=1 d=0.00343067 t=1991
+er pang 	耳旁	c=1 d=0.562705 t=1991
+er shi 	二十	c=1 d=0.425283 t=1991
+er shi 	而是	c=0 d=5.0296e-05 t=1991
+er shi wo bai bai 	而是我白白	c=1 d=0.000505481 t=1991
+er yue 	二月	c=1 d=0.423162 t=1991
+fa 	发	c=1 d=0.97531 t=1991
+fa chu 	发出	c=1 d=0.0309618 t=1991
+fa lai 	发来	c=0 d=0.0304221 t=1991
+fa lai de 	发来的	c=1 d=0.305746 t=1991
+fa xian 	发现	c=3 d=0.0886708 t=1991
+fa zhan 	发展	c=1 d=0.00366107 t=1991
+fan 	凡	c=1 d=0.985112 t=1991
+fan teng 	翻腾	c=1 d=0.0982736 t=1991
+fan wei 	范围	c=1 d=0.00106477 t=1991
+fan yi 	翻译	c=2 d=1.73091 t=1991
+fan yi cheng 	翻译成	c=2 d=1.88194 t=1991
+fang 	放	c=0 d=0.026982 t=1991
+fang bian 	方便	c=1 d=0.985112 t=1991
+fang can shu 	放参数	c=1 d=0.271173 t=1991
+fang da 	放大	c=1 d=0.00082099 t=1991
+fang fa 	方法	c=2 d=1.74849 t=1991
+fang fei 	放飞	c=1 d=0.57695 t=1991
+fang fu 	仿佛	c=1 d=0.67032 t=1991
+fang mian 	方面	c=0 d=0.097531 t=1991
+fang mian de 	方面的	c=1 d=0.980199 t=1991
+fang qi le 	放弃了	c=0 d=5.28747e-05 t=1991
+fang qi wo 	放弃我	c=1 d=0.000553084 t=1991
+fang shi 	方式	c=2 d=1.00062 t=1991
+fang song 	放松	c=1 d=0.923116 t=1991
+fang xiang 	方向	c=1 d=0.00373503 t=1991
+fang zai 	放在	c=2 d=0.519151 t=1991
+fang zhi 	防止	c=1 d=0.00562801 t=1991
+fei wu 	飞舞	c=1 d=1 t=1991
+fei yao 	非要	c=0 d=0.0941765 t=1991
+fen 	分	c=3 d=1.42606 t=1991
+fen beng li xi 	分崩离析	c=1 d=0.421052 t=1991
+fen bie 	分别	c=1 d=0.927743 t=1991
+fen dao yang biao 	分道扬镳	c=1 d=0.0025415 t=1991
+fen ge xian 	分割线	c=1 d=0.960789 t=1991
+fen pei 	分配	c=3 d=0.159654 t=1991
+fen qu 	分区	c=1 d=0.00150344 t=1991
+fen shu 	分数	c=2 d=1.348 t=1991
+fen xiang 	分享	c=3 d=1.82823 t=1991
+fen zhi 	分支	c=3 d=2.8363 t=1991
+fu 	腐	c=1 d=1 t=1991
+fu chu zhi 	赋初值	c=2 d=0.273588 t=1991
+fu du 	幅度	c=1 d=0.995012 t=1991
+fu hao 	符号	c=0 d=0.0139457 t=1991
+fu qin 	父亲	c=2 d=0.664081 t=1991
+fu shi 	复试	c=1 d=1 t=1991
+fu shi 	富士	c=1 d=1 t=1991
+fu yi 	负一	c=1 d=0.965605 t=1991
+fu za de 	复杂的	c=1 d=0.0029528 t=1991
+fu zhi 	复制	c=3 d=2.68045 t=1991
+fu zhi dao 	复制到	c=1 d=0.995012 t=1991
+ga ga 	嘎嘎	c=0 d=0.097531 t=1991
+gai 	该	c=1 d=0.269757 t=1991
+gai bian 	改变	c=0 d=0.0236928 t=1991
+gai bian liang de 	改变凉的	c=1 d=0.238115 t=1991
+gai bian liang de 	该变量的	c=1 d=0.239309 t=1991
+gai han shu 	该函数	c=1 d=0.0057994 t=1991
+gai zen me ban 	该怎么办	c=1 d=0.985112 t=1991
+gan dong 	感动	c=2 d=1.8793 t=1991
+gan jue dao 	感觉到	c=0 d=0.000279479 t=1991
+gan jue dao ni 	感觉到你	c=1 d=0.00280879 t=1991
+gan xie 	感谢	c=2 d=1.88995 t=1991
+gang tie 	钢铁	c=2 d=1.99501 t=1991
+gao liang 	高亮	c=2 d=1.88052 t=1991
+gao meng suan jia 	高锰酸钾	c=1 d=1 t=1991
+gao shan 	高山	c=0 d=0.000108628 t=1991
+gao shan huo di gu 	高山或低谷	c=1 d=0.00109172 t=1991
+gao su 	告诉	c=0 d=0.0323033 t=1991
+gao su guo wo 	告诉过我	c=0 d=0.000256704 t=1991
+gao su le 	告诉了	c=1 d=0.324652 t=1991
+ge 	个	c=1 d=0.0361628 t=1991
+ge 	歌	c=1 d=0.0177743 t=1991
+ge dan 	歌单	c=1 d=0.995012 t=1991
+ge shi hua 	格式化	c=1 d=0.960789 t=1991
+ge shu 	个数	c=1 d=0.955997 t=1991
+ge shu 	格数	c=1 d=0.951229 t=1991
+ge zhong ji shu 	各种技术	c=1 d=0.927743 t=1991
+ge zi 	格子	c=1 d=0.955997 t=1991
+gei 	给	c=1 d=0.999146 t=1991
+gei chu 	给出	c=0 d=0.0965605 t=1991
+gei chu de 	给出的	c=1 d=0.970446 t=1991
+gei ni 	给你	c=2 d=0.00412103 t=1991
+gei wo 	给我	c=1 d=0.0278757 t=1991
+gen 	根	c=2 d=1.98496 t=1991
+gen zhe 	跟着	c=1 d=0.927743 t=1991
+geng 	更	c=1 d=0.631284 t=1991
+geng duo 	更多	c=0 d=0.000227676 t=1991
+geng duo di 	更多地	c=1 d=0.00228818 t=1991
+geng gai 	更改	c=1 d=0.970446 t=1991
+geng huan 	更换	c=2 d=1.95581 t=1991
+geng huan bei jing 	更换背景	c=1 d=0.995012 t=1991
+geng xin 	更新	c=1 d=0.927743 t=1991
+gong cheng 	工程	c=2 d=1.38079 t=1991
+gong ju 	工具	c=1 d=0.955997 t=1991
+gong neng 	功能	c=2 d=1.59723 t=1991
+gong neng kai fa 	功能开发	c=1 d=0.995012 t=1991
+gong shang 	工商	c=2 d=1.8097 t=1991
+gou zao 	构造	c=1 d=0.985112 t=1991
+gou zao han shu 	构造函数	c=1 d=1 t=1991
+gou zhao 	够着	c=1 d=0.00673795 t=1991
+gu ding 	固定	c=1 d=0.904837 t=1991
+gu li 	鼓励	c=2 d=0.0326723 t=1991
+gu shi 	故事	c=1 d=0.0132999 t=1991
+gua 	刮	c=0 d=0.032628 t=1991
+gua shi gao 	刮石膏	c=1 d=0.327915 t=1991
+guai pi 	怪癖	c=1 d=0.0270518 t=1991
+guan 	关	c=0 d=0.000197932 t=1991
+guan bi 	关闭	c=3 d=2.74012 t=1991
+guan jian zi 	关键字	c=1 d=0.852144 t=1991
+guan li 	管理	c=1 d=0.97531 t=1991
+guan wang 	官网	c=2 d=1.48648 t=1991
+guan xi 	关系	c=2 d=0.99005 t=1991
+guan xi zhong 	关系中	c=1 d=0.00298248 t=1991
+guan yu 	关于	c=1 d=0.366045 t=1991
+guan zhong 	观众	c=1 d=0.946485 t=1991
+guang biao 	光标	c=1 d=0.970446 t=1991
+gui dao 	轨道	c=1 d=0.932394 t=1991
+gui mo 	规模	c=1 d=0.83527 t=1991
+gui xiao 	贵校	c=1 d=0.726149 t=1991
+gun cun 	滚存	c=1 d=0.99005 t=1991
+gun dong 	滚动	c=3 d=2.33878 t=1991
+gun dong shi 	滚动时	c=2 d=0.00155035 t=1991
+guo 	过	c=1 d=0.0202419 t=1991
+guo cheng 	过程	c=1 d=0.0528657 t=1991
+guo de 	过得	c=0 d=4.7843e-05 t=1991
+guo de zao gao 	过得糟糕	c=1 d=0.000480828 t=1991
+guo hou 	过后	c=1 d=0.0184997 t=1991
+guo nian 	过年	c=1 d=0.0129068 t=1991
+guo qu 	过去	c=2 d=0.0379494 t=1991
+guo qu yi nian 	过去一年	c=1 d=0.00172074 t=1991
+ha ha 	哈哈	c=1 d=1 t=1991
+ha su 	哈苏	c=1 d=1 t=1991
+hai 	还	c=2 d=0.745308 t=1991
+hai ga ga 	还嘎嘎	c=1 d=0.980199 t=1991
+hai mei fang jia 	还没放假	c=1 d=0.01649 t=1991
+hai mei you 	还没有	c=1 d=0.00980366 t=1991
+hai shi 	还是	c=1 d=1 t=1991
+hai shi zai 	还是在	c=1 d=0.343009 t=1991
+hai xia 	还下	c=0 d=0.0726149 t=1991
+hai xia qi le yi chang xue 	还下起了一场雪	c=1 d=0.729789 t=1991
+hai yao 	海摇	c=1 d=1 t=1991
+hai you 	还有	c=0 d=0.00303487 t=1991
+hai you bu chang de 	还有不长的	c=1 d=0.0305009 t=1991
+hai zai 	还在	c=1 d=0.32628 t=1991
+han shu 	函数	c=6 d=3.79069 t=1991
+han shu de 	函数的	c=1 d=0.0523397 t=1991
+han shu ming 	函数名	c=1 d=0.00802655 t=1991
+han shu zhi zhen 	函数指针	c=1 d=1 t=1991
+han yi 	含义	c=1 d=0.985112 t=1991
+han zi 	汉字	c=1 d=0.932394 t=1991
+hang hao 	行号	c=2 d=1.84644 t=1991
+hao 	号	c=1 d=0.429557 t=1991
+hao qi 	好奇	c=1 d=0.937067 t=1991
+hao xiang 	好像	c=1 d=0.0430669 t=1991
+he 	和	c=27 d=11.1188 t=1991
+he bie ren 	和别人	c=1 d=0.0225443 t=1991
+he bie ren jiao wang de zhi hui 	和别人交往的智慧	c=1 d=0.000617396 t=1991
+he kai wen 	何凯文	c=1 d=1 t=1991
+he nan li gong da xue 	河南理工大学	c=1 d=0.748264 t=1991
+he ni 	和你	c=1 d=0.00224287 t=1991
+he qu nian 	和去年	c=1 d=0.031273 t=1991
+he wo 	和我	c=1 d=0.451581 t=1991
+hei 	黑	c=1 d=0.99005 t=1991
+hei bai 	黑白	c=1 d=0.99005 t=1991
+hei ti 	黑体	c=1 d=0.00489275 t=1991
+hen 	很	c=1 d=0.0231686 t=1991
+hen chang 	很长	c=1 d=0.00960953 t=1991
+hen chang de 	很长的	c=1 d=0.0555762 t=1991
+hen da 	很大	c=1 d=0.013912 t=1991
+hen da yi bu fen 	很大一部分	c=1 d=0.00212284 t=1991
+hen dan diao 	很单调	c=1 d=0.00218749 t=1991
+hen duan 	很短	c=2 d=0.74315 t=1991
+hen duo 	很多	c=1 d=0.0120946 t=1991
+hen hao 	很好	c=0 d=0.0366045 t=1991
+hen hao ting 	很好听	c=1 d=0.00941925 t=1991
+hen jiu 	很久	c=0 d=0.00211736 t=1991
+hen jiu zhi hou 	很久之后	c=1 d=0.0213864 t=1991
+hen jiu zhi hua 	很久之花	c=1 d=0.0212797 t=1991
+hen kai xin 	很开心	c=0 d=0.0895834 t=1991
+hen za luan 	很杂乱	c=1 d=0.0135686 t=1991
+hen zheng 	很正	c=0 d=0.0970446 t=1991
+hen zheng den shu 	很正扽书	c=1 d=0.97531 t=1991
+hou 	后	c=2 d=0.955997 t=1991
+hou duan 	后端	c=2 d=1.71497 t=1991
+hou xuan 	候选	c=1 d=0.951229 t=1991
+hu lve 	忽略	c=2 d=1.84091 t=1991
+hu lve zhi ding bao 	忽略指定包	c=1 d=0.0293049 t=1991
+hu shi 	忽视	c=1 d=0.141564 t=1991
+hu xiao shan zhuang 	呼啸山庄	c=1 d=0.99005 t=1991
+hu yan 	护眼	c=1 d=0.995012 t=1991
+hu you 	忽悠	c=1 d=0.995012 t=1991
+hua 	花	c=1 d=0.980199 t=1991
+hua 	话	c=2 d=0.00849462 t=1991
+hua gong 	化工	c=1 d=0.980199 t=1991
+hua gong xue yuan 	化工学院	c=0 d=0.0843665 t=1991
+hua yang nian hua 	花样年华	c=1 d=1 t=1991
+hua yu 	华语	c=2 d=1.99005 t=1991
+hua yu 	话语	c=1 d=0.00276698 t=1991
+huai you 	怀有	c=2 d=1.79741 t=1991
+huan hang 	换行	c=3 d=2.26758 t=1991
+huan jing 	环境	c=2 d=0.946485 t=1991
+huan lai de 	换来的	c=1 d=0.0480747 t=1991
+huan le chang 	欢乐场	c=1 d=1 t=1991
+huan le gu 	欢乐谷	c=1 d=0.102797 t=1991
+huan ying 	欢迎	c=1 d=0.960789 t=1991
+huan yu 	欢愉	c=1 d=0.0236356 t=1991
+hui 	会	c=5 d=0.960789 t=1991
+hui da 	回答	c=2 d=1.74716 t=1991
+hui da ma 	回答吗	c=1 d=0.941765 t=1991
+hui da wo ma 	回答我吗	c=1 d=0.980199 t=1991
+hui dao 	回到	c=2 d=0.0322267 t=1991
+hui jia 	回家	c=2 d=0.0221642 t=1991
+hui lai 	回来	c=2 d=0.0388969 t=1991
+hui tou 	回头	c=2 d=0.33138 t=1991
+hui wang 	回望	c=1 d=0.00914087 t=1991
+hui yi 	回忆	c=0 d=4.30743e-05 t=1991
+hui yi zhong 	回忆中	c=1 d=0.000432902 t=1991
+hui you 	会有	c=1 d=0.960789 t=1991
+hui zai 	会在	c=1 d=0.00423234 t=1991
+hui zhi jie 	会直接	c=0 d=0.0136014 t=1991
+hui zhi jie jiang 	会直接将	c=1 d=0.136695 t=1991
+hun li 	婚礼	c=3 d=2.91662 t=1991
+huo 	或	c=2 d=0.960789 t=1991
+huo che 	火车	c=2 d=0.0221626 t=1991
+huo guo lai 	活过来	c=1 d=0.000572785 t=1991
+huo qu 	获取	c=1 d=0.97531 t=1991
+huo zai 	活在	c=0 d=6.02152e-05 t=1991
+huo zai dang xia 	活在当下	c=1 d=0.000448321 t=1991
+huo zhe 	或者	c=1 d=0.000422213 t=1991
+ji 	级	c=2 d=0.0432339 t=1991
+ji ben te xing 	基本特性	c=1 d=0.0520787 t=1991
+ji chu 	基础	c=1 d=0.412714 t=1991
+ji de 	记得	c=1 d=0.0104621 t=1991
+ji hu 	几乎	c=0 d=0.00248475 t=1991
+ji hu mei yi tian 	几乎每一天	c=0 d=0.000194013 t=1991
+ji hu xian ru feng kuang 	几乎陷入疯狂	c=1 d=0.024972 t=1991
+ji hua 	计划	c=1 d=0.0120342 t=1991
+ji jie 	季节	c=1 d=0.0365162 t=1991
+ji kua 	击垮	c=1 d=0.444858 t=1991
+ji lu 	记录	c=2 d=0.955997 t=1991
+ji nei 	机内	c=1 d=0.951229 t=1991
+ji nian 	几年	c=1 d=0.0147723 t=1991
+ji shu xian zhuang 	技术现状	c=1 d=0.852144 t=1991
+ji suan 	计算	c=1 d=0.882497 t=1991
+ji suan ji 	计算机	c=13 d=8.35927 t=1991
+ji xie 	机械	c=2 d=1.65165 t=1991
+ji xu 	继续	c=1 d=0.00324708 t=1991
+ji yu 	基于	c=1 d=0.895834 t=1991
+ji zhu 	记住	c=1 d=0.960789 t=1991
+jia 	夹	c=2 d=1.87603 t=1991
+jia 	家	c=1 d=0.588605 t=1991
+jia jia jian jian 	加加减减	c=1 d=0.174645 t=1991
+jia li 	家里	c=2 d=0.0295817 t=1991
+jia qi 	假期	c=1 d=0.0117959 t=1991
+jia ren men 	家人们	c=2 d=0.0314616 t=1991
+jia shang 	加上	c=1 d=0.131336 t=1991
+jia zhang 	家长	c=1 d=0.557106 t=1991
+jia zhong 	家中	c=0 d=0.00118551 t=1991
+jia zhong de 	家中的	c=1 d=0.0119145 t=1991
+jian 	键	c=2 d=1.62636 t=1991
+jian ce 	检测	c=1 d=0.985112 t=1991
+jian cha 	检查	c=2 d=1.88362 t=1991
+jian da 	建大	c=0 d=0.0302704 t=1991
+jian dan 	简单	c=1 d=0.00390694 t=1991
+jian dan de 	简单的	c=1 d=0.995012 t=1991
+jian dao ni 	见到你	c=1 d=0.00457317 t=1991
+jian hua 	简化	c=1 d=0.26054 t=1991
+jian ji 	剪辑	c=1 d=1 t=1991
+jian jie 	简洁	c=1 d=0.918512 t=1991
+jian pan 	键盘	c=1 d=0.985112 t=1991
+jian tie ban 	剪贴板	c=2 d=1.71912 t=1991
+jian tie ban jiao hu 	剪贴板交互	c=1 d=1 t=1991
+jian tie ban li 	剪贴板里	c=1 d=1 t=1991
+jian tou 	箭头	c=1 d=0.00600598 t=1991
+jian zhu da xue 	建筑大学	c=2 d=1.46003 t=1991
+jiang 	将	c=4 d=3.22328 t=1991
+jiang su 	江苏	c=1 d=0.97531 t=1991
+jiang su da xue 	江苏大学	c=4 d=3.78921 t=1991
+jiang su ke ji da xue 	江苏科技大学	c=1 d=1.0516 t=1991
+jiang su ke ji da xue ji suan ji 	江苏科技大学计算机	c=1 d=0.960789 t=1991
+jiang wo 	将我	c=1 d=0.00115345 t=1991
+jiang zhe ge 	将这个	c=1 d=0.321422 t=1991
+jiao 	焦	c=1 d=1.09851 t=1991
+jiao hu 	交互	c=1 d=0.986422 t=1991
+jiao hui 	教会	c=1 d=0.00304273 t=1991
+jiao liu 	交流	c=1 d=0.0225956 t=1991
+jiao liu bu duo 	交流不多	c=1 d=0.00168667 t=1991
+jiao luo 	角落	c=1 d=0.0407622 t=1991
+jiao pian 	胶片	c=1 d=0.980199 t=1991
+jiao rao 	搅扰	c=1 d=0.0247235 t=1991
+jiao shen me ming zi 	叫什么名字	c=1 d=0.980199 t=1991
+jiao shi 	教师	c=1 d=0.67032 t=1991
+jiao shou 	教授	c=1 d=0.70822 t=1991
+jiao tan 	交谈	c=1 d=0.0020601 t=1991
+jiao wang 	交往	c=1 d=0.0227704 t=1991
+jie 	界	c=1 d=1 t=1991
+jie guo 	结果	c=1 d=0.909373 t=1991
+jie he 	结合	c=1 d=0.878095 t=1991
+jie jiu 	解救	c=1 d=0.00299743 t=1991
+jie jue 	解决	c=1 d=0.980199 t=1991
+jie mian 	界面	c=2 d=1.90856 t=1991
+jie mian she ji 	界面设计	c=1 d=0.960789 t=1991
+jie qu 	截取	c=1 d=0.985112 t=1991
+jie shou de 	接受的	c=1 d=0.316637 t=1991
+jie shu 	结束	c=2 d=0.0752974 t=1991
+jie tuo 	解脱	c=1 d=0.0507928 t=1991
+jie zhe 	接着	c=1 d=0.995012 t=1991
+jin 	近	c=1 d=0.995012 t=1991
+jin guan 	尽管	c=1 d=0.0206508 t=1991
+jin jin 	紧紧	c=1 d=0.00115923 t=1991
+jin nian 	今年	c=3 d=0.960913 t=1991
+jin yong 	禁用	c=2 d=1.87451 t=1991
+jing gao 	警告	c=1 d=0.955997 t=1991
+jing tai 	静态	c=2 d=0.313809 t=1991
+jing tai ban 	静态版	c=1 d=0.170333 t=1991
+jing tai bian liang 	静态变量	c=0 d=0.0105996 t=1991
+jing tai bian liang qu 	静态变量区	c=1 d=0.053397 t=1991
+jing tai bian liang qu 	静态变量去	c=2 d=0.211948 t=1991
+jing xing 	惊醒	c=1 d=0.0466538 t=1991
+jing xing hou 	惊醒后	c=0 d=0.00480747 t=1991
+jing xing hou de 	惊醒后的	c=1 d=0.0483156 t=1991
+jiu chan 	纠缠	c=0 d=0.000127476 t=1991
+jiu du yu 	就读于	c=1 d=0.744532 t=1991
+jiu hen 	就很	c=1 d=0.955997 t=1991
+jiu hui 	就会	c=0 d=0.00880368 t=1991
+jiu hui bao cuo 	就会报错	c=1 d=0.0884781 t=1991
+jiu jie 	纠结	c=1 d=0.0232837 t=1991
+jiu nian lai 	九年来	c=2 d=0.0327456 t=1991
+jiu shi 	就是	c=5 d=1.27457 t=1991
+ju 	距	c=1 d=0.995012 t=1991
+ju da de 	巨大的	c=0 d=5.61443e-05 t=1991
+ju ti 	具体	c=1 d=0.965605 t=1991
+ju xian zai 	局限在	c=1 d=0.0539337 t=1991
+jue ding de 	决定的	c=1 d=0.00369786 t=1991
+jun hui 	均会	c=1 d=0.085435 t=1991
+ka dun 	卡顿	c=1 d=0.965605 t=1991
+kai 	开	c=0 d=0.00113902 t=1991
+kai de 	开得	c=1 d=0.759572 t=1991
+kai de 	开的	c=1 d=0.995012 t=1991
+kai duan 	开端	c=1 d=0.0104099 t=1991
+kai fa 	开发	c=1 d=0.955997 t=1991
+kai qi 	开启	c=4 d=3.16817 t=1991
+kai shi 	开始	c=2 d=1.66223 t=1991
+kai xiao 	开销	c=1 d=0.634448 t=1991
+kai xin 	开心	c=2 d=0.965605 t=1991
+kai yuan 	开源	c=1 d=0.856415 t=1991
+kan bu jian 	看不见	c=1 d=0.000441647 t=1991
+kan dao 	看到	c=2 d=0.640604 t=1991
+kan dao de 	看到的	c=1 d=0.0320647 t=1991
+kan hua 	看花	c=1 d=0.794534 t=1991
+kan jian 	看见	c=0 d=5.39429e-05 t=1991
+kan jian xin de yi tian 	看见新的一天	c=1 d=0.000542133 t=1991
+kan le 	看了	c=1 d=0.980199 t=1991
+kan zhe 	看着	c=1 d=0.951229 t=1991
+kao 	靠	c=2 d=1.94605 t=1991
+kao chang 	考场	c=1 d=0.433228 t=1991
+kao chang shang 	考场上	c=1 d=0.404542 t=1991
+kao chang shang de 	考场上的	c=2 d=0.789198 t=1991
+kao shang 	考上	c=1 d=0.366045 t=1991
+kao shi 	考试	c=1 d=0.0106734 t=1991
+kao wan 	考完	c=1 d=0.479505 t=1991
+kao wan shi 	考完试	c=1 d=0.367879 t=1991
+kao yan 	考研	c=4 d=2.93575 t=1991
+kao yan 	考验	c=1 d=0.985112 t=1991
+ke 	可	c=0 d=0.0534438 t=1991
+ke diao yong 	可调用	c=1 d=0.275271 t=1991
+ke diao yong dui xiang 	可调用对象	c=2 d=0.544084 t=1991
+ke ji 	科技	c=2 d=1.49336 t=1991
+ke long 	克隆	c=3 d=2.51356 t=1991
+ke mu 	科目	c=1 d=0.377192 t=1991
+ke shi 	可是	c=2 d=0.0399143 t=1991
+ke wo 	可我	c=0 d=5.96161e-05 t=1991
+ke wo de 	可我的	c=1 d=0.000599149 t=1991
+ke xue 	科学	c=2 d=1.65993 t=1991
+ke yi 	可以	c=8 d=2.75512 t=1991
+ke yi bei 	可以被	c=1 d=0.217621 t=1991
+ke yi diao yong 	可以调用	c=1 d=0.265803 t=1991
+ke yi fen pei 	可以分配	c=1 d=0.071719 t=1991
+ke yi qing su 	可以倾诉	c=0 d=0.000178203 t=1991
+ke yi she zhi 	可以设置	c=1 d=0.909373 t=1991
+ke yi shi 	可以使	c=0 d=0.0955997 t=1991
+ke yi shi wei 	可以视为	c=1 d=0.186374 t=1991
+ke yi shi yong 	可以使用	c=1 d=0.00748391 t=1991
+ke yi shi yong ma 	可以使用吗	c=1 d=0.960789 t=1991
+ke yi xiang 	可以向	c=1 d=0.00121866 t=1991
+ke zhi xing 	可执行	c=1 d=0.740818 t=1991
+kong 	空	c=1 d=0.99005 t=1991
+kong jian 	空间	c=2 d=0.976246 t=1991
+kong kong de 	空空的	c=1 d=0.000430743 t=1991
+kong xu 	空虚	c=1 d=0.650509 t=1991
+kong zhi 	控制	c=2 d=1.97521 t=1991
+ku 	库	c=2 d=0.129199 t=1991
+ku qi 	哭泣	c=1 d=0.0158434 t=1991
+ku wen jian 	库文件	c=1 d=0.00790705 t=1991
+ku yue liang 	苦月亮	c=2 d=1.99005 t=1991
+kuai jie jian 	快捷键	c=3 d=2.54202 t=1991
+kuai men 	快门	c=0 d=0.0970446 t=1991
+kuai men de 	快门的	c=1 d=0.97531 t=1991
+kuang ye da xue 	矿业大学	c=1 d=0.970446 t=1991
+kuo hao li 	括号里	c=0 d=0.0268474 t=1991
+kuo hao li ke yi 	括号里可以	c=1 d=0.26982 t=1991
+lai 	来	c=4 d=1.01344 t=1991
+lai dao 	来到	c=2 d=0.0387215 t=1991
+lai de 	来的	c=1 d=0.985112 t=1991
+lan diao 	蓝调	c=1 d=1 t=1991
+lan ya 	蓝牙	c=2 d=1.81425 t=1991
+lang fei 	浪费	c=1 d=0.392586 t=1991
+lao di fang 	老地方	c=1 d=0.0328764 t=1991
+lao jia 	老家	c=2 d=0.0334071 t=1991
+lao nan hai 	老男孩	c=1 d=1 t=1991
+le 	了	c=4 d=2.55784 t=1991
+le qi lai 	了起来	c=1 d=0.0968105 t=1991
+le wo 	了我	c=1 d=0.447088 t=1991
+lei 	类	c=2 d=1.92741 t=1991
+lei dui xiang 	类对象	c=1 d=0.0833256 t=1991
+lei xing 	类型	c=5 d=0.475038 t=1991
+lei xing shi 	类型时	c=1 d=0.133989 t=1991
+leng 	冷	c=2 d=0.818855 t=1991
+li 	里	c=32 d=12.9519 t=1991
+li de 	里的	c=3 d=2.61904 t=1991
+li kai 	离开	c=1 d=0.0303487 t=1991
+li mian 	里面	c=2 d=0.937068 t=1991
+li wo 	离我	c=1 d=0.67368 t=1991
+li you 	里有	c=1 d=0.00794669 t=1991
+lian biao 	链表	c=1 d=0.382893 t=1991
+lian wang 	联网	c=1 d=0.909373 t=1991
+liang de 	凉的	c=0 d=0.0236928 t=1991
+liang du 	亮度	c=1 d=0.995012 t=1991
+liang ge 	两个	c=2 d=1.90823 t=1991
+liang ge ren 	两个人	c=1 d=0.980199 t=1991
+liang li de wai biao 	靓丽的外表	c=1 d=0.0241131 t=1991
+liang miao hou 	两秒后	c=1 d=0.311923 t=1991
+liang se 	亮色	c=2 d=0.00141328 t=1991
+liao jie dao 	了解到	c=1 d=0.839457 t=1991
+liao tian 	聊天	c=1 d=0.0415857 t=1991
+lin dao 	临到	c=0 d=0.0532592 t=1991
+lin dao wo 	临到我	c=1 d=0.535261 t=1991
+lin shi 	临时	c=1 d=1 t=1991
+lin ye 	林业	c=0 d=0.0937067 t=1991
+ling 	另	c=1 d=0.83527 t=1991
+ling 	灵	c=1 d=1 t=1991
+ling min 	灵敏	c=1 d=0.995012 t=1991
+ling ni 	令你	c=0 d=0.000324708 t=1991
+ling shou 	领受	c=1 d=0.000508015 t=1991
+ling yi duan 	另一端	c=1 d=0.101266 t=1991
+ling yu 	领域	c=3 d=2.55803 t=1991
+liu chang 	流畅	c=1 d=0.878095 t=1991
+liu de hua 	刘德华	c=2 d=1.99501 t=1991
+liu ji 	六级	c=2 d=1.99501 t=1991
+liu shi 	流失	c=1 d=0.694197 t=1991
+liu shi 	流逝	c=1 d=0.697676 t=1991
+liu xia 	留下	c=1 d=0.179964 t=1991
+lou fang 	楼房	c=1 d=0.0338776 t=1991
+lu jing 	路径	c=4 d=3.59753 t=1991
+lu qu 	录取	c=1 d=0.307279 t=1991
+lu xiang 	录像	c=1 d=1 t=1991
+lu xu 	陆续	c=1 d=0.0190631 t=1991
+lu yin 	录音	c=1 d=0.0173355 t=1991
+lun tan 	论坛	c=1 d=0.99005 t=1991
+luo mi ou 	罗密欧	c=1 d=1 t=1991
+luo mi ou yu zhu li ye 	罗密欧与朱丽叶	c=1 d=1 t=1991
+luo ri 	落日	c=1 d=1 t=1991
+lv tu 	旅途	c=1 d=0.0113334 t=1991
+ma 	吗	c=3 d=0.173633 t=1991
+ma bi 	麻痹	c=1 d=0.66034 t=1991
+ma mu 	麻木	c=1 d=0.0450492 t=1991
+man le 	满了	c=1 d=0.000578542 t=1991
+mao hao 	冒号	c=1 d=0.941765 t=1991
+me 	么	c=1 d=0.909373 t=1991
+mei 	没	c=0 d=0.0251579 t=1991
+mei ci 	每次	c=1 d=0.965605 t=1991
+mei hao 	美好	c=1 d=1 t=1991
+mei hao de hui yi 	美好的回忆	c=1 d=0.0205478 t=1991
+mei hao de jian zheng 	美好的见证	c=1 d=0.00286554 t=1991
+mei tian 	每天	c=1 d=0.600496 t=1991
+mei yi men 	每一门	c=1 d=0.375311 t=1991
+mei you 	没有	c=11 d=1.3309 t=1991
+mei you 	煤油	c=1 d=0.0695994 t=1991
+mei you di zhi 	没有地址	c=1 d=0.25284 t=1991
+mei you sheng yin 	没有声音	c=1 d=0.000437252 t=1991
+mei you tai duo 	没有太多	c=1 d=0.00219846 t=1991
+mei you yong 	没有用	c=1 d=0.960789 t=1991
+men 	焖	c=1 d=0.99005 t=1991
+meng ban 	蒙版	c=1 d=1 t=1991
+meng long 	朦胧	c=1 d=0.99005 t=1991
+mi ma 	密码	c=1 d=0.843665 t=1991
+mi shi 	迷失	c=0 d=0.00483156 t=1991
+mi shi le 	迷失了	c=1 d=0.0459593 t=1991
+mi shi zai 	迷失在	c=1 d=0.0485578 t=1991
+mi yao 	密钥	c=2 d=1.92741 t=1991
+mian 	面	c=1 d=0.918512 t=1991
+miao shu 	描述	c=1 d=0.97531 t=1991
+ming 	名	c=1 d=0.00806679 t=1991
+ming ling 	命令	c=4 d=2.54867 t=1991
+ming zi 	名字	c=1 d=0.00932553 t=1991
+mo kuai 	模块	c=1 d=1.00188 t=1991
+mo ren 	默认	c=5 d=3.73394 t=1991
+mo ren gou zao 	默认构造	c=1 d=0.0862936 t=1991
+mo ren gou zao han shu 	默认构造函数	c=1 d=0.0880368 t=1991
+mo shi 	模式	c=3 d=2.10574 t=1991
+mo shi shi bie 	模式识别	c=1 d=0.980199 t=1991
+mo shi xia 	模式下	c=1 d=0.000863083 t=1991
+mo xi ge 	墨西哥	c=1 d=1 t=1991
+mou ge 	某个	c=1 d=0.932394 t=1991
+mou ge shi ke 	某个时刻	c=1 d=0.00052611 t=1991
+mou xie 	某些	c=1 d=0.369723 t=1991
+mu ban li 	模板里	c=1 d=0.970446 t=1991
+mu biao 	目标	c=1 d=0.0122161 t=1991
+mu lu 	目录	c=0 d=0.0951229 t=1991
+mu lu xia 	目录下	c=1 d=0.818731 t=1991
+na 	那	c=1 d=0.00388572 t=1991
+na duan 	那段	c=1 d=0.810584 t=1991
+na ge 	哪个	c=2 d=1.60653 t=1991
+na ge 	那个	c=2 d=0.349718 t=1991
+na ju da de 	那巨大的	c=1 d=0.000564257 t=1991
+na me 	那么	c=1 d=0.0356146 t=1991
+na shi 	那时	c=3 d=1.23576 t=1991
+na shi de 	那时的	c=1 d=0.000593188 t=1991
+na xie 	那些	c=0 d=0.00168231 t=1991
+na xie shi jian li 	那些时间里	c=1 d=0.0169075 t=1991
+na yi 	那一	c=0 d=0.088692 t=1991
+na yi nian 	那一年	c=1 d=0.00196945 t=1991
+na yi zheng ge 	那一整个	c=1 d=0.891366 t=1991
+nai 	奶	c=1 d=0.00532682 t=1991
+nai jiu 	耐久	c=1 d=0.00559994 t=1991
+nai you 	奶油	c=1 d=1 t=1991
+nei 	内	c=1 d=0.918512 t=1991
+nei cun 	内存	c=4 d=0.355387 t=1991
+nei jian 	内建	c=1 d=1 t=1991
+nei rong 	内容	c=5 d=3.69768 t=1991
+nei xin 	内心	c=1 d=0.0244775 t=1991
+neng 	能	c=2 d=0.374111 t=1991
+neng bu neng 	能不能	c=1 d=0.900325 t=1991
+neng gou 	能够	c=1 d=0.00416933 t=1991
+neng yong 	能用	c=1 d=0.992391 t=1991
+neng you 	能有	c=1 d=0.843665 t=1991
+ni 	你	c=5 d=2.33868 t=1991
+ni ai 	你爱	c=2 d=0.00232462 t=1991
+ni ai wo 	你爱我	c=0 d=0.000110269 t=1991
+ni ai wo ren shi wo 	你爱我认识我	c=1 d=0.00110822 t=1991
+ni chu xian zai wo de 	你出现在我的	c=1 d=0.362402 t=1991
+ni de 	你的	c=1 d=0.00135358 t=1991
+ni de xiang fa 	你的想法	c=1 d=0.000845993 t=1991
+ni gao su guo wo 	你告诉过我	c=1 d=0.00257991 t=1991
+ni hao 	你好	c=5 d=1.32747 t=1991
+ni hao ma 	你好吗	c=1 d=0.000639387 t=1991
+ni hui 	你会	c=0 d=0.000257991 t=1991
+ni hui yi zhi zai zhe li 	你会一直在这里	c=1 d=0.00259284 t=1991
+ni kang 	尼康	c=11 d=9.86853 t=1991
+ni liao jie 	你了解	c=0 d=0.000182715 t=1991
+ni liao jie wo 	你了解我	c=1 d=0.0018363 t=1991
+ni lu qu 	拟录取	c=2 d=1.63593 t=1991
+ni mei you 	你没有	c=1 d=0.00256704 t=1991
+ni neng yong 	你能用	c=1 d=0.970446 t=1991
+ni shi 	你是	c=1 d=0.995012 t=1991
+ni shi wo de 	你是我的	c=2 d=0.00143877 t=1991
+ni shi wo de zhu 	你是我的主	c=1 d=0.00108086 t=1991
+ni shou 	你手	c=2 d=0.00233628 t=1991
+ni xiang 	你想	c=0 d=6.7217e-05 t=1991
+ni xiang dao na li qu 	你想到哪里去	c=1 d=0.000675539 t=1991
+ni you 	你有	c=1 d=0.00451577 t=1991
+ni zai na 	你在哪	c=1 d=0.000662162 t=1991
+ni zen me kan 	你怎么看	c=1 d=0.364219 t=1991
+ni zuo dao le 	你做到了	c=1 d=0.00260584 t=1991
+nian 	年	c=2 d=0.0202461 t=1991
+nong ye 	农业	c=1 d=0.822835 t=1991
+nu li 	努力	c=1 d=0.037068 t=1991
+nv hai 	女孩	c=1 d=0.909373 t=1991
+nv sheng 	女生	c=1 d=0.970446 t=1991
+ou ran 	偶然	c=1 d=0.0422141 t=1991
+pai lei 	牌类	c=1 d=0.985112 t=1991
+pai lie 	排列	c=1 d=0.99005 t=1991
+pai ming 	排名	c=2 d=1.36837 t=1991
+pai zhao 	拍照	c=2 d=1.59451 t=1991
+pan 	盘	c=1 d=0.00148848 t=1991
+pan duan 	判断	c=1 d=0.0086517 t=1991
+pan wang 	盼望	c=0 d=0.000117088 t=1991
+pang huang 	彷徨	c=1 d=0.99005 t=1991
+pao tong 	跑通	c=1 d=1 t=1991
+pei ban 	陪伴	c=1 d=0.00173804 t=1991
+pei zhe ni 	陪着你	c=1 d=0.00427488 t=1991
+pei zhi 	配置	c=4 d=3.10031 t=1991
+peng you 	朋友	c=5 d=0.0440211 t=1991
+pi fu 	皮肤	c=0 d=0.0909373 t=1991
+pi fu ma 	皮肤吗	c=1 d=0.913931 t=1991
+pi juan 	疲倦	c=1 d=0.0490458 t=1991
+pi lao 	疲劳	c=1 d=0.0502874 t=1991
+pian ke 	片刻	c=1 d=0.0234005 t=1991
+piao dang 	飘荡	c=1 d=0.000435072 t=1991
+piao luo 	飘落	c=0 d=0.00361528 t=1991
+piao luo de 	飘落的	c=1 d=0.036334 t=1991
+pin yin 	拼音	c=1 d=0.852144 t=1991
+ping 	屏	c=1 d=0.970446 t=1991
+ping an 	平安	c=3 d=0.00711215 t=1991
+ping hua 	平滑	c=2 d=1.76578 t=1991
+ping mu 	屏幕	c=4 d=3.00202 t=1991
+ping mu de 	屏幕的	c=1 d=0.0295994 t=1991
+ping mu zai 	屏幕在	c=1 d=0.000761668 t=1991
+pu tong 	普通	c=0 d=0.00761538 t=1991
+qi 	其	c=0 d=0.0128093 t=1991
+qi 	启	c=1 d=0.690734 t=1991
+qi che 	汽车	c=1 d=0.99005 t=1991
+qi dong 	启动	c=2 d=1.8385 t=1991
+qi dong ye mian 	启动页面	c=1 d=0.843665 t=1991
+qi ji 	奇迹	c=1 d=1.08461 t=1991
+qi ji de 	奇迹的	c=0 d=0.097531 t=1991
+qi ji de shan 	奇迹的山	c=1 d=0.980199 t=1991
+qi ji zhi shan 	奇迹之山	c=1 d=1 t=1991
+qi jian 	期间	c=1 d=0.923116 t=1991
+qi lai 	起来	c=0 d=0.00963276 t=1991
+qi le 	起了	c=0 d=0.0726149 t=1991
+qi mo 	期末	c=1 d=0.0106202 t=1991
+qi pian wo 	欺骗我	c=1 d=0.0397558 t=1991
+qi xu 	期许	c=1 d=0.0284388 t=1991
+qian jin 	前进	c=1 d=0.00375375 t=1991
+qian jing 	前景	c=1 d=0.873716 t=1991
+qian liang tian 	前两天	c=1 d=0.0409665 t=1991
+qian ru shi 	嵌入式	c=1 d=0.970446 t=1991
+qiang zhi de 	强制的	c=1 d=0.99005 t=1991
+qiao ran 	悄然	c=0 d=0.000169512 t=1991
+qiao ran er shi 	悄然而逝	c=1 d=0.00170362 t=1991
+qie 	且	c=1 d=0.268474 t=1991
+qie huan 	切换	c=1 d=0.960789 t=1991
+qie huan cheng 	切换成	c=2 d=0.00149209 t=1991
+qie huan cheng an se 	切换成暗色	c=1 d=0.000720907 t=1991
+qing 	请	c=2 d=1.62281 t=1991
+qing ba 	请把	c=0 d=0.0980199 t=1991
+qing ba ta 	请把他	c=1 d=0.985112 t=1991
+qing chu 	清除	c=1 d=0.937068 t=1991
+qing hua 	清华	c=2 d=1.80878 t=1991
+qing kuang 	情况	c=1 d=0.000982903 t=1991
+qing nian 	青年	c=1 d=0.941765 t=1991
+qing wen 	请问	c=1 d=0.970446 t=1991
+qing yin yue 	轻音乐	c=1 d=1 t=1991
+qing yong 	请用	c=3 d=2.57233 t=1991
+qing zhu 	庆祝	c=1 d=0.913931 t=1991
+qiu qi 	求其	c=0 d=0.0104874 t=1991
+qiu qu 	求取	c=0 d=0.0116484 t=1991
+qiu tian 	秋天	c=1 d=0.0095616 t=1991
+qu 	区	c=0 d=0.0214349 t=1991
+qu 	去	c=2 d=1.99501 t=1991
+qu bie 	区别	c=5 d=4.14154 t=1991
+qu nian 	去年	c=4 d=0.0703117 t=1991
+qu nian de 	去年的	c=1 d=0.0136366 t=1991
+qu yu 	区域	c=1 d=0.913931 t=1991
+quan bu 	全部	c=2 d=0.0631763 t=1991
+quan ju bian liang 	全局变量	c=0 d=0.0168638 t=1991
+quan ju bian liang he 	全局变量和	c=1 d=0.169483 t=1991
+quan ping 	全屏	c=2 d=1.86562 t=1991
+quan xian 	权限	c=1 d=0.946485 t=1991
+que 	却	c=2 d=0.895834 t=1991
+que bei 	却被	c=1 d=0.941765 t=1991
+que dian 	缺点	c=2 d=0.0231756 t=1991
+que ding le 	确定了	c=1 d=0.16696 t=1991
+que mei you 	却没有	c=1 d=0.0154523 t=1991
+que shi 	确实	c=1 d=0.00400585 t=1991
+que you 	却又	c=1 d=0.704688 t=1991
+ran wo 	然我	c=1 d=0.0492917 t=1991
+rang 	让	c=4 d=2.99866 t=1991
+rang wo 	让我	c=0 d=5.10561e-05 t=1991
+rang wo de 	让我的	c=1 d=0.0017555 t=1991
+rang wo di di 	让我弟弟	c=1 d=0.0141223 t=1991
+rang wo shi wang de 	让我失望的	c=1 d=0.00051312 t=1991
+rang yi ge 	让一个	c=1 d=0.97531 t=1991
+re zhen 	热枕	c=1 d=0.869358 t=1991
+ren gong 	人工	c=2 d=1.75181 t=1991
+ren gong zhi neng 	人工智能	c=2 d=1.50064 t=1991
+ren gong zhi neng xue yuan 	人工智能学院	c=1 d=0.955997 t=1991
+ren he 	任何	c=1 d=0.548812 t=1991
+ren ji 	人际	c=1 d=0.00296761 t=1991
+ren qun 	人群	c=1 d=0.034562 t=1991
+ren sheng de dao li 	人生的道理	c=1 d=0.000614317 t=1991
+ren sheng lu 	人生路	c=0 d=0.000118858 t=1991
+ren shi 	人是	c=1 d=0.000446085 t=1991
+ren shi wo 	认识我	c=0 d=0.000110269 t=1991
+ren xing 	任性	c=1 d=0.0269169 t=1991
+ren zai 	人在	c=1 d=0.000455097 t=1991
+reng shi 	仍是	c=1 d=0.932394 t=1991
+ri chang 	日常	c=1 d=0.0290133 t=1991
+ri chu 	日出	c=1 d=0.995012 t=1991
+rong ru 	融入	c=1 d=0.0368832 t=1991
+ru guo 	如果	c=8 d=0.446104 t=1991
+ru guo mei you 	如果没有	c=1 d=0.139457 t=1991
+ru he 	如何	c=6 d=4.66574 t=1991
+ru jin 	如今	c=1 d=0.000620491 t=1991
+ru xia 	如下	c=1 d=0.860708 t=1991
+ruan jian 	软件	c=4 d=2.74011 t=1991
+ruo wu 	若无	c=1 d=0.000437388 t=1991
+ruo wu suo shi 	若无所事	c=1 d=0.000399619 t=1991
+san ge 	三个	c=1 d=0.158025 t=1991
+san nian duo 	三年多	c=1 d=0.0374406 t=1991
+san yue 	三月	c=2 d=1.59616 t=1991
+san yue chu 	三月初	c=1 d=0.726149 t=1991
+se wen 	色温	c=1 d=0.0297478 t=1991
+sha jun 	杀菌	c=1 d=0.97531 t=1991
+shan 	山	c=1 d=1.09254 t=1991
+shan beng 	山崩	c=1 d=0.995012 t=1991
+shan chu 	删除	c=6 d=4.98896 t=1991
+shang 	上	c=11 d=5.37197 t=1991
+shang ci 	上次	c=1 d=0.336216 t=1991
+shang de 	上的	c=1 d=0.99005 t=1991
+shang di 	上帝	c=2 d=0.00616268 t=1991
+shang wu 	上午	c=1 d=0.431711 t=1991
+shao 	烧	c=1 d=0.995012 t=1991
+shao yu 	少于	c=1 d=0.818731 t=1991
+she ji 	涉及	c=1 d=0.927743 t=1991
+she wei 	设为	c=2 d=0.0070179 t=1991
+she ying 	摄影	c=2 d=1.9459 t=1991
+she zhi 	设置	c=20 d=9.72336 t=1991
+she zhi de 	设置得	c=0 d=0.0937067 t=1991
+she zhi de bian liang 	设置得变量	c=1 d=0.941765 t=1991
+she zhi wei 	设置为	c=1 d=0.0240249 t=1991
+she zhi wei kong 	设置为空	c=1 d=0.193013 t=1991
+shen 	什	c=1 d=0.0152985 t=1991
+shen 	神	c=0 d=0.0965605 t=1991
+shen de 	神的	c=1 d=0.00275318 t=1991
+shen duo 	甚多	c=1 d=0.472367 t=1991
+shen gen zhang zhi 	神根涨至	c=1 d=0.970446 t=1991
+shen me 	什么	c=3 d=0.778801 t=1991
+shen me yi si 	什么意思	c=2 d=1.87045 t=1991
+shen qing 	申请	c=1 d=0.0808629 t=1991
+sheng 	生	c=2 d=1.88589 t=1991
+sheng cheng 	生成	c=5 d=3.63628 t=1991
+sheng hou 	生后	c=1 d=0.0380064 t=1991
+sheng huo 	生活	c=3 d=0.0523478 t=1991
+sheng huo de 	生活的	c=1 d=0.594521 t=1991
+sheng huo zhong 	生活中	c=0 d=4.93001e-05 t=1991
+sheng huo zhong lai de 	生活中来的	c=1 d=0.000495472 t=1991
+sheng ji 	升级	c=2 d=1.92741 t=1991
+sheng ming 	声明	c=1 d=0.0141427 t=1991
+sheng ming 	生命	c=1 d=0.0550232 t=1991
+sheng yin 	声音	c=1 d=0.0181334 t=1991
+shi 	事	c=0 d=3.97625e-05 t=1991
+shi 	使	c=2 d=1.80572 t=1991
+shi 	时	c=11 d=6.25063 t=1991
+shi 	是	c=22 d=5.35099 t=1991
+shi 	视	c=1 d=0.106459 t=1991
+shi 	逝	c=0 d=0.000169512 t=1991
+shi bie 	识别	c=1 d=0.860708 t=1991
+shi de 	使得	c=3 d=0.900325 t=1991
+shi dian 	十点	c=1 d=0.433874 t=1991
+shi fen zhong hou 	十分钟后	c=1 d=0.501576 t=1991
+shi fou 	是否	c=1 d=0.822835 t=1991
+shi gao 	石膏	c=0 d=0.032628 t=1991
+shi hou 	时候	c=4 d=2.86456 t=1991
+shi hua 	实话	c=1 d=0.164474 t=1991
+shi jian 	时间	c=5 d=1.95626 t=1991
+shi jian li 	时间里	c=0 d=0.00168231 t=1991
+shi jiu hao 	十九号	c=1 d=0.852144 t=1991
+shi liu fen 	十六分	c=0 d=0.029523 t=1991
+shi na jiu wen 	十拿九稳	c=1 d=0.960789 t=1991
+shi pin 	视频	c=1 d=0.995012 t=1991
+shi qi 	十七	c=1 d=0.790571 t=1991
+shi qi 	湿气	c=1 d=0.0972957 t=1991
+shi qing 	事情	c=8 d=2.14418 t=1991
+shi qu 	失去	c=1 d=0.227638 t=1991
+shi se qi 	拾色器	c=1 d=0.970446 t=1991
+shi shen me 	是什么	c=8 d=6.10414 t=1991
+shi shen me yi si 	是什么意思	c=4 d=3.45436 t=1991
+shi shi 	实时	c=1 d=0.927744 t=1991
+shi tian qian 	十天前	c=1 d=0.344728 t=1991
+shi tu 	试图	c=1 d=0.408608 t=1991
+shi wan ba qian li 	十万八千里	c=1 d=0.677057 t=1991
+shi wang 	失望	c=1 d=0.00292342 t=1991
+shi wang de 	失望的	c=0 d=5.10561e-05 t=1991
+shi wo 	使我	c=1 d=0.0497871 t=1991
+shi wo 	是我	c=2 d=0.0642136 t=1991
+shi xi 	实习	c=1 d=0.963306 t=1991
+shi xi dan wei 	实习单位	c=1 d=0.831104 t=1991
+shi xi shou huo 	实习收获	c=1 d=0.856415 t=1991
+shi xi zong jie 	实习总结	c=1 d=0.802519 t=1991
+shi xian 	实现	c=4 d=2.95875 t=1991
+shi yao 	是要	c=1 d=0.0658748 t=1991
+shi yi ge 	是一个	c=1 d=0.273898 t=1991
+shi yi hao 	十一号	c=1 d=0.0105672 t=1991
+shi yong 	使用	c=23 d=9.26296 t=1991
+shi yong le 	使用了	c=1 d=0.980199 t=1991
+shi yong shuo ming 	使用说明	c=1 d=0.937068 t=1991
+shi zai 	是在	c=1 d=0.0923116 t=1991
+shi zai wo 	是在我	c=1 d=0.927743 t=1991
+shi zui hao de 	是最好的	c=1 d=0.909373 t=1991
+shou ci 	首次	c=1 d=0.00637737 t=1991
+shou dong jing tou 	手动镜头	c=1 d=0.782705 t=1991
+shou huo 	收获	c=0 d=0.0852144 t=1991
+shou ji 	手机	c=1 d=0.301194 t=1991
+shou ji 	收集	c=1 d=0.980199 t=1991
+shu 	书	c=0 d=0.0970446 t=1991
+shu biao 	鼠标	c=2 d=1.89356 t=1991
+shu biao zhi zhen 	鼠标指针	c=1 d=0.941765 t=1991
+shu ju wa jue 	数据挖掘	c=1 d=0.970446 t=1991
+shu li 	数理	c=1 d=0.856415 t=1991
+shu lian 	熟练	c=2 d=1.63399 t=1991
+shu mu 	树木	c=0 d=0.00306538 t=1991
+shu mu hui 	树木会	c=1 d=0.0308074 t=1991
+shu qian 	书签	c=2 d=1.67584 t=1991
+shu ru 	输入	c=1 d=0.951229 t=1991
+shu ru fa 	输入法	c=3 d=2.7006 t=1991
+shu shi 	舒适	c=1 d=0.597501 t=1991
+shu xing 	属性	c=2 d=0.980199 t=1991
+shu xue 	数学	c=2 d=1.82532 t=1991
+shu yu 	属于	c=0 d=0.00385808 t=1991
+shu yuan 	疏远	c=1 d=0.00240549 t=1991
+shu zu 	数组	c=1 d=0.075774 t=1991
+shuang 	双	c=1 d=0.932394 t=1991
+shui 	谁	c=1 d=1 t=1991
+shui mian zhong 	睡眠中	c=1 d=0.04573 t=1991
+shuo hua 	说话	c=1 d=0.00195963 t=1991
+shuo ming 	说明	c=1 d=0.955997 t=1991
+shuo shen me 	说什么	c=1 d=0.00181803 t=1991
+si 	四	c=1 d=0.427415 t=1991
+si dian 	四点	c=0 d=0.029523 t=1991
+si dian shi liu fen 	四点十六分	c=1 d=0.29671 t=1991
+si hu 	似乎	c=1 d=0.00202943 t=1991
+si kao 	思考	c=0 d=6.08204e-05 t=1991
+si xu 	思绪	c=3 d=0.0268088 t=1991
+si yue shi hao 	四月十号	c=1 d=0.292293 t=1991
+song xia 	松下	c=3 d=2.96531 t=1991
+sou suo 	搜索	c=1 d=0.941765 t=1991
+su shuo 	诉说	c=1 d=0.00472447 t=1991
+su zhou 	苏州	c=1 d=0.937067 t=1991
+suan fa 	算法	c=1 d=0.995012 t=1991
+sui 	随	c=2 d=0.300022 t=1991
+sui bi 	随笔	c=1 d=0.00909528 t=1991
+sui ran 	虽然	c=1 d=0.00208081 t=1991
+suo 	所	c=0 d=3.97625e-05 t=1991
+suo chu de 	所处的	c=1 d=0.913931 t=1991
+suo jin 	缩进	c=1 d=0.932394 t=1991
+suo lve 	缩略	c=1 d=0.995012 t=1991
+suo shi 	所示	c=1 d=0.182684 t=1991
+suo shu 	所属	c=2 d=1.84366 t=1991
+suo xiao 	缩小	c=1 d=0.941765 t=1991
+suo xiao de 	缩小的	c=1 d=0.000829241 t=1991
+suo xie 	缩写	c=2 d=1.86946 t=1991
+suo yi 	所以	c=3 d=0.56175 t=1991
+suo yi wo men 	所以我们	c=1 d=0.229925 t=1991
+suo yi wu fa 	所以无法	c=1 d=0.126818 t=1991
+suo you 	所有	c=1 d=0.0780817 t=1991
+ta 	他	c=1 d=0.0980199 t=1991
+ta 	她	c=1 d=0.0175097 t=1991
+ta 	它	c=1 d=1.05023 t=1991
+ta chen deng chun 	它臣等春	c=1 d=0.995012 t=1991
+ta jiang 	他将	c=1 d=0.000555857 t=1991
+ta men 	他们	c=3 d=0.0808448 t=1991
+ta shang le 	踏上了	c=1 d=0.0111647 t=1991
+tai 	太	c=1 d=0.99005 t=1991
+tan 	谭	c=1 d=0.677057 t=1991
+tan chu 	弹出	c=1 d=0.927743 t=1991
+tan zhi 	谭志	c=1 d=0.683861 t=1991
+tang guo 	糖果	c=1 d=0.909373 t=1991
+ti chu 	提出	c=1 d=0.923116 t=1991
+ti dan 	题单	c=1 d=0.965605 t=1991
+ti huan 	替换	c=2 d=0.951229 t=1991
+ti huan wei 	替换为	c=1 d=0.138069 t=1991
+ti ji 	体积	c=2 d=1.95123 t=1991
+ti jiao 	提交	c=2 d=1.64156 t=1991
+ti shi 	提示	c=1 d=0.839457 t=1991
+tian 	田	c=2 d=1.39198 t=1991
+tian bao 	填报	c=1 d=0.463013 t=1991
+tian jia 	添加	c=2 d=1.80063 t=1991
+tian jin gong ye da xue 	天津工业大学	c=1 d=0.860708 t=1991
+tian qi 	天气	c=2 d=0.810707 t=1991
+tiao di 	调低	c=1 d=1 t=1991
+tiao guo 	跳过	c=1 d=0.0575558 t=1991
+tiao jie 	调节	c=3 d=2.92862 t=1991
+tiao shi 	调试	c=1 d=0.980199 t=1991
+tiao zhuan 	跳转	c=1 d=0.960789 t=1991
+ting bu jian 	听不见	c=0 d=4.37252e-05 t=1991
+ting jian 	听见	c=2 d=0.0359101 t=1991
+ting qi lai 	听起来	c=1 d=0.00937227 t=1991
+ting wo shuo 	听我说	c=1 d=0.00185476 t=1991
+ting zhi le 	停止了	c=0 d=4.01622e-05 t=1991
+tong bu 	同步	c=2 d=1.77404 t=1991
+tong deng 	同等	c=1 d=0.960789 t=1991
+tong guo 	通过	c=2 d=1.81775 t=1991
+tong yi ge 	同一个	c=1 d=0.995012 t=1991
+tong zhi 	通知	c=1 d=0.308819 t=1991
+tou cha fa 	头插法	c=1 d=0.386741 t=1991
+tu 	图	c=1 d=1 t=1991
+tu mu 	土木	c=2 d=1.55061 t=1991
+tu pian 	图片	c=6 d=5.19817 t=1991
+tu rang 	土壤	c=1 d=0.970446 t=1991
+tu xing 	图形	c=1 d=0.932394 t=1991
+tuan ju 	团聚	c=1 d=0.0135009 t=1991
+tui chu 	退出	c=0 d=0.0946485 t=1991
+tui chu de 	退出的	c=1 d=0.951229 t=1991
+tui chu shi 	退出时	c=1 d=0.97531 t=1991
+tui duan 	推断	c=2 d=0.253893 t=1991
+tui duan chu 	推断出	c=2 d=0.251142 t=1991
+tui jian 	推荐	c=1 d=0.839457 t=1991
+wai 	外	c=1 d=0.571209 t=1991
+wan 	完	c=1 d=0.621885 t=1991
+wan 	玩	c=1 d=0.625002 t=1991
+wan ren 	万人	c=0 d=0.000109719 t=1991
+wan ren zhong wei du 	万人中唯独	c=1 d=0.00110269 t=1991
+wang luo 	网络	c=1 d=0.00132678 t=1991
+wang na 	往哪	c=0 d=0.000369786 t=1991
+wang ye 	网页	c=4 d=3.60811 t=1991
+wang ye xian shi 	网页显示	c=1 d=1 t=1991
+wang zhan 	网站	c=5 d=3.56951 t=1991
+wang zhan shi 	网站时	c=1 d=0.771051 t=1991
+wang zhe 	望着	c=1 d=0.0333733 t=1991
+wei 	为	c=6 d=3.83117 t=1991
+wei 	尾	c=0 d=0.0951229 t=1991
+wei du 	唯独	c=0 d=0.000109719 t=1991
+wei li 	为例	c=1 d=0.00158052 t=1991
+wei li 	威力	c=0 d=0.000155699 t=1991
+wei shen me 	为什么	c=9 d=6.5611 t=1991
+wei xin 	微信	c=4 d=3.69652 t=1991
+wei yi 	唯一	c=1 d=0.0675424 t=1991
+wei zhi 	位置	c=1 d=0.980199 t=1991
+wei zhi zhen 	尾指针	c=1 d=0.955997 t=1991
+wen ben 	文本	c=1 d=0.955997 t=1991
+wen jian 	文件	c=16 d=8.97817 t=1991
+wen jian jia 	文件夹	c=2 d=1.79189 t=1991
+wen jian jia li 	文件夹里	c=1 d=0.755784 t=1991
+wen nuan 	温暖	c=1 d=0.0160829 t=1991
+wen ti 	问题	c=2 d=1.77526 t=1991
+wen xian 	文献	c=1 d=1 t=1991
+wen zhang 	文章	c=1 d=0.951229 t=1991
+wen zi 	文字	c=1 d=0.878095 t=1991
+wo 	我	c=6 d=1.89185 t=1991
+wo ba 	我把	c=0 d=0.000198925 t=1991
+wo ba ta men 	我把他们	c=1 d=0.00199922 t=1991
+wo bu 	我不	c=0 d=0.00385808 t=1991
+wo bu jue de 	我不觉得	c=1 d=0.00047843 t=1991
+wo bu shu yu zhe li 	我不属于这里	c=1 d=0.0387742 t=1991
+wo bu zhi dao 	我不知道	c=2 d=0.00731044 t=1991
+wo cai 	我才	c=1 d=0.0214936 t=1991
+wo cha jue de dao 	我察觉得到	c=1 d=0.701173 t=1991
+wo che di 	我彻底	c=1 d=0.574072 t=1991
+wo dang shi 	我当时	c=1 d=0.0153752 t=1991
+wo de 	我的	c=7 d=1.42629 t=1991
+wo de 	握的	c=1 d=0.860708 t=1991
+wo de jia ren 	我的家人	c=1 d=0.0250972 t=1991
+wo de xi tong 	我的系统	c=1 d=0.955997 t=1991
+wo de zhi 	我得知	c=1 d=0.856415 t=1991
+wo dian le 	我点了	c=1 d=0.313486 t=1991
+wo dou 	我都	c=0 d=0.0895834 t=1991
+wo dou hen kai xin 	我都很开心	c=1 d=0.900325 t=1991
+wo duo xiang 	我多想	c=1 d=0.000584356 t=1991
+wo gai 	我该	c=1 d=0.847894 t=1991
+wo gan dao 	我感到	c=0 d=0.000240549 t=1991
+wo gan xie 	我感谢	c=2 d=0.0290609 t=1991
+wo gan xie ni 	我感谢你	c=1 d=0.00171216 t=1991
+wo gei 	我给	c=1 d=0.900325 t=1991
+wo hao xiang 	我好想	c=1 d=0.0428521 t=1991
+wo he ni 	我和你	c=1 d=0.00179994 t=1991
+wo hui 	我会	c=0 d=0.000460782 t=1991
+wo hui yi zhi 	我会一直	c=1 d=0.00463092 t=1991
+wo huo zai 	我活在	c=1 d=0.000605171 t=1991
+wo jie shou 	我接受	c=1 d=0.50409 t=1991
+wo jin nian 	我今年	c=0 d=0.000406639 t=1991
+wo jin nian de 	我今年的	c=1 d=0.00408677 t=1991
+wo jing 	我竟	c=1 d=0.97531 t=1991
+wo jiu 	我就	c=1 d=0.0108347 t=1991
+wo jue de zhe yang 	我觉得这样	c=0 d=0.0366045 t=1991
+wo jue de zhe yang hen hao 	我觉得这样很好	c=1 d=0.367879 t=1991
+wo ke yi 	我可以	c=1 d=0.00316457 t=1991
+wo ke yi wang na ge 	我可以往哪个	c=1 d=0.0037164 t=1991
+wo lao 	我老	c=0 d=0.00124007 t=1991
+wo lao die 	我老爹	c=1 d=0.0124629 t=1991
+wo ma 	我吗	c=0 d=0.097531 t=1991
+wo mei xiang guo 	我没想过	c=1 d=0.358796 t=1991
+wo mei you 	我没有	c=2 d=0.411487 t=1991
+wo men 	我们	c=6 d=0.0356777 t=1991
+wo men de 	我们的	c=1 d=0.00188279 t=1991
+wo men ji hu mei yi tian dou zai 	我们几乎每一天都在	c=1 d=0.00194986 t=1991
+wo men you 	我们又	c=1 d=0.0197421 t=1991
+wo men zi ji de shi qing 	我们自己的事情	c=1 d=0.00231117 t=1991
+wo na 	我那	c=0 d=0.00266491 t=1991
+wo na xie 	我那些	c=1 d=0.0267827 t=1991
+wo neng 	我能	c=1 d=0.360963 t=1991
+wo neng zuo de 	我能做的	c=1 d=0.0043831 t=1991
+wo shi 	我使	c=0 d=0.0951229 t=1991
+wo shi 	我是	c=3 d=0.0267457 t=1991
+wo shi yi ge 	我是一个	c=1 d=0.0217096 t=1991
+wo shi yong le 	我使用了	c=1 d=0.955997 t=1991
+wo tang zai 	我躺在	c=1 d=0.0139818 t=1991
+wo ting zhi le 	我停止了	c=1 d=0.000403635 t=1991
+wo tu 	沃土	c=1 d=0.0420036 t=1991
+wo wang le 	我忘了	c=1 d=0.00990218 t=1991
+wo wu xiu zhi de yu wang 	我无休止的欲望	c=1 d=0.000520875 t=1991
+wo xi huan 	我喜欢	c=1 d=0.767206 t=1991
+wo xi wang 	我希望	c=2 d=1.61087 t=1991
+wo xi wang wo men 	我希望我们	c=1 d=0.00186406 t=1991
+wo xi yi wei chang de 	我习以为常的	c=1 d=0.000493001 t=1991
+wo xian ru 	我陷入	c=1 d=0.640824 t=1991
+wo xiang 	我想	c=2 d=0.0404798 t=1991
+wo xiang xiang 	我想象	c=0 d=0.00173355 t=1991
+wo xiang xiang zhe 	我想象着	c=1 d=0.0174224 t=1991
+wo xiang yao 	我想要	c=0 d=0.000382958 t=1991
+wo xiang yao jian dao ni 	我想要见到你	c=1 d=0.00384878 t=1991
+wo xie 	我写	c=0 d=0.0941765 t=1991
+wo xie gei 	我写给	c=1 d=0.946485 t=1991
+wo xin zhong 	我心中	c=1 d=0.000575656 t=1991
+wo xu yao 	我需要	c=0 d=0.0980199 t=1991
+wo xu yao yi ge 	我需要一个	c=1 d=0.985112 t=1991
+wo yao 	我要	c=0 d=0.000351752 t=1991
+wo yao zuo shen me 	我要做什么	c=1 d=0.00353515 t=1991
+wo ye 	我也	c=2 d=0.00683016 t=1991
+wo ye gan xie 	我也感谢	c=1 d=0.00190171 t=1991
+wo yi ge ren 	我一个人	c=1 d=0.0165727 t=1991
+wo ying gai 	我应该	c=1 d=0.955997 t=1991
+wo ying gai zen me zuo 	我应该怎么做	c=1 d=0.965605 t=1991
+wo you 	我有	c=0 d=0.000160441 t=1991
+wo you hen duo de 	我有很多的	c=1 d=0.000483239 t=1991
+wo you yi xie 	我有一些	c=1 d=0.00161245 t=1991
+wo zai 	我在	c=6 d=1.92942 t=1991
+wo zai si kao 	我在思考	c=1 d=0.000611253 t=1991
+wo zhen de 	我真的	c=1 d=0.000528747 t=1991
+wo zheng kai yan jing 	我睁开眼睛	c=1 d=0.000539429 t=1991
+wo zhi dao 	我知道	c=1 d=0.000623601 t=1991
+wo zou 	我走	c=0 d=0.000108086 t=1991
+wo zuo de 	我做的	c=0 d=0.000196945 t=1991
+wo zuo de yi qie shi qing 	我做的一切事情	c=1 d=0.00197932 t=1991
+wo zuo wei 	我作为	c=1 d=0.937067 t=1991
+wu can shu 	无参数	c=2 d=0.0132759 t=1991
+wu de 	雾的	c=1 d=0.100761 t=1991
+wu duan 	无端	c=1 d=0.644036 t=1991
+wu fa 	无法	c=1 d=0.904837 t=1991
+wu fa shi yong 	无法使用	c=1 d=0.0710054 t=1991
+wu hou 	午后	c=3 d=0.371865 t=1991
+wu lian wang 	物联网	c=2 d=1.63451 t=1991
+wu neng wei li 	无能为力	c=1 d=0.70822 t=1991
+wu shu ci 	无数次	c=1 d=0.063609 t=1991
+wu song 	雾凇	c=1 d=0.923116 t=1991
+wu song pin yin 	雾凇拼音	c=1 d=0.00138093 t=1991
+wu xiu zhi 	无休止	c=0 d=5.18277e-05 t=1991
+xi ban ya 	西班牙	c=1 d=0.980199 t=1991
+xi ban ya yu 	西班牙语	c=4 d=3.60153 t=1991
+xi huan 	喜欢	c=1 d=0.88692 t=1991
+xi le 	喜乐	c=2 d=0.00141642 t=1991
+xi le he 	喜乐和	c=1 d=0.00336274 t=1991
+xi tong 	系统	c=7 d=5.00648 t=1991
+xi tong de 	系统的	c=1 d=0.826959 t=1991
+xi tong shang 	系统商	c=1 d=0.00729913 t=1991
+xi tong xia 	系统下	c=1 d=0.806541 t=1991
+xi wang 	希望	c=2 d=0.00390461 t=1991
+xi xi rang rang 	熙熙攘攘	c=1 d=0.0342181 t=1991
+xi yi wei chang 	习以为常	c=0 d=4.90542e-05 t=1991
+xia 	下	c=8 d=6.65152 t=1991
+xia bian xian 	下边线	c=1 d=0.965605 t=1991
+xia biao 	下标	c=1 d=0.00100779 t=1991
+xia biao 	下表	c=1 d=0.00100276 t=1991
+xia ci 	下次	c=1 d=0.99005 t=1991
+xia de 	下得	c=1 d=0.0138427 t=1991
+xia mian 	下面	c=2 d=1.81517 t=1991
+xia tian 	夏天	c=2 d=0.0100821 t=1991
+xia wu 	下午	c=2 d=1.1896 t=1991
+xia zai 	下载	c=5 d=4.16533 t=1991
+xian 	先	c=1 d=0.00122477 t=1991
+xian ru 	陷入	c=0 d=0.0637628 t=1991
+xian ru feng kuang 	陷入疯狂	c=0 d=0.00248475 t=1991
+xian sheng 	先生	c=1 d=0.941765 t=1991
+xian shi 	显示	c=8 d=6.0099 t=1991
+xian shi hang hao 	显示行号	c=1 d=0.00524752 t=1991
+xian shi qi 	显示器	c=1 d=0.0946485 t=1991
+xian shi qi de 	显示器的	c=1 d=0.951229 t=1991
+xian shi qu yu 	显示区域	c=1 d=0.00530026 t=1991
+xian shi tu pian 	显示图片	c=1 d=0.980199 t=1991
+xian shi wei 	显示为	c=1 d=0.856415 t=1991
+xian xing jian bian 	线性渐变	c=1 d=1 t=1991
+xiang 	像	c=2 d=0.227219 t=1991
+xiang 	想	c=2 d=1.6441 t=1991
+xiang cha 	相差	c=1 d=0.460704 t=1991
+xiang dang yu 	相当于	c=1 d=0.194952 t=1991
+xiang dui ni shuo 	想对你说	c=1 d=0.00162866 t=1991
+xiang guan 	相关	c=1 d=1.0507 t=1991
+xiang guan nei rong 	相关内容	c=1 d=0.869358 t=1991
+xiang ji 	相机	c=1 d=0.774916 t=1991
+xiang jian 	相见	c=1 d=0.00386807 t=1991
+xiang mu 	项目	c=1 d=0.860708 t=1991
+xiang nan 	向南	c=0 d=0.00113902 t=1991
+xiang nan kai 	向南开	c=1 d=0.0114473 t=1991
+xiang qi le 	想起了	c=1 d=0.0350844 t=1991
+xiang qian 	向前	c=1 d=1 t=1991
+xiang rang 	想让	c=0 d=0.0128093 t=1991
+xiang rang qi 	想让其	c=1 d=0.128735 t=1991
+xiang shou zhe 	享受着	c=1 d=0.582748 t=1991
+xiang tong 	相同	c=0 d=0.00010333 t=1991
+xiang tong de 	相同的	c=1 d=0.00798652 t=1991
+xiang tong wei 	相同为	c=1 d=0.00103848 t=1991
+xiang xi 	详细	c=1 d=0.831104 t=1991
+xiang xiang 	想想	c=1 d=0.00192083 t=1991
+xiang zuo 	想做	c=0 d=0.0537944 t=1991
+xiang zuo de 	想做的	c=1 d=0.540641 t=1991
+xiao 	小	c=1 d=0.995012 t=1991
+xiao 	消	c=1 d=0.97531 t=1991
+xiao 	筱	c=2 d=1.87888 t=1991
+xiao che 	小车	c=1 d=0.923116 t=1991
+xiao hai zi kan 	小孩子看	c=1 d=0.0266491 t=1991
+xiao hui 	销毁	c=1 d=0.0959877 t=1991
+xiao hui de 	销毁的	c=1 d=0.0665368 t=1991
+xiao kuo hao 	小括号	c=1 d=0.0845849 t=1991
+xiao kuo hua 	小括话	c=1 d=0.084163 t=1991
+xiao le 	笑了	c=1 d=0.33454 t=1991
+xiao qian 	消遣	c=1 d=0.843665 t=1991
+xiao rong 	笑容	c=1 d=0.341298 t=1991
+xiao shuo 	小说	c=1 d=0.985112 t=1991
+xiao xi 	消息	c=2 d=0.392586 t=1991
+xie 	些	c=0 d=0.00266491 t=1991
+xie de 	写的	c=1 d=0.918512 t=1991
+xie dong xi 	写东西	c=1 d=0.000405658 t=1991
+xie fa 	写法	c=1 d=1 t=1991
+xie le 	写了	c=1 d=0.0902655 t=1991
+xie lou 	泄露	c=1 d=0.0911727 t=1991
+xie luo 	蝎螺	c=1 d=0.090718 t=1991
+xie ru 	写入	c=2 d=1.69417 t=1991
+xie ti 	斜体	c=1 d=0.918512 t=1991
+xie xie 	谢谢	c=2 d=1.81004 t=1991
+xie xie ni 	谢谢你	c=1 d=0.00174675 t=1991
+xie xie shang di 	谢谢上帝	c=1 d=0.0028799 t=1991
+xie yi pian 	写一篇	c=1 d=0.798516 t=1991
+xin 	信	c=1 d=0.923116 t=1991
+xin 	心	c=2 d=0.943234 t=1991
+xin 	新	c=1 d=0.99005 t=1991
+xin de 	新的	c=1 d=0.99005 t=1991
+xin de yi tian 	新的一天	c=0 d=5.39429e-05 t=1991
+xin jian 	新建	c=1 d=0.97531 t=1991
+xin li 	心里	c=3 d=0.506384 t=1991
+xin shang 	心上	c=1 d=0.519442 t=1991
+xin shi 	心事	c=1 d=0.00436124 t=1991
+xin xi 	信息	c=4 d=3.09193 t=1991
+xin xi ke ji 	信息科技	c=0 d=0.0737123 t=1991
+xin xi ke ji da xue 	信息科技大学	c=1 d=0.740818 t=1991
+xin ya 	新芽	c=1 d=0.031117 t=1991
+xin zhong 	心中	c=0 d=0.00230521 t=1991
+xin zhong zai 	心中在	c=1 d=0.0231676 t=1991
+xing zhi 	性质	c=1 d=0.839457 t=1991
+xing zhuang 	形状	c=1 d=0.000443861 t=1991
+xiu fu 	修复	c=2 d=0.006208 t=1991
+xiu gai 	修改	c=1 d=1 t=1991
+xiu shi 	修饰	c=3 d=0.398938 t=1991
+xu duo peng you 	许多朋友	c=1 d=0.00246639 t=1991
+xu kong 	虚空	c=1 d=0.000633025 t=1991
+xu yao 	需要	c=5 d=0.83527 t=1991
+xuan zhong 	选中	c=1 d=0.000841773 t=1991
+xue 	学	c=3 d=2.07797 t=1991
+xue 	雪	c=1 d=0.0137736 t=1991
+xue hua 	雪花	c=1 d=0.0361528 t=1991
+xue li 	学力	c=1 d=0.965605 t=1991
+xue ren 	学人	c=1 d=0.0151463 t=1991
+xue ren 	雪人	c=2 d=0.0309081 t=1991
+xue xi 	学习	c=1 d=0.00273944 t=1991
+xue xi guo 	学习过	c=1 d=0.927743 t=1991
+xue xiao 	学校	c=2 d=0.843825 t=1991
+xue yuan 	学院	c=4 d=3.05523 t=1991
+xue zhong 	雪中	c=1 d=0.0140519 t=1991
+xun huan 	循环	c=1 d=0.0010701 t=1991
+xun ji 	寻迹	c=2 d=1.99005 t=1991
+xun ji 	循迹	c=1 d=0.918512 t=1991
+xun zhao 	寻找	c=1 d=0.0471227 t=1991
+xun zhi 	寻址	c=1 d=0.0678809 t=1991
+ya 	呀	c=1 d=0.0071546 t=1991
+ya li 	压力	c=1 d=0.532592 t=1991
+ya suo 	压缩	c=3 d=2.7905 t=1991
+ya yi 	压抑	c=1 d=0.980199 t=1991
+yan gai 	掩盖	c=1 d=0.410656 t=1991
+yan hou 	延后	c=1 d=0.000850233 t=1991
+yan jing 	眼睛	c=1 d=0.0393602 t=1991
+yan jiu 	研究	c=3 d=2.01197 t=1991
+yan jiu sheng 	研究生	c=9 d=5.48871 t=1991
+yan juan 	厌倦	c=1 d=0.0500366 t=1991
+yan se 	颜色	c=1 d=0.869358 t=1991
+yan zai 	淹在	c=1 d=0.951229 t=1991
+yan zhao wang 	研招网	c=6 d=4.8279 t=1991
+yan zhong 	眼中	c=1 d=0.955997 t=1991
+yang 	养	c=1 d=0.985112 t=1991
+yang guang 	阳光	c=1 d=0.351692 t=1991
+yao 	要	c=2 d=1.75136 t=1991
+yao hao 	要好	c=0 d=0.0496585 t=1991
+yao hao yi dian 	要好一点	c=1 d=0.499074 t=1991
+yao yao yu zhui 	摇摇欲坠	c=1 d=0.418952 t=1991
+ye 	也	c=3 d=2.35782 t=1991
+ye bu 	也不	c=0 d=4.95472e-05 t=1991
+ye bu shi wo 	也不是我	c=1 d=0.000497955 t=1991
+ye hen 	也很	c=1 d=0.737123 t=1991
+ye jing 	液晶	c=1 d=0.941765 t=1991
+ye li 	夜里	c=1 d=0.0488012 t=1991
+ye mei you 	也没有	c=1 d=0.546074 t=1991
+ye mian 	页面	c=5 d=3.98103 t=1991
+ye mo 	夜魔	c=1 d=0.000930303 t=1991
+ye mo 	页末	c=1 d=0.000934966 t=1991
+ye shi 	也是	c=1 d=0.00346515 t=1991
+ye shi yi zhong 	也是一种	c=1 d=0.0505395 t=1991
+ye shou 	野兽	c=1 d=1 t=1991
+ye ting bu jian 	也听不见	c=1 d=0.000439444 t=1991
+ye wu fa 	也无法	c=1 d=0.995012 t=1991
+ye xu 	也许	c=2 d=0.0643135 t=1991
+ye xu shi 	也许是	c=1 d=0.000411789 t=1991
+ye yong 	也用	c=1 d=0.980199 t=1991
+ye yuan yi 	也愿意	c=1 d=0.00184551 t=1991
+yi 	一	c=1 d=0.00154923 t=1991
+yi 	以	c=3 d=2.3744 t=1991
+yi ban shi 	一般是	c=1 d=0.00151098 t=1991
+yi bei 	已被	c=1 d=0.794534 t=1991
+yi bu you yi bu 	一步又一步	c=2 d=0.00230149 t=1991
+yi chang xue 	一场雪	c=0 d=0.0726149 t=1991
+yi ci 	一次	c=5 d=0.913931 t=1991
+yi ci you yi ci 	一次又一次	c=1 d=0.000523486 t=1991
+yi cun zai 	已存在	c=1 d=0.891366 t=1991
+yi dai zong shi 	一代宗师	c=1 d=1 t=1991
+yi dao 	一道	c=1 d=0.00404611 t=1991
+yi dao 	移到	c=1 d=0.985112 t=1991
+yi dian 	一点	c=0 d=0.118045 t=1991
+yi dong 	移动	c=1 d=0.985112 t=1991
+yi dong dao 	移动到	c=1 d=0.951229 t=1991
+yi duan 	一段	c=0 d=0.00203434 t=1991
+yi duan hua 	一段话	c=1 d=0.882497 t=1991
+yi feng xin 	一封信	c=1 d=0.980199 t=1991
+yi ge 	一个	c=11 d=7.20179 t=1991
+yi ge bo fang lie biao 	一个播放列表	c=1 d=0.946485 t=1991
+yi ge fen zhi 	一个分支	c=1 d=0.97531 t=1991
+yi ge han shu 	一个函数	c=0 d=0.0847894 t=1991
+yi ge jie yi ge 	一个接一个	c=1 d=0.0572688 t=1991
+yi han 	遗憾	c=1 d=0.021068 t=1991
+yi hou bu 	以后不	c=0 d=0.02334 t=1991
+yi hou bu zai 	以后不在	c=1 d=0.23457 t=1991
+yi hua 	异化	c=1 d=0.2334 t=1991
+yi huo 	异或	c=1 d=0.937067 t=1991
+yi ji 	以及	c=1 d=0.985112 t=1991
+yi jing 	已经	c=3 d=0.229605 t=1991
+yi jing fang qi le 	已经放弃了	c=1 d=0.000531398 t=1991
+yi ke da xue 	医科大学	c=1 d=0.909373 t=1991
+yi lu 	一路	c=1 d=0.0113902 t=1991
+yi nian 	一年	c=0 d=0.000316691 t=1991
+yi qi 	一起	c=2 d=0.0344767 t=1991
+yi qie shi qing 	一切事情	c=0 d=0.000196945 t=1991
+yi shi dao 	意识到	c=2 d=0.0425644 t=1991
+yi si 	意思	c=2 d=1.91851 t=1991
+yi tong 	一同	c=1 d=0.980199 t=1991
+yi wang 	遗忘	c=1 d=0.0434998 t=1991
+yi xia 	一下	c=2 d=0.00691137 t=1991
+yi xiang 	臆想	c=1 d=0.000500451 t=1991
+yi xie 	一些	c=0 d=0.000160441 t=1991
+yi xie hua 	一些话	c=1 d=0.00479587 t=1991
+yi yang 	一样	c=1 d=0.0319048 t=1991
+yi yong 	医用	c=1 d=0.0317456 t=1991
+yi yue 	一月	c=1 d=0.0105145 t=1991
+yi zhi 	一直	c=1 d=0.026452 t=1991
+yi zhi zai zhe li 	一直在这里	c=0 d=0.000257991 t=1991
+yi zhong 	一种	c=1 d=0.985112 t=1991
+yi zhuan 	一转	c=1 d=0.0287246 t=1991
+yin 	引	c=0 d=0.000226943 t=1991
+yin cang 	隐藏	c=1 d=0.0403566 t=1991
+yin cang zai 	隐藏在	c=1 d=0.100259 t=1991
+yin ci 	因此	c=2 d=0.962778 t=1991
+yin huan 	隐患	c=1 d=0.181772 t=1991
+yin ru 	引入	c=1 d=0.00852289 t=1991
+yin wo zou zhe ren sheng lu 	引我走这人生路	c=1 d=0.00119453 t=1991
+yin wo zou zheng yi lu 	引我走正义路	c=1 d=0.00108628 t=1991
+yin yong 	引用	c=11 d=2.85252 t=1991
+yin yong de 	引用的	c=1 d=0.13332 t=1991
+yin yong fu hao 	引用符号	c=2 d=0.289725 t=1991
+yin yong zhi xiang de dui xiang 	引用指向的对象	c=1 d=0.138761 t=1991
+ying gai 	应该	c=1 d=0.923116 t=1991
+ying she 	映射	c=1 d=0.918512 t=1991
+ying wen 	英文	c=2 d=1.75726 t=1991
+ying xu 	应许	c=0 d=0.000110822 t=1991
+ying yong 	应用	c=2 d=1.87203 t=1991
+ying yu 	英语	c=6 d=5.51578 t=1991
+yong 	用	c=9 d=5.00913 t=1991
+yong chu 	用处	c=1 d=0.00615802 t=1991
+yong fa 	用法	c=6 d=4.7623 t=1991
+yong heng de 	永恒的	c=1 d=0.0238732 t=1991
+yong hu 	用户	c=1 d=0.90977 t=1991
+yong hu mu lu 	用户目录	c=1 d=0.955997 t=1991
+yong lai 	用来	c=3 d=0.0159452 t=1991
+yong le 	用了	c=0 d=0.0951229 t=1991
+yong ma 	用吗	c=0 d=0.0955997 t=1991
+yong nuo 	永诺	c=1 d=1 t=1991
+yong qu 	用去	c=1 d=0.00130703 t=1991
+yong tu 	用途	c=0 d=0.000120654 t=1991
+yong tu de hua 	用途的话	c=1 d=0.00121259 t=1991
+yong wan 	用完	c=1 d=0.0944202 t=1991
+yong you 	拥有	c=1 d=0.000590229 t=1991
+yong yu 	用于	c=2 d=0.00256936 t=1991
+yong yuan 	永远	c=1 d=0.000587285 t=1991
+yong yuan bu bian 	永远不变	c=0 d=0.000110822 t=1991
+yong yuan bu bian de ying xu 	永远不变的应许	c=1 d=0.00111378 t=1991
+you 	又	c=0 d=0.0683861 t=1991
+you 	右	c=1 d=0.995012 t=1991
+you 	有	c=7 d=2.57154 t=1991
+you bian 	右边	c=1 d=0.960789 t=1991
+you cai hua 	油菜花	c=1 d=0.755784 t=1991
+you di zhi 	有地址	c=1 d=0.227054 t=1991
+you hen duo de 	有很多的	c=0 d=4.80828e-05 t=1991
+you hua 	优化	c=2 d=1.93635 t=1991
+you hua bu ju 	优化布局	c=1 d=1 t=1991
+you mei you 	有没有	c=1 d=0.774916 t=1991
+you na xie 	有哪些	c=4 d=3.08584 t=1991
+you qi 	尤其	c=1 d=0.0159229 t=1991
+you qu de 	有趣的	c=1 d=0.00220948 t=1991
+you shen me 	有什么	c=1 d=0.995012 t=1991
+you xi 	游戏	c=1 d=0.826959 t=1991
+you xian ji 	优先级	c=1 d=0.83527 t=1991
+you yi ci 	又一次	c=1 d=0.298197 t=1991
+you yi ge 	有一个	c=1 d=0.904837 t=1991
+you yi ge ke yi qing su de di fang 	有一个可以倾诉的地方	c=1 d=0.00179097 t=1991
+you yi wu 	有义务	c=1 d=0.231078 t=1991
+you yu le 	犹豫了	c=1 d=0.310367 t=1991
+you zai 	又在	c=1 d=0.0132336 t=1991
+you zhi 	右值	c=3 d=0.97531 t=1991
+you zhi yin yong 	右值引用	c=2 d=0.985112 t=1991
+yu 	与	c=2 d=1.42094 t=1991
+yu 	语	c=1 d=0.985112 t=1991
+yu ben zhuan ye xiang guan 	与本专业相关	c=1 d=0.843665 t=1991
+yu ce 	预测	c=1 d=0.494109 t=1991
+yu dao 	遇到	c=1 d=0.774916 t=1991
+yu gu 	预估	c=2 d=0.95192 t=1991
+yu ji 	预计	c=1 d=0.453845 t=1991
+yu ji shu 	与技术	c=1 d=0.995012 t=1991
+yu jian le ni 	遇见了你	c=1 d=0.00191125 t=1991
+yu she 	预设	c=2 d=1.98511 t=1991
+yu shui 	雨水	c=0 d=0.00982736 t=1991
+yu shui zai 	雨水在	c=1 d=0.0987662 t=1991
+yu wang 	欲望	c=0 d=5.18277e-05 t=1991
+yu xian 	预先	c=0 d=9.53854e-05 t=1991
+yu yan 	语言	c=3 d=2.49883 t=1991
+yu yue 	愉悦	c=1 d=0.044601 t=1991
+yu yue 	预约	c=1 d=0.0443785 t=1991
+yuan 	愿	c=1 d=0.00321477 t=1991
+yuan 	院	c=2 d=1.81834 t=1991
+yuan su 	元素	c=1 d=0.00101791 t=1991
+yuan wang 	愿望	c=1 d=0.00412784 t=1991
+yuan yi 	愿意	c=0 d=0.00018363 t=1991
+yuan yin 	原因	c=1 d=0.00213348 t=1991
+yue guo 	越过	c=1 d=0.744532 t=1991
+yue ji 	月季	c=1 d=1 t=1991
+yue lai yue 	越来越	c=0 d=0.000355287 t=1991
+yue lai yue de 	越来越的	c=1 d=0.00357068 t=1991
+yue lai yue jin 	越来越近	c=1 d=0.0186856 t=1991
+yun pan 	云盘	c=1 d=0.99005 t=1991
+yun suan fu 	运算符	c=1 d=0.288896 t=1991
+yun xing 	运行	c=2 d=1.80384 t=1991
+za luan 	杂乱	c=0 d=0.00135009 t=1991
+zai 	再	c=1 d=0.941765 t=1991
+zai 	在	c=45 d=12.8126 t=1991
+zai bao hu 	在保护	c=0 d=0.000109172 t=1991
+zai bian cheng 	在编程	c=1 d=0.00516939 t=1991
+zai duan zan 	在短暂	c=1 d=0.0439369 t=1991
+zai guo qu 	在过去	c=0 d=0.000162866 t=1991
+zai guo qu de 	在过去的	c=1 d=0.00163682 t=1991
+zai he 	在和	c=1 d=0.0411719 t=1991
+zai wo 	在我	c=1 d=0.561533 t=1991
+zai wo di di 	在我弟弟	c=1 d=0.0164078 t=1991
+zai wo men 	在我们	c=1 d=0.00396599 t=1991
+zai xin de 	在新的	c=1 d=0.0034836 t=1991
+zai xin de yi nian 	在新的一年	c=1 d=0.00318278 t=1991
+zai xin nian 	在新年	c=0 d=0.000158844 t=1991
+zai xin nian de 	在新年的	c=1 d=0.00159641 t=1991
+zai yi dian you yi dian 	在一点又一点	c=1 d=0.687289 t=1991
+zai yu xian 	在预先	c=1 d=0.000958635 t=1991
+zai zhi xing 	再执行	c=1 d=0.00138785 t=1991
+zan shi 	暂时	c=1 d=0.995012 t=1991
+zao gao 	糟糕	c=0 d=4.7843e-05 t=1991
+ze 	则	c=1 d=0.272532 t=1991
+zen me 	怎么	c=53 d=18.5837 t=1991
+zen me ba 	怎么把	c=1 d=0.904837 t=1991
+zen me cha kan 	怎么查看	c=1 d=0.946485 t=1991
+zen me da 	怎么打	c=1 d=0.843665 t=1991
+zen me jie jue 	怎么解决	c=2 d=1.97516 t=1991
+zen me kai qi 	怎么开启	c=1 d=0.995012 t=1991
+zen me rang 	怎么让	c=1 d=0.806541 t=1991
+zen me tiao jie 	怎么调节	c=1 d=1 t=1991
+zen me xie 	怎么写	c=1 d=0.955997 t=1991
+zen me yang 	怎么样	c=3 d=2.45481 t=1991
+zen me yong 	怎么用	c=3 d=2.72559 t=1991
+zen me zuo 	怎么做	c=1 d=0.960789 t=1991
+zen yang 	怎样	c=5 d=3.12515 t=1991
+zen yang zai 	怎样在	c=2 d=1.88825 t=1991
+zeng jia 	增加	c=1 d=0.00172833 t=1991
+zeng jia wei li 	增加威力	c=1 d=0.0015648 t=1991
+zhai yao 	摘要	c=1 d=1 t=1991
+zhan 	栈	c=2 d=0.135845 t=1991
+zhan 	站	c=1 d=0.980199 t=1991
+zhan ju le 	占据了	c=0 d=0.00450492 t=1991
+zhan ju le wo 	占据了我	c=1 d=0.045275 t=1991
+zhan qu 	栈区	c=1 d=0.159614 t=1991
+zhan yong 	占用	c=1 d=0.0930145 t=1991
+zhang hao 	账号	c=1 d=0.839457 t=1991
+zhang hu 	账户	c=1 d=0.909373 t=1991
+zhang wei 	张伟	c=1 d=0.995012 t=1991
+zhang wo 	掌握	c=1 d=1 t=1991
+zhang zhi 	涨至	c=0 d=0.0965605 t=1991
+zhao bu dao 	找不到	c=1 d=0.900325 t=1991
+zhao pian 	照片	c=1 d=0.970446 t=1991
+zhao pian ce 	照片册	c=1 d=0.99005 t=1991
+zhao sheng 	招生	c=2 d=1.87982 t=1991
+zhe 	着	c=2 d=0.0241614 t=1991
+zhe 	这	c=1 d=0.995012 t=1991
+zhe ban nian 	这半年	c=1 d=0.0026852 t=1991
+zhe duan 	这段	c=1 d=0.970446 t=1991
+zhe feng 	这封	c=1 d=0.941765 t=1991
+zhe ge 	这个	c=3 d=2.47705 t=1991
+zhe ge cang ku 	这个仓库	c=1 d=0.865022 t=1991
+zhe ge cha jian 	这个插件	c=1 d=0.97531 t=1991
+zhe ge jie guo 	这个结果	c=1 d=0.509156 t=1991
+zhe guo qu 	着过去	c=1 d=0.000468957 t=1991
+zhe guo qu 	这过去	c=1 d=0.000471307 t=1991
+zhe ji ge yue 	这几个月	c=1 d=0.00269866 t=1991
+zhe ju hua 	这句话	c=2 d=0.0651277 t=1991
+zhe li 	这里	c=1 d=0.965605 t=1991
+zhe me 	这么	c=1 d=0.941765 t=1991
+zhe rang 	这让	c=0 d=0.000240549 t=1991
+zhe rang wo gan dao 	这让我感到	c=1 d=0.00241755 t=1991
+zhe shi 	这是	c=5 d=1.84467 t=1991
+zhe shi en dian zhi lu 	这是恩典之路	c=1 d=0.00113627 t=1991
+zhe shi pan wang zhi lu 	这是盼望之路	c=1 d=0.00117675 t=1991
+zhe shi yi duan 	这是一段	c=1 d=0.0204453 t=1991
+zhe xue 	哲学	c=1 d=0.946485 t=1991
+zhe yang de 	这样的	c=2 d=0.454345 t=1991
+zhe yang zuo 	这样做	c=0 d=0.000346515 t=1991
+zhe yang zuo de 	这样做的	c=1 d=0.00348252 t=1991
+zhe yi nian 	这一年	c=4 d=0.0250908 t=1991
+zhe yi sheng 	这一生	c=1 d=0.00111936 t=1991
+zhen 	真	c=1 d=1 t=1991
+zhen ai 	真爱	c=1 d=0.951229 t=1991
+zhen duan 	诊断	c=2 d=0.791144 t=1991
+zhen li 	真理	c=1 d=0.0239928 t=1991
+zhen qiao 	真巧	c=2 d=1.99501 t=1991
+zhen zheng de 	真正的	c=1 d=0.110803 t=1991
+zheng chang 	正常	c=1 d=0.873716 t=1991
+zheng fen duo miao 	争分夺秒	c=1 d=0.40657 t=1991
+zheng ge 	整个	c=1 d=0.0937085 t=1991
+zheng kai yan jing 	睁开眼睛	c=0 d=5.36738e-05 t=1991
+zheng que de 	正确的	c=1 d=0.00331267 t=1991
+zheng shang 	正上	c=1 d=0.965605 t=1991
+zheng wen 	正文	c=1 d=0.806541 t=1991
+zheng yan 	正艳	c=1 d=0.763379 t=1991
+zheng yi lu 	正义路	c=0 d=0.000108086 t=1991
+zhi 	之	c=1 d=0.99005 t=1991
+zhi 	只	c=0 d=0.00623495 t=1991
+zhi 	志	c=1 d=0.680451 t=1991
+zhi 	直	c=1 d=0.0262523 t=1991
+zhi 	知	c=1 d=0.0261214 t=1991
+zhi cheng zhe 	支撑着	c=0 d=5.67086e-05 t=1991
+zhi cheng zhe wo 	支撑着我	c=1 d=0.000569928 t=1991
+zhi chi ni 	支持你	c=1 d=0.00470091 t=1991
+zhi chuang jian 	只创建	c=1 d=0.062662 t=1991
+zhi ding 	指定	c=2 d=1.94703 t=1991
+zhi ding bao 	指定包	c=1 d=0.985112 t=1991
+zhi hou 	之后	c=2 d=1.8029 t=1991
+zhi hu 	知乎	c=1 d=0.923116 t=1991
+zhi hua 	之花	c=0 d=0.00211736 t=1991
+zhi hui 	只会	c=2 d=0.0654866 t=1991
+zhi hui 	智慧	c=1 d=0.00650291 t=1991
+zhi jian 	之间	c=1 d=0.00398587 t=1991
+zhi jian 	指尖	c=1 d=0.995012 t=1991
+zhi jian de 	之间的	c=1 d=0.985112 t=1991
+zhi jiang 	只将	c=1 d=0.135335 t=1991
+zhi jie 	直接	c=2 d=0.969933 t=1991
+zhi lei xing 	值类型	c=0 d=0.0141564 t=1991
+zhi lei xing de 	值类型的	c=1 d=0.142274 t=1991
+zhi lu 	之路	c=0 d=0.0965605 t=1991
+zhi nei 	之内	c=1 d=0.0544757 t=1991
+zhi neng 	只能	c=1 d=0.12307 t=1991
+zhi neng 	智能	c=11 d=7.40254 t=1991
+zhi neng ke xue 	智能科学	c=1 d=0.99005 t=1991
+zhi neng ke xue yu ji shu 	智能科学与技术	c=1 d=0.729789 t=1991
+zhi neng shuo 	只能说	c=1 d=0.384812 t=1991
+zhi shan 	之山	c=0 d=0.0995012 t=1991
+zhi shang 	至上	c=1 d=0.955997 t=1991
+zhi shi 	知识	c=1 d=0.414783 t=1991
+zhi shi you 	知识有	c=1 d=0.937067 t=1991
+zhi wang 	知网	c=1 d=0.67368 t=1991
+zhi wu 	植物	c=1 d=0.99005 t=1991
+zhi xiang 	指向	c=1 d=0.178646 t=1991
+zhi xiang de 	指向的	c=1 d=0.197899 t=1991
+zhi xing 	执行	c=5 d=1.61488 t=1991
+zhi you 	只有	c=1 d=0.00663763 t=1991
+zhi yuan 	志愿	c=1 d=0.465334 t=1991
+zhi zai 	只在	c=1 d=0.00634556 t=1991
+zhi zhen 	指针	c=3 d=1.0855 t=1991
+zhi zhen de 	指针的	c=1 d=0.173774 t=1991
+zhi zhen de wei zhi 	指针的位置	c=1 d=0.000788798 t=1991
+zhong 	中	c=6 d=5.03367 t=1991
+zhong 	钟	c=1 d=0.315058 t=1991
+zhong de 	中的	c=1 d=0.99005 t=1991
+zhong duan 	终端	c=11 d=6.6384 t=1991
+zhong duan xia 	终端下	c=2 d=0.980199 t=1991
+zhong guo 	中国	c=3 d=2.67126 t=1991
+zhong sheng xue xi 	终生学习	c=1 d=0.955997 t=1991
+zhong wen 	中文	c=5 d=3.48713 t=1991
+zhong wen hui da 	中文回答	c=2 d=1.93747 t=1991
+zhong wen hui da wo 	中文回答我	c=1 d=0.913931 t=1991
+zhong wen zi ti 	中文字体	c=1 d=0.869358 t=1991
+zhong xun 	中旬	c=1 d=0.752014 t=1991
+zhong zhong 	种种	c=1 d=0.0220377 t=1991
+zhou qi 	周期	c=1 d=0.055299 t=1991
+zhu 	主	c=0 d=0.000107547 t=1991
+zhu 	住	c=1 d=0.869358 t=1991
+zhu fu 	祝福	c=0 d=0.000111936 t=1991
+zhu ji ming 	主机名	c=1 d=0.00136037 t=1991
+zhu jian 	逐渐	c=1 d=0.092089 t=1991
+zhu liu 	主流	c=1 d=0.932394 t=1991
+zhu ni hao yun 	祝你好运	c=1 d=0.970446 t=1991
+zhu shi 	注释	c=3 d=0.951229 t=1991
+zhu shi de 	注释的	c=1 d=0.865022 t=1991
+zhu ti 	主题	c=3 d=2.30702 t=1991
+zhu yao 	主要	c=1 d=0.0072265 t=1991
+zhu yi dao 	注意到	c=1 d=0.0156076 t=1991
+zhua zhu 	抓住	c=1 d=0.00116504 t=1991
+zhuan ye 	专业	c=3 d=2.14679 t=1991
+zhuan yi 	转义	c=1 d=1 t=1991
+zhui zhu 	追逐	c=1 d=0.000459671 t=1991
+zhuo mian 	桌面	c=1 d=0.955997 t=1991
+zi 	字	c=1 d=0.822835 t=1991
+zi ding yi de 	自定义的	c=1 d=0.946485 t=1991
+zi dong 	自动	c=5 d=2.20091 t=1991
+zi dong bao cun 	自动保存	c=2 d=1.99501 t=1991
+zi fu 	字符	c=1 d=0.99005 t=1991
+zi fu ji 	字符集	c=1 d=0.00506703 t=1991
+zi ji 	自己	c=5 d=1.71361 t=1991
+zi ji de shi qing 	自己的事情	c=0 d=0.000229965 t=1991
+zi jian xin 	自荐信	c=1 d=1 t=1991
+zi mu 	字幕	c=0 d=0.099005 t=1991
+zi mu ku 	字幕库	c=1 d=0.995012 t=1991
+zi ti 	字体	c=7 d=5.80687 t=1991
+zi ti da xiao 	字体大小	c=1 d=0.99005 t=1991
+zi ti de 	字体的	c=1 d=0.970446 t=1991
+zi ti de da xiao 	字体的大小	c=1 d=0.99005 t=1991
+zi wo 	自我	c=1 d=0.657106 t=1991
+zi wo dang zhong 	自我当中	c=1 d=0.000608204 t=1991
+zong yuan 	总院	c=2 d=1.67661 t=1991
+zou 	走	c=1 d=0.00329615 t=1991
+zou jin 	走近	c=1 d=0.99005 t=1991
+zou jin 	走进	c=0 d=0.0101774 t=1991
+zou jin zhe 	走进着	c=1 d=0.102284 t=1991
+zou zhe 	走这	c=0 d=0.000118858 t=1991
+zu 	组	c=1 d=0.99005 t=1991
+zu ge 	阻隔	c=1 d=0.00406639 t=1991
+zui da 	最大	c=1 d=0.0149956 t=1991
+zui hou 	最后	c=1 d=0.970446 t=1991
+zui jin 	最近	c=1 d=0.0146986 t=1991
+zui zhong 	最终	c=1 d=0.0938565 t=1991
+zui zhong neng bu neng 	最终能不能	c=1 d=0.00377257 t=1991
+zun jing 	尊敬	c=1 d=0.697676 t=1991
+zuo shang le 	坐上了	c=1 d=0.010889 t=1991
+zuo shen me 	做什么	c=0 d=0.000351752 t=1991
+zuo wei 	作为	c=1 d=0.970446 t=1991
+zuo yong 	作用	c=2 d=0.955997 t=1991
+zuo you 	左右	c=1 d=0.970446 t=1991
+zuo zai 	坐在	c=1 d=0.0330412 t=1991
+zuo zhi 	左值	c=4 d=0.829416 t=1991

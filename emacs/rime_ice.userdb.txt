@@ -1,0 +1,1858 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	1811
+#@/user_id	emacs
+C 	C	c=1 d=1 t=1218
+F G 	FG	c=1 d=0.985112 t=1811
+M 	M	c=1 d=1 t=513
+a 	阿	c=2 d=1.95123 t=1811
+ai qing 	爱情	c=1 d=0.99005 t=1811
+an bu zhen ming 	岸部真明	c=1 d=0.97531 t=1811
+an jian 	按键	c=1 d=0.970446 t=1811
+an niu 	按钮	c=1 d=1 t=1582
+an quan 	安全	c=1 d=1 t=1469
+an se 	暗色	c=1 d=1.1 t=363
+an wei 	安慰	c=2 d=1.12431 t=733
+an xia 	按下	c=1 d=0.970446 t=1811
+an zhuang 	安装	c=4 d=2.48245 t=1811
+ba 	把	c=4 d=2.92682 t=1811
+ba shi jian 	把时间	c=1 d=1 t=594
+ba ta 	把他	c=1 d=1 t=1678
+ba wo 	把我	c=1 d=1.00693 t=1618
+ba wo 	把握	c=1 d=1 t=1619
+ba wo dang cheng 	把我当成	c=1 d=1 t=1085
+bai bai 	白白	c=0 d=0.1 t=292
+ban 	办	c=2 d=1.83712 t=1811
+ban bo 	斑驳	c=0 d=0.1 t=1067
+ban bo de 	斑驳的	c=1 d=1 t=1068
+ban nian li 	半年里	c=1 d=1 t=281
+ban nian shi jian 	半年时间	c=1 d=1 t=529
+ban wo tong xing 	伴我同行	c=1 d=1 t=1811
+ban zhe 	伴着	c=0 d=0.1 t=674
+ban zhe ni 	伴着你	c=1 d=1 t=675
+bang ding 	绑定	c=2 d=1.73039 t=1811
+bang wo 	帮我	c=3 d=2.21527 t=1811
+bang wo pai zhao 	帮我拍照	c=1 d=1 t=960
+bang zhu 	帮助	c=1 d=1 t=737
+bang zhu ni 	帮助你	c=1 d=1 t=642
+bao 	包	c=1 d=1.03978 t=1811
+bao cun 	保存	c=1 d=0.865022 t=1811
+bao cuo 	报错	c=1 d=0.965605 t=1811
+bao guan li qi 	包管理器	c=1 d=0.97531 t=1811
+bao guang 	曝光	c=2 d=1.98012 t=1811
+bao han 	包含	c=1 d=0.826959 t=1811
+bao liu 	保留	c=2 d=1.95123 t=1434
+bao lu 	暴露	c=1 d=1 t=1056
+bao rong 	包容	c=2 d=1.91851 t=1094
+bao wei le 	包围了	c=1 d=1 t=1185
+bao zheng 	保证	c=1 d=1 t=1519
+bei 	北	c=0 d=0.1 t=1572
+bei 	被	c=4 d=2.92137 t=1335
+bei fen 	备份	c=1 d=1 t=411
+bei hou 	背后	c=1 d=1 t=1006
+bei jian da 	北建大	c=1 d=1 t=1573
+bei jing 	北京	c=10 d=8.01111 t=1811
+bei jing 	背景	c=3 d=2.78844 t=1811
+bei jing gong shang da xue 	北京工商大学	c=1 d=0.927743 t=1811
+bei jing hua gong da xue 	北京化工大学	c=1 d=0.843665 t=1811
+bei jing hua gong xue yuan 	北京化工学院	c=1 d=0.847894 t=1811
+bei jing jian zhu da xue 	北京建筑大学	c=6 d=4.7793 t=1811
+bei jing lin ye 	北京林业	c=1 d=0.941765 t=1811
+bei jing you dian 	北京邮电	c=4 d=3.69073 t=1811
+bei jing you dian da xue 	北京邮电大学	c=1 d=0.946485 t=1811
+bei shang 	悲伤	c=1 d=1 t=1357
+bei shang 	背上	c=1 d=1 t=1358
+bei you 	北邮	c=1 d=0.97531 t=1811
+bei you li 	北邮里	c=1 d=1 t=1785
+ben ci 	本次	c=1 d=0.873716 t=1811
+ben di 	本地	c=1 d=0.955997 t=1811
+ben zhi de qu bie 	本质的区别	c=1 d=1 t=1374
+ben zhuan ye 	本专业	c=0 d=0.0839457 t=1811
+beng kui 	崩溃	c=1 d=0.980199 t=1811
+bi li 	比例	c=1 d=1 t=393
+bi lu 	秘鲁	c=1 d=0.960789 t=1811
+bi wo 	比我	c=2 d=1.97531 t=1668
+bi xu 	必须	c=2 d=1.38868 t=1479
+bian 	便	c=0 d=0.1 t=1676
+bian 	边	c=0 d=0.1 t=478
+bian bu zai 	便不再	c=1 d=1 t=1677
+bian cheng 	编程	c=1 d=0.937068 t=1811
+bian dan 	变淡	c=1 d=0.995012 t=1811
+bian de 	变得	c=2 d=1.02497 t=1342
+bian hua 	变化	c=1 d=1 t=638
+bian ji 	编辑	c=2 d=1.93707 t=1811
+bian ji qi 	编辑器	c=1 d=1 t=480
+bian jiu chan 	边纠缠	c=1 d=1 t=479
+bian li 	便利	c=1 d=0.985112 t=1811
+bian li 	遍历	c=1 d=1 t=1811
+bian liang 	变量	c=9 d=1.01007 t=1811
+bian liang de 	变量的	c=2 d=0.637442 t=1524
+bian liang qu 	变量区	c=1 d=1 t=1447
+bian liang wei 	变量为	c=1 d=1 t=1364
+bian shao le 	变少了	c=1 d=1 t=575
+bian xie 	便携	c=1 d=0.891366 t=1811
+bian xie 	编写	c=1 d=0.960789 t=1811
+bian xie yi ge han shu 	编写一个函数	c=1 d=0.852144 t=1811
+bian yi 	编译	c=1 d=0.88692 t=1811
+bian yi de 	编译的	c=1 d=1 t=1449
+bian yi qi 	编译器	c=1 d=0.882497 t=1811
+bian yi qiu qi 	编译求其	c=1 d=1 t=1361
+bian yuan 	边缘	c=1 d=0.822835 t=1811
+biao 	表	c=2 d=1.99005 t=1811
+bie ming 	别名	c=1 d=0.951229 t=1811
+bie ren 	别人	c=1 d=1 t=1799
+bing 	并	c=2 d=1.63204 t=1811
+bing 	病	c=1 d=1 t=1811
+bing jin xing 	并进行	c=1 d=0.99005 t=1811
+bing mei you 	并没有	c=1 d=1 t=602
+bing pai 	并排	c=1 d=0.980199 t=1811
+bing yun xing 	并运行	c=1 d=0.891366 t=1811
+bo fang 	播放	c=2 d=1.97045 t=1811
+bo fang lie biao 	播放列表	c=0 d=0.0941765 t=1811
+bo he 	薄荷	c=1 d=1 t=492
+bo ke 	博客	c=1 d=0.995012 t=1811
+bu 	不	c=4 d=1.67375 t=1811
+bu chang 	不长	c=1 d=1.02417 t=1396
+bu chu 	不出	c=1 d=1 t=1495
+bu duan 	不断	c=1 d=1 t=273
+bu duo 	不多	c=1 d=1 t=727
+bu fen 	部分	c=1 d=0.99005 t=1811
+bu gan 	不敢	c=1 d=0.965605 t=1811
+bu guo 	不过	c=1 d=1 t=1167
+bu hao 	不好	c=0 d=0.1 t=1046
+bu hao de ren 	不好的人	c=1 d=1 t=1047
+bu jia zai 	不加载	c=3 d=2.29188 t=1811
+bu ju 	布局	c=1 d=0.97531 t=1811
+bu lian guan 	不连贯	c=1 d=1 t=419
+bu lian xi 	不联系	c=1 d=1 t=614
+bu ming que 	不明确	c=1 d=1 t=932
+bu neng 	不能	c=4 d=3.01935 t=1811
+bu qi 	不起	c=1 d=0.951229 t=1811
+bu qi yong 	不启用	c=1 d=1 t=777
+bu qing chu 	不清楚	c=1 d=1 t=467
+bu quan 	补全	c=5 d=4.19268 t=1811
+bu sheng cheng 	不生成	c=1 d=1 t=410
+bu shi 	不是	c=2 d=0.959989 t=1811
+bu shi fei yao 	不是非要	c=1 d=0.946485 t=1811
+bu shi lei xing 	不是类型	c=1 d=1 t=1397
+bu shi wo neng 	不是我能	c=1 d=1 t=690
+bu shu zai 	部署在	c=1 d=0.923116 t=1811
+bu ti shi 	不提示	c=1 d=0.826959 t=1811
+bu tong 	不同	c=1 d=0.970446 t=1811
+bu tong de 	不同的	c=1 d=1.02357 t=1130
+bu xian shi 	不显示	c=2 d=1.90484 t=1811
+bu xue xi 	不学习	c=1 d=1 t=1791
+bu yong 	不用	c=1 d=0.404542 t=1811
+bu yuan 	不远	c=1 d=1 t=1132
+bu zai 	不再	c=1 d=0.577114 t=1676
+bu zai 	不在	c=1 d=1 t=383
+bu zheng chang 	不正常	c=1 d=0.909373 t=1811
+bu zhi chi 	不支持	c=1 d=1 t=1305
+bu zhi cong he shi qi 	不知从何时起	c=1 d=1 t=247
+bu zu 	不足	c=1 d=0.860708 t=1811
+cai 	猜	c=1 d=1 t=1811
+cai liao 	材料	c=2 d=1.79069 t=1811
+cai neng 	才能	c=1 d=1 t=1718
+can shu 	参数	c=0 d=0.1 t=1549
+cang ku 	仓库	c=3 d=2.38734 t=1811
+cao xin 	操心	c=1 d=1 t=1711
+cao zuo 	操作	c=1 d=0.995012 t=1811
+cao zuo dui xiang 	操作对象	c=1 d=1 t=1514
+cao zuo nei cun 	操作内存	c=1 d=1 t=1464
+cao zuo yin yong 	操作引用	c=1 d=1 t=1483
+ce hui 	测绘	c=1 d=0.99005 t=1811
+ce shi 	测试	c=2 d=0.980199 t=1811
+cha jian 	插件	c=5 d=4.41621 t=1811
+cha jue 	察觉	c=0 d=0.1 t=1739
+cha kan 	查看	c=3 d=1.66394 t=1811
+cha kan qi 	查看器	c=1 d=0.951229 t=1811
+cha ru 	插入	c=1 d=0.970446 t=1811
+cha zhao 	查找	c=0 d=0.1 t=1235
+cha zhao de 	查找的	c=1 d=1 t=1236
+chan rao 	缠绕	c=1 d=1 t=1072
+chang an 	长按	c=2 d=1.83258 t=1811
+chang chang 	常常	c=1 d=1 t=674
+chang ge 	唱歌	c=1 d=1 t=998
+chang jian de 	常见的	c=1 d=0.927743 t=1811
+chang liang 	常量	c=3 d=2.898 t=1379
+chang liang qu 	常量区	c=0 d=0.1 t=1384
+chang liang qu de 	常量区的	c=1 d=1 t=1385
+chang shi jian 	长时间	c=1 d=1 t=612
+chao sheng bo ce ju 	超声波测距	c=0 d=0.0970446 t=1811
+chao sheng bo ce ju mo kuai 	超声波测距模块	c=1 d=0.97531 t=1811
+che di 	彻底	c=0 d=0.1 t=1699
+chen deng 	臣等	c=0 d=0.099005 t=1811
+chen kai 	陈开	c=2 d=1.99501 t=1811
+chen mi 	沉迷	c=1 d=1 t=1771
+chen shui 	沉睡	c=1 d=1 t=1202
+chen zhong de 	沉重的	c=1 d=1 t=1359
+cheng hu 	称呼	c=2 d=1.87888 t=1811
+cheng ji 	成绩	c=1 d=1 t=1647
+cheng wei 	成为	c=2 d=1.39455 t=1402
+cheng xu 	程序	c=2 d=1.90727 t=1811
+cheng xu beng kui 	程序崩溃	c=1 d=1 t=1340
+chong fen de 	充分的	c=1 d=1 t=1096
+chong jing 	憧憬	c=1 d=1 t=921
+chong tu 	冲突	c=1 d=0.918512 t=1811
+chu 	处	c=1 d=1 t=1139
+chu bu 	初步	c=1 d=1 t=1811
+chu fa 	触发	c=1 d=1 t=835
+chu lai 	出来	c=3 d=1.05977 t=1645
+chu lai de 	出来的	c=1 d=1 t=292
+chu le 	除了	c=1 d=1 t=1693
+chu qu 	出去	c=1 d=1 t=1763
+chu shi hua 	初始化	c=1 d=1 t=1303
+chu xian 	出现	c=1 d=1 t=418
+chu xian de 	出现的	c=1 d=0.951229 t=1811
+chu xian le 	出现了	c=1 d=1 t=1474
+chu xian zai 	出现在	c=0 d=0.0360595 t=1811
+chuang jian 	创建	c=4 d=3.23469 t=1811
+chuang jian de 	创建的	c=1 d=1 t=1288
+chuang jian hao le 	创建好了	c=1 d=1 t=1256
+chun 	春	c=0 d=0.099005 t=1811
+chun jie 	春节	c=2 d=1.91393 t=1032
+chun tian 	春天	c=3 d=1.32083 t=1350
+chuo 	戳	c=1 d=1 t=1500
+ci 	此	c=1 d=1 t=1808
+ci gei wo 	赐给我	c=1 d=1 t=314
+ci hui 	词汇	c=1 d=0.704688 t=1811
+ci yu 	词语	c=0 d=0.0995012 t=1811
+cong 	从	c=5 d=2.64845 t=1811
+cong zi ji lai de 	从自己来的	c=1 d=1 t=336
+cu ti 	粗体	c=4 d=3.37283 t=1811
+cun chu 	存储	c=2 d=1.92312 t=1455
+cun fang zai 	存放在	c=1 d=1 t=1381
+cuo wu 	错误	c=3 d=2.3574 t=1811
+da jian 	搭建	c=1 d=0.951229 t=1811
+da kai 	打开	c=3 d=2.58162 t=1811
+da kai shi 	打开时	c=1 d=0.99005 t=1811
+da lian 	大连	c=4 d=3.6242 t=1811
+da lian hai shi da xue 	大连海事大学	c=2 d=1.91202 t=1811
+da lian jiao tong da xue 	大连交通大学	c=1 d=0.923116 t=1811
+da suan 	打算	c=1 d=1 t=501
+da xiao 	大小	c=4 d=3.45434 t=1811
+da xiao ma 	大小码	c=1 d=0.980199 t=1811
+da xue 	大学	c=11 d=7.29383 t=1811
+da xue 	大雪	c=1 d=1 t=1012
+da xue ren 	大雪人	c=1 d=1 t=965
+dai 	带	c=0 d=0.1 t=665
+dai gei ni 	带给你	c=1 d=0.909373 t=1811
+dai li 	代理	c=3 d=2.88323 t=1811
+dai ling 	带领	c=1 d=0.918731 t=666
+dai ling ni 	带令你	c=1 d=1 t=666
+dai ling ni 	带领你	c=1 d=1 t=667
+dai lu 	带路	c=1 d=0.985112 t=1811
+dai ma 	代码	c=7 d=5.02878 t=1811
+dai ma qiu qu 	代码求取	c=1 d=1 t=1382
+dai ma qu 	代码区	c=1 d=1 t=1383
+dai zhe 	带着	c=1 d=1 t=1759
+dan 	但	c=4 d=2.23297 t=1667
+dan 	单	c=1 d=0.384812 t=1811
+dan an 	单按	c=1 d=0.873716 t=1811
+dan ci 	单词	c=2 d=1.9605 t=1811
+dan ge 	单个	c=1 d=1 t=1285
+dan jian 	单键	c=1 d=0.843665 t=1811
+dan ke yi 	但可以	c=0 d=0.1 t=1258
+dan ke yi bei diao yong 	但可以被调用	c=1 d=1 t=1259
+dan ni 	但你	c=1 d=1 t=728
+dan sheng ming 	但声明	c=1 d=1 t=1230
+dan shi 	但是	c=3 d=1.8053 t=1811
+dan wo men 	但我们	c=1 d=1 t=599
+dang 	当	c=2 d=0.513385 t=1260
+dang bu tong de 	当不同的	c=1 d=1 t=842
+dang cheng 	当成	c=0 d=0.1 t=1084
+dang han shu 	当函数	c=1 d=1 t=1261
+dang ni 	当你	c=2 d=0.985112 t=1811
+dang qian 	当前	c=6 d=4.47901 t=1811
+dang qian suo shu 	当前所属	c=1 d=1 t=819
+dang shi 	当时	c=1 d=1 t=1036
+dang tian wan shang 	当天晚上	c=1 d=1 t=905
+dang wo 	当我	c=0 d=0.1 t=987
+dang wo di di 	当我弟弟	c=1 d=1 t=988
+dang zhong 	当中	c=1 d=1.00009 t=1729
+dang zuo 	当作	c=1 d=0.985112 t=1811
+dao 	到	c=2 d=1.85698 t=1811
+dao da 	到达	c=1 d=1 t=696
+dao de 	到的	c=2 d=1.8202 t=1811
+dao le 	到了	c=1 d=0.951229 t=1811
+dao lu 	道路	c=1 d=1 t=670
+dao na li qu 	到哪里去	c=0 d=0.1 t=350
+dao sun 	到孙	c=1 d=1 t=1811
+de 	地	c=2 d=1.78765 t=1811
+de 	得	c=1 d=1 t=1124
+de 	的	c=82 d=23.943 t=1811
+de ci yu 	的词语	c=1 d=1 t=1811
+de dao 	得到	c=2 d=0.320985 t=1739
+de di fang 	的地方	c=0 d=0.1 t=545
+de hua 	的话	c=1 d=1.00171 t=1281
+de ren 	的人	c=0 d=0.1 t=1046
+de shi 	的是	c=1 d=1 t=1040
+de shi hou 	的时候	c=2 d=1.19398 t=1176
+de shi qing 	的事情	c=1 d=1 t=1734
+de wei zhi 	的位置	c=0 d=0.1 t=381
+de zhi 	得知	c=0 d=0.1 t=1779
+dei mai 	得买	c=1 d=0.980199 t=1811
+den 	扽	c=0 d=0.0970446 t=1811
+den ji 	扽级	c=1 d=1 t=1217
+deng 	等	c=1 d=0.865022 t=1811
+deng 	邓	c=2 d=1.81785 t=1811
+deng ji 	等级	c=1 d=0.99005 t=1811
+di 	地	c=0 d=0.1 t=594
+di bu 	底部	c=1 d=0.965605 t=1811
+di di 	弟弟	c=0 d=0.199501 t=988
+di er tian 	第二天	c=1 d=1 t=305
+di gu 	低谷	c=0 d=0.1 t=446
+di qi 	第七	c=1 d=1 t=1787
+di xiong zi mei 	弟兄姊妹	c=1 d=1 t=654
+di yi 	第一	c=1 d=1 t=1811
+di yi tian 	第一天	c=1 d=1 t=524
+di zhi 	地址	c=1 d=0.232411 t=1811
+di zhi shi shen me 	地址是什么	c=1 d=0.937067 t=1811
+di zhi shu xing 	地址属性	c=2 d=1.95123 t=1526
+di zhi yun suan fu 	地址运算符	c=1 d=1 t=1507
+dian 	点	c=1 d=1 t=770
+dian chi 	电池	c=1 d=0.955997 t=1811
+dian ji kong zhi 	电机控制	c=1 d=0.970446 t=1811
+dian nao duan 	电脑端	c=1 d=0.97531 t=1811
+dian yi xia 	点一下	c=1 d=0.965605 t=1811
+diao 	掉	c=1 d=1 t=1293
+diao yong 	调用	c=2 d=0.847971 t=1552
+die 	爹	c=0 d=0.1 t=933
+ding bu 	顶部	c=1 d=0.955997 t=1811
+ding yi 	定义	c=2 d=1.99501 t=1540
+ding zhu 	叮嘱	c=1 d=1 t=1698
+dong li 	动力	c=1 d=1 t=1692
+dong tai 	动态	c=1 d=1 t=1307
+dong tian 	冬天	c=2 d=1.27527 t=1143
+dou 	抖	c=1 d=0.980199 t=1811
+dou 	都	c=1 d=1 t=507
+dou ban 	豆瓣	c=2 d=1.98511 t=1811
+dou cong 	都从	c=1 d=1 t=937
+dou he 	都和	c=0 d=0.1 t=566
+dou he ni you guan 	都和你有关	c=1 d=1 t=567
+dou hui 	都会	c=1 d=1 t=1432
+dou ke yi 	都可以	c=1 d=1 t=550
+dou mei you 	都没有	c=1 d=1 t=1617
+dou shi 	都是	c=3 d=1.894 t=1557
+dou shi ni 	都是你	c=0 d=0.1 t=447
+dou shi ni zai bao hu 	都是你在保护	c=1 d=1 t=448
+dou shi zhu fu 	都是祝福	c=1 d=1 t=453
+dou yao 	都要	c=1 d=1 t=856
+dou yi yang 	都一样	c=1 d=1 t=1318
+dou yin wei 	都因为	c=1 d=1 t=611
+dou zai 	都在	c=0 d=0.1 t=562
+duan 	端	c=1 d=0.99005 t=1811
+duan kou 	端口	c=1 d=1 t=1811
+dui 	堆	c=2 d=1.93707 t=1283
+dui 	对	c=1 d=0.980199 t=1811
+dui bu shang 	对不上	c=1 d=1.09352 t=1811
+dui bu shang jiao 	对不上焦	c=1 d=0.99005 t=1811
+dui de 	堆得	c=1 d=1 t=970
+dui ji 	堆积	c=1 d=1 t=1349
+dui le 	堆了	c=1 d=1 t=963
+dui nei cun 	堆内存	c=1 d=1 t=1333
+dui ni 	对你	c=1 d=1 t=548
+dui ni de 	对你的	c=1 d=1 t=625
+dui pu tong 	对普通	c=1 d=1 t=1297
+dui qi 	对齐	c=1 d=1 t=1811
+dui qu 	堆区	c=1 d=1 t=1445
+dui wo 	对我	c=1 d=1 t=1075
+dui wo de 	对我的	c=2 d=1.06266 t=1093
+dui xiang 	对象	c=8 d=5.05792 t=1554
+dui ying de 	对应的	c=1 d=0.932394 t=1811
+dui yu 	对于	c=1 d=1 t=1313
+duo ci 	多次	c=1 d=1 t=1248
+duo ge 	多个	c=1 d=0.955997 t=1811
+duo hang 	多行	c=1 d=0.946485 t=1811
+en dian 	恩典	c=0 d=0.0965605 t=1811
+en dian zhi lu 	恩典之路	c=2 d=1.97045 t=1811
+er 	二	c=1 d=1 t=1605
+er 	而	c=2 d=0.865022 t=1811
+er ni 	而你	c=1 d=1 t=676
+er pang 	耳旁	c=1 d=1 t=1696
+er shi 	二十	c=1 d=1 t=1640
+er shi 	而是	c=0 d=0.1 t=292
+er shi wo bai bai 	而是我白白	c=1 d=1 t=293
+er yue 	二月	c=1 d=1 t=1639
+fa chu 	发出	c=1 d=1 t=1116
+fa lai 	发来	c=0 d=0.1 t=1573
+fa lai de 	发来的	c=1 d=1 t=1574
+fa xian 	发现	c=3 d=2.0796 t=1180
+fa zhan 	发展	c=1 d=1 t=689
+fan 	凡	c=1 d=0.985112 t=1811
+fan teng 	翻腾	c=1 d=1 t=1347
+fan wei 	范围	c=1 d=1 t=442
+fan yi 	翻译	c=2 d=1.73091 t=1811
+fan yi cheng 	翻译成	c=2 d=1.88194 t=1811
+fang 	放	c=0 d=0.1 t=1549
+fang bian 	方便	c=1 d=0.985112 t=1811
+fang can shu 	放参数	c=1 d=1 t=1550
+fang da 	放大	c=1 d=1 t=390
+fang fa 	方法	c=2 d=1.74849 t=1811
+fang fei 	放飞	c=1 d=1 t=1701
+fang fu 	仿佛	c=1 d=1 t=1731
+fang qi le 	放弃了	c=0 d=0.1 t=302
+fang qi wo 	放弃我	c=1 d=1 t=311
+fang shi 	方式	c=2 d=1.00062 t=1811
+fang song 	放松	c=1 d=1 t=1795
+fang xiang 	方向	c=1 d=1 t=693
+fang zai 	放在	c=2 d=1.00445 t=1679
+fang zhi 	防止	c=1 d=1 t=775
+fei yao 	非要	c=0 d=0.0941765 t=1811
+fen 	分	c=2 d=0.97531 t=1811
+fen beng li xi 	分崩离析	c=1 d=1 t=1638
+fen bie 	分别	c=1 d=0.927743 t=1811
+fen dao yang biao 	分道扬镳	c=1 d=1 t=616
+fen ge xian 	分割线	c=1 d=0.960789 t=1811
+fen pei 	分配	c=3 d=2.09647 t=1296
+fen qu 	分区	c=1 d=1 t=511
+fen shu 	分数	c=1 d=1 t=1783
+fen xiang 	分享	c=3 d=1.82823 t=1811
+fen zhi 	分支	c=3 d=2.8363 t=1811
+fu 	腐	c=1 d=1 t=1811
+fu chu zhi 	赋初值	c=2 d=1.43171 t=1480
+fu du 	幅度	c=1 d=0.995012 t=1811
+fu hao 	符号	c=0 d=0.1 t=1417
+fu qin 	父亲	c=2 d=1.99501 t=1591
+fu shi 	复试	c=1 d=1 t=1811
+fu shi 	富士	c=1 d=1 t=1811
+fu yi 	负一	c=1 d=0.965605 t=1811
+fu za de 	复杂的	c=1 d=1 t=646
+fu zhi 	复制	c=3 d=2.68045 t=1811
+fu zhi dao 	复制到	c=1 d=0.995012 t=1811
+ga ga 	嘎嘎	c=0 d=0.097531 t=1811
+gai 	该	c=1 d=1.0994 t=1530
+gai bian 	改变	c=0 d=0.1 t=1523
+gai bian liang de 	改变凉的	c=1 d=1 t=1524
+gai bian liang de 	该变量的	c=1 d=1 t=1525
+gai han shu 	该函数	c=1 d=1 t=781
+gai zen me ban 	该怎么办	c=1 d=0.985112 t=1811
+gan dong 	感动	c=2 d=1.8793 t=1811
+gan jue dao 	感觉到	c=0 d=0.1 t=635
+gan jue dao ni 	感觉到你	c=1 d=1 t=636
+gan xie 	感谢	c=2 d=1.88995 t=1811
+gang tie 	钢铁	c=2 d=1.99501 t=1811
+gao liang 	高亮	c=2 d=1.88052 t=1811
+gao meng suan jia 	高锰酸钾	c=1 d=1 t=1811
+gao shan 	高山	c=0 d=0.1 t=446
+gao shan huo di gu 	高山或低谷	c=1 d=1 t=447
+gao su 	告诉	c=0 d=0.1 t=1585
+gao su guo wo 	告诉过我	c=0 d=0.1 t=618
+gao su le 	告诉了	c=1 d=1 t=1586
+ge 	个	c=1 d=1.01033 t=1145
+ge 	歌	c=1 d=1 t=1005
+ge dan 	歌单	c=1 d=0.995012 t=1811
+ge shi hua 	格式化	c=1 d=0.960789 t=1811
+ge shu 	个数	c=1 d=0.955997 t=1811
+ge shu 	格数	c=1 d=0.951229 t=1811
+ge zi 	格子	c=1 d=0.955997 t=1811
+gei 	给	c=1 d=0.999146 t=1811
+gei ni 	给你	c=2 d=1.96079 t=578
+gei wo 	给我	c=1 d=1 t=1095
+gen 	根	c=2 d=1.98496 t=1811
+gen zhe 	跟着	c=1 d=0.927743 t=1811
+geng 	更	c=1 d=1 t=1719
+geng duo 	更多	c=0 d=0.1 t=594
+geng duo di 	更多地	c=1 d=1 t=595
+geng gai 	更改	c=1 d=0.970446 t=1811
+geng huan 	更换	c=2 d=1.95581 t=1811
+geng huan bei jing 	更换背景	c=1 d=0.995012 t=1811
+gong cheng 	工程	c=1 d=0.941765 t=1811
+gong ju 	工具	c=1 d=0.955997 t=1811
+gong neng 	功能	c=2 d=1.59723 t=1811
+gong neng kai fa 	功能开发	c=1 d=0.995012 t=1811
+gong shang 	工商	c=2 d=1.8097 t=1811
+gou zao 	构造	c=1 d=0.985112 t=1811
+gou zao han shu 	构造函数	c=1 d=1 t=1811
+gou zhao 	够着	c=1 d=1 t=811
+gu ding 	固定	c=1 d=0.904837 t=1811
+gu li 	鼓励	c=2 d=1.16041 t=1097
+gu shi 	故事	c=1 d=1 t=947
+gua 	刮	c=0 d=0.1 t=1587
+gua shi gao 	刮石膏	c=1 d=1 t=1588
+guai pi 	怪癖	c=1 d=1 t=1089
+guan 	关	c=0 d=0.1 t=566
+guan bi 	关闭	c=3 d=2.74012 t=1811
+guan jian zi 	关键字	c=1 d=0.852144 t=1811
+guan li 	管理	c=1 d=0.97531 t=1811
+guan wang 	官网	c=1 d=1 t=1811
+guan xi 	关系	c=2 d=0.99005 t=1811
+guan xi zhong 	关系中	c=1 d=1 t=648
+guan yu 	关于	c=1 d=0.366045 t=1811
+guan zhong 	观众	c=1 d=0.946485 t=1811
+guang biao 	光标	c=1 d=0.970446 t=1811
+gui dao 	轨道	c=1 d=0.932394 t=1811
+gui mo 	规模	c=1 d=0.83527 t=1811
+gun cun 	滚存	c=1 d=0.99005 t=1811
+gun dong 	滚动	c=3 d=2.33878 t=1811
+gun dong shi 	滚动时	c=2 d=1.97531 t=381
+guo 	过	c=1 d=1 t=1031
+guo cheng 	过程	c=1 d=1 t=1223
+guo de 	过得	c=0 d=0.1 t=282
+guo de zao gao 	过得糟糕	c=1 d=1 t=283
+guo hou 	过后	c=1 d=1 t=1013
+guo nian 	过年	c=1 d=1 t=941
+guo qu 	过去	c=2 d=1.01867 t=1153
+guo qu yi nian 	过去一年	c=1 d=1 t=538
+ha ha 	哈哈	c=1 d=1 t=1811
+ha su 	哈苏	c=1 d=1 t=1811
+hai 	还	c=2 d=0.745308 t=1811
+hai ga ga 	还嘎嘎	c=1 d=0.980199 t=1811
+hai mei fang jia 	还没放假	c=1 d=1 t=990
+hai mei you 	还没有	c=1 d=1 t=886
+hai shi 	还是	c=1 d=1 t=1811
+hai shi zai 	还是在	c=1 d=1 t=1597
+hai xia 	还下	c=0 d=0.1 t=1747
+hai xia qi le yi chang xue 	还下起了一场雪	c=1 d=1 t=1748
+hai yao 	海摇	c=1 d=1 t=1811
+hai you 	还有	c=0 d=0.1 t=1112
+hai you bu chang de 	还有不长的	c=1 d=1 t=1113
+hai zai 	还在	c=1 d=1 t=1587
+han shu 	函数	c=6 d=3.79069 t=1811
+han shu de 	函数的	c=1 d=1 t=1221
+han shu ming 	函数名	c=1 d=1 t=846
+han shu zhi zhen 	函数指针	c=1 d=1 t=1811
+han yi 	含义	c=1 d=0.985112 t=1811
+han zi 	汉字	c=1 d=0.932394 t=1811
+hang hao 	行号	c=2 d=1.84644 t=1811
+hao 	号	c=1 d=1 t=1642
+hao xiang 	好像	c=1 d=1 t=1182
+he 	和	c=22 d=9.82577 t=1811
+he bie ren 	和别人	c=1 d=1.00273 t=1052
+he bie ren jiao wang de zhi hui 	和别人交往的智慧	c=1 d=1 t=333
+he kai wen 	何凯文	c=1 d=1 t=1811
+he ni 	和你	c=1 d=1 t=591
+he qu nian 	和去年	c=1 d=1 t=1118
+he wo 	和我	c=1 d=1 t=1652
+hei 	黑	c=1 d=0.99005 t=1811
+hei bai 	黑白	c=1 d=0.99005 t=1811
+hei ti 	黑体	c=1 d=1 t=747
+hen 	很	c=1 d=1.06188 t=1046
+hen chang 	很长	c=1 d=1 t=882
+hen chang de 	很长的	c=1 d=1 t=1233
+hen da 	很大	c=1 d=1 t=956
+hen da yi bu fen 	很大一部分	c=1 d=1 t=580
+hen dan diao 	很单调	c=1 d=1 t=586
+hen duan 	很短	c=2 d=1.01323 t=1749
+hen duo 	很多	c=1 d=1 t=928
+hen hao 	很好	c=0 d=0.0366045 t=1811
+hen hao ting 	很好听	c=1 d=1 t=878
+hen jiu 	很久	c=0 d=0.1 t=1040
+hen jiu zhi hou 	很久之后	c=1 d=1 t=1042
+hen jiu zhi hua 	很久之花	c=1 d=1 t=1041
+hen kai xin 	很开心	c=0 d=0.1 t=1789
+hen za luan 	很杂乱	c=1 d=1 t=951
+hen zheng 	很正	c=0 d=0.0970446 t=1811
+hen zheng den shu 	很正扽书	c=1 d=0.97531 t=1811
+hou 	后	c=2 d=0.955997 t=1811
+hou duan 	后端	c=2 d=1.71497 t=1811
+hou xuan 	候选	c=1 d=0.951229 t=1811
+hu lve 	忽略	c=2 d=1.84091 t=1811
+hu lve zhi ding bao 	忽略指定包	c=1 d=1 t=1105
+hu shi 	忽视	c=1 d=1 t=1420
+hu xiao shan zhuang 	呼啸山庄	c=1 d=0.99005 t=1811
+hu yan 	护眼	c=1 d=0.995012 t=1811
+hu you 	忽悠	c=1 d=1 t=1810
+hua 	花	c=1 d=0.980199 t=1811
+hua 	话	c=2 d=1.23575 t=815
+hua gong 	化工	c=1 d=0.980199 t=1811
+hua gong xue yuan 	化工学院	c=0 d=0.0843665 t=1811
+hua yang nian hua 	花样年华	c=1 d=1 t=1811
+hua yu 	华语	c=2 d=1.99005 t=1811
+hua yu 	话语	c=1 d=1 t=633
+huan hang 	换行	c=3 d=2.26758 t=1811
+huan jing 	环境	c=2 d=0.946485 t=1811
+huan lai de 	换来的	c=1 d=1 t=1204
+huan le chang 	欢乐场	c=1 d=1 t=1811
+huan le gu 	欢乐谷	c=1 d=1 t=1356
+huan ying 	欢迎	c=1 d=0.960789 t=1811
+huan yu 	欢愉	c=1 d=1 t=1062
+hui 	会	c=5 d=0.960789 t=1811
+hui da 	回答	c=2 d=1.74716 t=1811
+hui da ma 	回答吗	c=1 d=0.941765 t=1811
+hui da wo ma 	回答我吗	c=1 d=0.980199 t=1811
+hui dao 	回到	c=2 d=1.65705 t=1023
+hui jia 	回家	c=2 d=1.97531 t=913
+hui lai 	回来	c=2 d=1.99005 t=1024
+hui tou 	回头	c=2 d=1.03615 t=1583
+hui wang 	回望	c=1 d=1 t=872
+hui yi 	回忆	c=0 d=0.1 t=261
+hui yi zhong 	回忆中	c=1 d=1 t=262
+hui you 	会有	c=1 d=0.960789 t=1811
+hui zai 	会在	c=1 d=1 t=718
+hui zhi jie 	会直接	c=0 d=0.1 t=1412
+hui zhi jie jiang 	会直接将	c=1 d=1 t=1413
+hun li 	婚礼	c=3 d=2.91662 t=1811
+huo 	或	c=2 d=0.960789 t=1811
+huo che 	火车	c=2 d=1.99501 t=911
+huo guo lai 	活过来	c=1 d=1 t=318
+huo qu 	获取	c=1 d=0.97531 t=1811
+huo zai 	活在	c=0 d=0.1 t=328
+huo zai dang xia 	活在当下	c=1 d=1 t=269
+huo zhe 	或者	c=1 d=1 t=257
+ji 	级	c=2 d=1.43171 t=1111
+ji ben te xing 	基本特性	c=1 d=1 t=1220
+ji chu 	基础	c=1 d=1 t=1634
+ji de 	记得	c=1 d=1 t=899
+ji hu 	几乎	c=0 d=0.1 t=1072
+ji hu mei yi tian 	几乎每一天	c=0 d=0.1 t=562
+ji hu xian ru feng kuang 	几乎陷入疯狂	c=1 d=1 t=1073
+ji hua 	计划	c=1 d=1 t=927
+ji jie 	季节	c=1 d=1 t=1149
+ji kua 	击垮	c=1 d=1 t=1649
+ji lu 	记录	c=2 d=0.955997 t=1811
+ji nei 	机内	c=1 d=0.951229 t=1811
+ji nian 	几年	c=1 d=1 t=968
+ji shu xian zhuang 	技术现状	c=1 d=0.852144 t=1811
+ji suan 	计算	c=1 d=0.882497 t=1811
+ji suan ji 	计算机	c=11 d=7.852 t=1811
+ji xie 	机械	c=2 d=1.65165 t=1811
+ji xu 	继续	c=1 d=1 t=665
+ji yu 	基于	c=1 d=0.895834 t=1811
+ji zhu 	记住	c=1 d=0.960789 t=1811
+jia 	夹	c=2 d=1.87603 t=1811
+jia 	家	c=1 d=1 t=1705
+jia jia jian jian 	加加减减	c=1 d=1 t=1462
+jia li 	家里	c=2 d=1.76721 t=993
+jia qi 	假期	c=1 d=1 t=923
+jia ren men 	家人们	c=2 d=1.66698 t=1017
+jia shang 	加上	c=1 d=1 t=1405
+jia zhang 	家长	c=1 d=1 t=1694
+jia zhong 	家中	c=0 d=0.1 t=924
+jia zhong de 	家中的	c=1 d=1 t=925
+jian 	键	c=2 d=1.62636 t=1811
+jian cha 	检查	c=2 d=1.88362 t=1811
+jian da 	建大	c=0 d=0.1 t=1572
+jian dan 	简单	c=1 d=1 t=702
+jian dan de 	简单的	c=1 d=0.995012 t=1811
+jian dao ni 	见到你	c=1 d=1.09139 t=716
+jian hua 	简化	c=1 d=1 t=1542
+jian ji 	剪辑	c=1 d=1 t=1811
+jian jie 	简洁	c=1 d=0.918512 t=1811
+jian pan 	键盘	c=1 d=0.985112 t=1811
+jian tie ban 	剪贴板	c=2 d=1.71912 t=1811
+jian tie ban jiao hu 	剪贴板交互	c=1 d=1 t=1811
+jian tie ban li 	剪贴板里	c=1 d=1 t=1811
+jian tou 	箭头	c=1 d=1 t=788
+jian zhu da xue 	建筑大学	c=2 d=1.46003 t=1811
+jiang 	将	c=4 d=3.22328 t=1811
+jiang su 	江苏	c=1 d=0.97531 t=1811
+jiang su da xue 	江苏大学	c=4 d=3.78921 t=1811
+jiang su ke ji da xue 	江苏科技大学	c=1 d=1.0516 t=1811
+jiang su ke ji da xue ji suan ji 	江苏科技大学计算机	c=1 d=0.960789 t=1811
+jiang wo 	将我	c=1 d=1 t=458
+jiang zhe ge 	将这个	c=1 d=1 t=1584
+jiao 	焦	c=1 d=1.09851 t=1811
+jiao hu 	交互	c=1 d=0.986422 t=1811
+jiao hui 	教会	c=1 d=1 t=652
+jiao liu 	交流	c=1 d=1 t=1053
+jiao liu bu duo 	交流不多	c=1 d=1 t=534
+jiao luo 	角落	c=1 d=1 t=1171
+jiao pian 	胶片	c=1 d=0.980199 t=1811
+jiao rao 	搅扰	c=1 d=1 t=1071
+jiao shen me ming zi 	叫什么名字	c=1 d=0.980199 t=1811
+jiao tan 	交谈	c=1 d=1 t=574
+jiao wang 	交往	c=1 d=1.00271 t=1054
+jie 	界	c=1 d=1 t=1811
+jie guo 	结果	c=1 d=0.909373 t=1811
+jie he 	结合	c=1 d=0.878095 t=1811
+jie jiu 	解救	c=1 d=1 t=649
+jie jue 	解决	c=1 d=0.980199 t=1811
+jie mian 	界面	c=2 d=1.90856 t=1811
+jie mian she ji 	界面设计	c=1 d=0.960789 t=1811
+jie qu 	截取	c=1 d=0.985112 t=1811
+jie shou de 	接受的	c=1 d=1 t=1581
+jie shu 	结束	c=2 d=1.16613 t=1263
+jie tuo 	解脱	c=1 d=1 t=1215
+jie zhe 	接着	c=1 d=0.995012 t=1811
+jin 	近	c=1 d=0.995012 t=1811
+jin guan 	尽管	c=1 d=1 t=1035
+jin jin 	紧紧	c=1 d=1 t=459
+jin nian 	今年	c=2 d=1.00114 t=1609
+jin yong 	禁用	c=2 d=1.87451 t=1811
+jing gao 	警告	c=1 d=0.955997 t=1811
+jing tai 	静态	c=2 d=1.94649 t=1446
+jing tai ban 	静态版	c=1 d=1 t=1457
+jing tai bian liang 	静态变量	c=0 d=0.199501 t=1224
+jing tai bian liang qu 	静态变量区	c=1 d=1 t=1225
+jing tai bian liang qu 	静态变量去	c=2 d=1.33454 t=1443
+jing xing 	惊醒	c=1 d=1 t=1198
+jing xing hou 	惊醒后	c=0 d=0.1 t=1204
+jing xing hou de 	惊醒后的	c=1 d=1 t=1205
+jiu chan 	纠缠	c=0 d=0.1 t=478
+jiu hen 	就很	c=1 d=0.955997 t=1811
+jiu hui 	就会	c=0 d=0.1 t=1325
+jiu hui bao cuo 	就会报错	c=1 d=1 t=1326
+jiu jie 	纠结	c=1 d=1 t=1059
+jiu nian lai 	九年来	c=2 d=1.66698 t=1025
+jiu shi 	就是	c=5 d=2.07013 t=1714
+ju 	距	c=1 d=0.995012 t=1811
+ju da de 	巨大的	c=0 d=0.1 t=314
+ju ti 	具体	c=1 d=0.965605 t=1811
+ju xian zai 	局限在	c=1 d=1 t=1227
+jue ding de 	决定的	c=1 d=1 t=691
+jun hui 	均会	c=1 d=1 t=1319
+ka dun 	卡顿	c=1 d=0.965605 t=1811
+kai 	开	c=0 d=0.1 t=916
+kai de 	开得	c=1 d=1 t=1756
+kai de 	开的	c=1 d=0.995012 t=1811
+kai duan 	开端	c=1 d=1 t=898
+kai fa 	开发	c=1 d=0.955997 t=1811
+kai qi 	开启	c=4 d=3.16817 t=1811
+kai shi 	开始	c=2 d=1.66223 t=1811
+kai xiao 	开销	c=1 d=1 t=1720
+kai xin 	开心	c=2 d=0.965605 t=1811
+kan bu jian 	看不见	c=1 d=1 t=266
+kan dao 	看到	c=2 d=1.89583 t=1594
+kan dao de 	看到的	c=1 d=1 t=1123
+kan hua 	看花	c=1 d=1 t=1765
+kan jian 	看见	c=0 d=0.1 t=306
+kan jian xin de yi tian 	看见新的一天	c=1 d=1 t=307
+kan le 	看了	c=1 d=0.980199 t=1811
+kan zhe 	看着	c=1 d=0.951229 t=1811
+kao 	靠	c=2 d=1.94605 t=1811
+kao chang 	考场	c=1 d=1.09802 t=1625
+kao chang shang 	考场上	c=1 d=1 t=1630
+kao chang shang de 	考场上的	c=2 d=1.97045 t=1628
+kao shang 	考上	c=1 d=1 t=1610
+kao shi 	考试	c=1 d=1 t=903
+kao wan 	考完	c=1 d=1 t=1664
+kao wan shi 	考完试	c=1 d=1 t=1611
+kao yan 	考研	c=3 d=2.93575 t=1811
+kao yan 	考验	c=1 d=0.985112 t=1811
+ke 	可	c=0 d=0.195123 t=1552
+ke diao yong 	可调用	c=1 d=1 t=1553
+ke diao yong dui xiang 	可调用对象	c=2 d=1.92774 t=1558
+ke ji 	科技	c=2 d=1.49336 t=1811
+ke long 	克隆	c=3 d=2.51356 t=1811
+ke mu 	科目	c=1 d=1 t=1616
+ke shi 	可是	c=2 d=1.01916 t=1163
+ke wo 	可我	c=0 d=0.1 t=326
+ke wo de 	可我的	c=1 d=1 t=327
+ke xue 	科学	c=2 d=1.65993 t=1811
+ke yi 	可以	c=8 d=2.75512 t=1811
+ke yi bei 	可以被	c=1 d=1 t=1506
+ke yi diao yong 	可以调用	c=1 d=1 t=1546
+ke yi fen pei 	可以分配	c=1 d=1 t=1284
+ke yi qing su 	可以倾诉	c=0 d=0.1 t=545
+ke yi she zhi 	可以设置	c=1 d=0.909373 t=1811
+ke yi shi wei 	可以视为	c=1 d=1 t=1475
+ke yi shi yong 	可以使用	c=1 d=1 t=832
+ke yi xiang 	可以向	c=1 d=1 t=469
+ke zhi xing 	可执行	c=1 d=0.740818 t=1811
+kong 	空	c=1 d=0.99005 t=1811
+kong jian 	空间	c=1 d=1 t=424
+kong kong de 	空空的	c=1 d=1 t=261
+kong xu 	空虚	c=1 d=1 t=1725
+kong zhi 	控制	c=2 d=1.97521 t=1811
+ku 	库	c=2 d=0.129199 t=1811
+ku qi 	哭泣	c=1 d=1 t=982
+ku wen jian 	库文件	c=1 d=1 t=843
+ku yue liang 	苦月亮	c=2 d=1.99005 t=1811
+kuai jie jian 	快捷键	c=3 d=2.54202 t=1811
+kuai men 	快门	c=0 d=0.0970446 t=1811
+kuai men de 	快门的	c=1 d=0.97531 t=1811
+kuang ye da xue 	矿业大学	c=1 d=0.970446 t=1811
+kuo hao li 	括号里	c=0 d=0.1 t=1548
+kuo hao li ke yi 	括号里可以	c=1 d=1 t=1549
+lai 	来	c=4 d=1.01344 t=1811
+lai dao 	来到	c=2 d=1.3413 t=1102
+lai de 	来的	c=1 d=0.985112 t=1811
+lan diao 	蓝调	c=1 d=1 t=1811
+lan ya 	蓝牙	c=2 d=1.81425 t=1811
+lang fei 	浪费	c=1 d=1 t=1624
+lao di fang 	老地方	c=1 d=1 t=1128
+lao jia 	老家	c=2 d=1.66698 t=1029
+lao nan hai 	老男孩	c=1 d=1 t=1811
+le 	了	c=3 d=1.85641 t=1811
+le qi lai 	了起来	c=1 d=1 t=1344
+le wo 	了我	c=1 d=1 t=1650
+lei 	类	c=2 d=1.92741 t=1811
+lei dui xiang 	类对象	c=1 d=1 t=1314
+lei xing 	类型	c=5 d=2.53613 t=1476
+lei xing shi 	类型时	c=1 d=1 t=1409
+leng 	冷	c=2 d=1.13332 t=1746
+li 	里	c=30 d=12.6101 t=1811
+li de 	里的	c=3 d=2.61904 t=1811
+li kai 	离开	c=1 d=1 t=1112
+li mian 	里面	c=2 d=0.937068 t=1811
+li wo 	离我	c=1 d=1 t=1732
+li you 	里有	c=1 d=1 t=844
+lian biao 	链表	c=1 d=0.382893 t=1811
+lian wang 	联网	c=1 d=0.909373 t=1811
+liang de 	凉的	c=0 d=0.1 t=1523
+liang du 	亮度	c=1 d=0.995012 t=1811
+liang ge 	两个	c=2 d=1.90823 t=1811
+liang ge ren 	两个人	c=1 d=0.980199 t=1811
+liang li de wai biao 	靓丽的外表	c=1 d=1 t=1066
+liang miao hou 	两秒后	c=1 d=1 t=1578
+liang se 	亮色	c=2 d=1.99005 t=361
+liao tian 	聊天	c=1 d=1 t=1175
+lin dao 	临到	c=0 d=0.1 t=1685
+lin dao wo 	临到我	c=1 d=1 t=1686
+lin shi 	临时	c=1 d=1 t=1811
+lin ye 	林业	c=0 d=0.0937067 t=1811
+ling 	另	c=1 d=1 t=1775
+ling 	灵	c=1 d=1 t=1811
+ling min 	灵敏	c=1 d=0.995012 t=1811
+ling ni 	令你	c=0 d=0.1 t=665
+ling shou 	领受	c=1 d=1 t=294
+ling yi duan 	另一端	c=1 d=1 t=1353
+liu de hua 	刘德华	c=2 d=1.99501 t=1811
+liu shi 	流失	c=1 d=1 t=1738
+liu shi 	流逝	c=1 d=1 t=1739
+liu xia 	留下	c=1 d=1 t=1468
+lou fang 	楼房	c=1 d=1 t=1134
+lu jing 	路径	c=4 d=3.59753 t=1811
+lu qu 	录取	c=1 d=1 t=1575
+lu xiang 	录像	c=1 d=1 t=1811
+lu xu 	陆续	c=1 d=1 t=1019
+lu yin 	录音	c=1 d=1 t=1000
+lun tan 	论坛	c=1 d=0.99005 t=1811
+luo mi ou 	罗密欧	c=1 d=1 t=1811
+luo mi ou yu zhu li ye 	罗密欧与朱丽叶	c=1 d=1 t=1811
+luo ri 	落日	c=1 d=1 t=1811
+lv tu 	旅途	c=1 d=1 t=915
+ma 	吗	c=3 d=0.173633 t=1811
+ma bi 	麻痹	c=1 d=1 t=1728
+ma mu 	麻木	c=1 d=1 t=1191
+man le 	满了	c=1 d=1 t=320
+mao hao 	冒号	c=1 d=0.941765 t=1811
+me 	么	c=1 d=0.909373 t=1811
+mei 	没	c=0 d=0.1 t=1535
+mei ci 	每次	c=1 d=0.965605 t=1811
+mei hao 	美好	c=1 d=1 t=1811
+mei hao de hui yi 	美好的回忆	c=1 d=1 t=1034
+mei hao de jian zheng 	美好的见证	c=1 d=1 t=640
+mei tian 	每天	c=1 d=1 t=1709
+mei yi men 	每一门	c=1 d=1 t=1615
+mei you 	没有	c=11 d=1.3309 t=1811
+mei you 	煤油	c=1 d=1 t=1278
+mei you di zhi 	没有地址	c=1 d=1 t=1536
+mei you sheng yin 	没有声音	c=1 d=1 t=264
+mei you tai duo 	没有太多	c=1 d=1 t=587
+mei you yong 	没有用	c=1 d=0.960789 t=1811
+men 	焖	c=1 d=0.99005 t=1811
+meng ban 	蒙版	c=1 d=1 t=1811
+meng long 	朦胧	c=1 d=0.99005 t=1811
+mi ma 	密码	c=1 d=0.843665 t=1811
+mi shi 	迷失	c=0 d=0.1 t=1205
+mi shi le 	迷失了	c=1 d=1 t=1195
+mi shi zai 	迷失在	c=1 d=1 t=1206
+mian 	面	c=1 d=0.918512 t=1811
+miao shu 	描述	c=1 d=0.97531 t=1811
+ming 	名	c=1 d=1 t=847
+ming ling 	命令	c=3 d=1.62737 t=1811
+ming zi 	名字	c=1 d=1 t=876
+mo kuai 	模块	c=1 d=1.00188 t=1811
+mo ren 	默认	c=5 d=3.73394 t=1811
+mo ren gou zao 	默认构造	c=1 d=1 t=1321
+mo ren gou zao han shu 	默认构造函数	c=1 d=1 t=1325
+mo shi 	模式	c=2 d=1.8825 t=1811
+mo shi xia 	模式下	c=1 d=1 t=400
+mo xi ge 	墨西哥	c=1 d=1 t=1811
+mou ge 	某个	c=1 d=0.932394 t=1811
+mou ge shi ke 	某个时刻	c=1 d=1 t=301
+mou xie 	某些	c=1 d=0.369723 t=1811
+mu ban li 	模板里	c=1 d=0.970446 t=1811
+mu biao 	目标	c=1 d=1 t=930
+mu lu 	目录	c=0 d=0.0951229 t=1811
+mu lu xia 	目录下	c=1 d=0.818731 t=1811
+na 	那	c=1 d=1.01466 t=698
+na duan 	那段	c=1 d=1 t=1769
+na ge 	哪个	c=2 d=1.60653 t=1811
+na ge 	那个	c=2 d=1.00438 t=1600
+na ju da de 	那巨大的	c=1 d=1 t=315
+na me 	那么	c=1 d=1 t=1144
+na shi 	那时	c=3 d=1.73618 t=1743
+na shi de 	那时的	c=1 d=1 t=325
+na xie 	那些	c=0 d=0.1 t=994
+na xie shi jian li 	那些时间里	c=1 d=1 t=995
+na yi 	那一	c=0 d=0.1 t=1787
+na yi nian 	那一年	c=1 d=1 t=565
+na yi zheng ge 	那一整个	c=1 d=1 t=1788
+nai 	奶	c=1 d=1 t=764
+nai jiu 	耐久	c=1 d=1 t=774
+nai you 	奶油	c=1 d=1 t=1811
+nei cun 	内存	c=4 d=2.02476 t=1463
+nei jian 	内建	c=1 d=1 t=1811
+nei rong 	内容	c=5 d=3.69768 t=1811
+nei xin 	内心	c=1 d=1 t=1069
+neng 	能	c=2 d=1.0018 t=1614
+neng bu neng 	能不能	c=1 d=0.900325 t=1811
+neng gou 	能够	c=1 d=1 t=715
+neng yong 	能用	c=1 d=0.992391 t=1811
+neng you 	能有	c=1 d=0.843665 t=1811
+ni 	你	c=5 d=2.33868 t=1811
+ni ai 	你爱	c=2 d=1.96561 t=463
+ni ai wo 	你爱我	c=0 d=0.1 t=449
+ni ai wo ren shi wo 	你爱我认识我	c=1 d=1 t=450
+ni chu xian zai wo de 	你出现在我的	c=1 d=0.362402 t=1811
+ni de 	你的	c=1 d=1 t=490
+ni de xiang fa 	你的想法	c=1 d=1 t=396
+ni gao su guo wo 	你告诉过我	c=1 d=1 t=619
+ni hao 	你好	c=4 d=0.927744 t=1811
+ni hao ma 	你好吗	c=1 d=1 t=340
+ni hui 	你会	c=0 d=0.1 t=619
+ni hui yi zhi zai zhe li 	你会一直在这里	c=1 d=1 t=620
+ni kang 	尼康	c=11 d=9.86853 t=1811
+ni liao jie 	你了解	c=0 d=0.1 t=550
+ni liao jie wo 	你了解我	c=1 d=1 t=551
+ni mei you 	你没有	c=1 d=1 t=618
+ni neng yong 	你能用	c=1 d=0.970446 t=1811
+ni shi 	你是	c=1 d=0.995012 t=1811
+ni shi wo de 	你是我的	c=2 d=1.33781 t=444
+ni shi wo de zhu 	你是我的主	c=1 d=1 t=445
+ni shou 	你手	c=2 d=1.96561 t=464
+ni xiang 	你想	c=0 d=0.1 t=350
+ni xiang dao na li qu 	你想到哪里去	c=1 d=1 t=351
+ni you 	你有	c=1 d=1.04584 t=722
+ni zai na 	你在哪	c=1 d=1 t=347
+ni zen me kan 	你怎么看	c=1 d=0.364219 t=1811
+ni zuo dao le 	你做到了	c=1 d=1 t=621
+nian 	年	c=2 d=1.1054 t=1011
+nong ye 	农业	c=1 d=0.822835 t=1811
+nu li 	努力	c=1 d=1 t=1152
+nv hai 	女孩	c=1 d=0.909373 t=1811
+nv sheng 	女生	c=1 d=0.970446 t=1811
+ou ran 	偶然	c=1 d=1 t=1178
+pai lei 	牌类	c=1 d=0.985112 t=1811
+pai lie 	排列	c=1 d=0.99005 t=1811
+pai ming 	排名	c=1 d=1 t=1786
+pai zhao 	拍照	c=2 d=1.98688 t=1767
+pan 	盘	c=1 d=1 t=509
+pan duan 	判断	c=1 d=1 t=861
+pan wang 	盼望	c=0 d=0.1 t=461
+pang huang 	彷徨	c=1 d=0.99005 t=1811
+pao tong 	跑通	c=1 d=1 t=1811
+pei ban 	陪伴	c=1 d=1 t=540
+pei zhe ni 	陪着你	c=1 d=1 t=720
+pei zhi 	配置	c=3 d=2.52571 t=1811
+peng you 	朋友	c=5 d=1.06387 t=1174
+pi fu 	皮肤	c=0 d=0.0909373 t=1811
+pi fu ma 	皮肤吗	c=1 d=0.913931 t=1811
+pi juan 	疲倦	c=1 d=1 t=1208
+pi lao 	疲劳	c=1 d=1 t=1213
+pian ke 	片刻	c=1 d=1 t=1060
+piao dang 	飘荡	c=1 d=1 t=263
+piao luo 	飘落	c=0 d=0.1 t=1147
+piao luo de 	飘落的	c=1 d=1 t=1148
+ping 	屏	c=1 d=0.970446 t=1811
+ping an 	平安	c=3 d=2.10444 t=673
+ping hua 	平滑	c=2 d=1.76578 t=1811
+ping mu 	屏幕	c=4 d=3.00202 t=1811
+ping mu de 	屏幕的	c=1 d=1 t=1107
+ping mu zai 	屏幕在	c=1 d=1 t=375
+pu tong 	普通	c=0 d=0.1 t=1296
+qi 	其	c=0 d=0.1 t=1400
+qi che 	汽车	c=1 d=0.99005 t=1811
+qi dong 	启动	c=2 d=1.8385 t=1811
+qi dong ye mian 	启动页面	c=1 d=0.843665 t=1811
+qi ji 	奇迹	c=1 d=1.08461 t=1811
+qi ji de 	奇迹的	c=0 d=0.097531 t=1811
+qi ji de shan 	奇迹的山	c=1 d=0.980199 t=1811
+qi ji zhi shan 	奇迹之山	c=1 d=1 t=1811
+qi lai 	起来	c=0 d=0.1 t=1343
+qi le 	起了	c=0 d=0.1 t=1747
+qi mo 	期末	c=1 d=1 t=902
+qi pian wo 	欺骗我	c=1 d=1 t=1166
+qi xu 	期许	c=1 d=1 t=1099
+qian jin 	前进	c=1 d=1 t=694
+qian jing 	前景	c=1 d=0.873716 t=1811
+qian liang tian 	前两天	c=1 d=1 t=1172
+qiao ran 	悄然	c=0 d=0.1 t=535
+qiao ran er shi 	悄然而逝	c=1 d=1 t=536
+qie 	且	c=1 d=1 t=1548
+qie huan 	切换	c=1 d=0.960789 t=1811
+qie huan cheng 	切换成	c=2 d=2.08012 t=363
+qie huan cheng an se 	切换成暗色	c=1 d=1 t=364
+qing 	请	c=2 d=1.62281 t=1811
+qing ba 	请把	c=0 d=0.0980199 t=1811
+qing ba ta 	请把他	c=1 d=0.985112 t=1811
+qing chu 	清除	c=1 d=0.937068 t=1811
+qing hua 	清华	c=2 d=1.80878 t=1811
+qing kuang 	情况	c=1 d=1 t=426
+qing nian 	青年	c=1 d=0.941765 t=1811
+qing wen 	请问	c=1 d=0.970446 t=1811
+qing yin yue 	轻音乐	c=1 d=1 t=1811
+qing yong 	请用	c=3 d=2.57233 t=1811
+qing zhu 	庆祝	c=1 d=1 t=1793
+qiu qi 	求其	c=0 d=0.1 t=1360
+qiu qu 	求取	c=0 d=0.1 t=1381
+qiu tian 	秋天	c=1 d=1 t=881
+qu 	区	c=0 d=0.132956 t=1446
+qu 	去	c=2 d=1.99501 t=1811
+qu bie 	区别	c=5 d=4.14154 t=1811
+qu nian 	去年	c=4 d=1.99408 t=1142
+qu nian de 	去年的	c=1 d=1 t=952
+qu yu 	区域	c=1 d=0.913931 t=1811
+quan bu 	全部	c=2 d=1.08673 t=1242
+quan ju bian liang 	全局变量	c=0 d=0.1 t=1455
+quan ju bian liang he 	全局变量和	c=1 d=1 t=1456
+quan ping 	全屏	c=2 d=1.86562 t=1811
+quan xian 	权限	c=1 d=0.946485 t=1811
+que 	却	c=2 d=0.895834 t=1811
+que bei 	却被	c=1 d=0.941765 t=1811
+que dian 	缺点	c=2 d=1.04117 t=1050
+que ding le 	确定了	c=1 d=1 t=1453
+que mei you 	却没有	c=1 d=1 t=977
+que shi 	确实	c=1 d=1 t=707
+que you 	却又	c=1 d=1 t=1741
+ran wo 	然我	c=1 d=1 t=1209
+rang 	让	c=4 d=2.99866 t=1811
+rang wo 	让我	c=0 d=0.1 t=295
+rang wo de 	让我的	c=1 d=1 t=542
+rang wo di di 	让我弟弟	c=1 d=1 t=959
+rang wo shi wang de 	让我失望的	c=1 d=1 t=296
+rang yi ge 	让一个	c=1 d=0.97531 t=1811
+ren gong 	人工	c=2 d=1.75181 t=1811
+ren gong zhi neng 	人工智能	c=1 d=0.951229 t=1811
+ren gong zhi neng xue yuan 	人工智能学院	c=1 d=0.955997 t=1811
+ren he 	任何	c=1 d=1 t=1691
+ren ji 	人际	c=1 d=1 t=647
+ren qun 	人群	c=1 d=1 t=1138
+ren sheng de dao li 	人生的道理	c=1 d=1 t=332
+ren sheng lu 	人生路	c=0 d=0.1 t=464
+ren shi 	人是	c=1 d=1 t=268
+ren shi wo 	认识我	c=0 d=0.1 t=449
+ren xing 	任性	c=1 d=1 t=1088
+ren zai 	人在	c=1 d=1 t=272
+reng shi 	仍是	c=1 d=0.932394 t=1811
+ri chang 	日常	c=1 d=1 t=1103
+ri chu 	日出	c=1 d=0.995012 t=1811
+rong ru 	融入	c=1 d=1 t=1151
+ru guo 	如果	c=8 d=3.01258 t=1429
+ru guo mei you 	如果没有	c=1 d=1 t=1417
+ru he 	如何	c=6 d=4.66574 t=1811
+ru jin 	如今	c=1 d=1 t=334
+ru xia 	如下	c=1 d=0.860708 t=1811
+ruan jian 	软件	c=4 d=2.74011 t=1811
+ruo wu 	若无	c=1 d=1.1 t=245
+ruo wu suo shi 	若无所事	c=1 d=1 t=246
+san ge 	三个	c=1 d=1 t=1442
+san nian duo 	三年多	c=1 d=1 t=1154
+san yue 	三月	c=2 d=1.8825 t=1778
+san yue chu 	三月初	c=1 d=1 t=1747
+se wen 	色温	c=1 d=1 t=1108
+sha jun 	杀菌	c=1 d=0.97531 t=1811
+shan 	山	c=1 d=1.09254 t=1811
+shan beng 	山崩	c=1 d=0.995012 t=1811
+shan chu 	删除	c=6 d=4.98896 t=1811
+shang 	上	c=9 d=4.8804 t=1811
+shang ci 	上次	c=1 d=1 t=1593
+shang de 	上的	c=1 d=0.99005 t=1811
+shang di 	上帝	c=2 d=1.90743 t=664
+shang wu 	上午	c=1 d=1 t=1643
+shao 	烧	c=1 d=0.995012 t=1811
+shao yu 	少于	c=1 d=0.818731 t=1811
+she ji 	涉及	c=1 d=0.927743 t=1811
+she wei 	设为	c=2 d=1.11707 t=797
+she ying 	摄影	c=2 d=1.9459 t=1811
+she zhi 	设置	c=19 d=9.72336 t=1811
+she zhi de 	设置得	c=0 d=0.0937067 t=1811
+she zhi de bian liang 	设置得变量	c=1 d=0.941765 t=1811
+she zhi wei 	设置为	c=1 d=0.125097 t=1481
+she zhi wei kong 	设置为空	c=1 d=1 t=1482
+shen 	什	c=1 d=1 t=975
+shen 	神	c=0 d=0.0965605 t=1811
+shen de 	神的	c=1 d=1 t=632
+shen duo 	甚多	c=1 d=1 t=1661
+shen gen zhang zhi 	神根涨至	c=1 d=0.970446 t=1811
+shen me 	什么	c=3 d=0.778801 t=1811
+shen me yi si 	什么意思	c=2 d=1.87045 t=1811
+shen qing 	申请	c=1 d=1 t=1308
+sheng 	生	c=2 d=1.88589 t=1811
+sheng cheng 	生成	c=5 d=3.63628 t=1811
+sheng hou 	生后	c=1 d=1 t=1157
+sheng huo 	生活	c=3 d=1.37047 t=1158
+sheng huo de 	生活的	c=1 d=1 t=1707
+sheng huo zhong 	生活中	c=0 d=0.1 t=288
+sheng huo zhong lai de 	生活中来的	c=1 d=1 t=289
+sheng ji 	升级	c=2 d=1.92741 t=1811
+sheng ming 	声明	c=1 d=0.259614 t=1229
+sheng ming 	生命	c=1 d=1 t=1231
+sheng yin 	声音	c=1 d=1 t=1009
+shi 	事	c=0 d=0.1 t=245
+shi 	使	c=2 d=1.80572 t=1811
+shi 	时	c=11 d=6.25063 t=1811
+shi 	是	c=19 d=4.97758 t=1811
+shi 	视	c=1 d=1 t=1363
+shi 	逝	c=0 d=0.1 t=535
+shi de 	使得	c=3 d=0.900325 t=1811
+shi dian 	十点	c=1 d=1 t=1644
+shi fen zhong hou 	十分钟后	c=1 d=1 t=1673
+shi fou 	是否	c=1 d=0.822835 t=1811
+shi gao 	石膏	c=0 d=0.1 t=1587
+shi hou 	时候	c=4 d=2.86456 t=1811
+shi hua 	实话	c=1 d=1 t=1450
+shi jian 	时间	c=5 d=2.40136 t=1770
+shi jian li 	时间里	c=0 d=0.1 t=994
+shi jiu hao 	十九号	c=1 d=1 t=1779
+shi liu fen 	十六分	c=0 d=0.1 t=1567
+shi na jiu wen 	十拿九稳	c=1 d=1 t=1803
+shi pin 	视频	c=1 d=0.995012 t=1811
+shi qi 	湿气	c=1 d=1 t=1345
+shi qing 	事情	c=8 d=2.20948 t=1805
+shi qu 	失去	c=1 d=1 t=1515
+shi se qi 	拾色器	c=1 d=0.970446 t=1811
+shi shen me 	是什么	c=8 d=6.10414 t=1811
+shi shen me yi si 	是什么意思	c=4 d=3.45436 t=1811
+shi shi 	实时	c=1 d=0.927744 t=1811
+shi tian qian 	十天前	c=1 d=1 t=1598
+shi tu 	试图	c=1 d=1 t=1632
+shi wan ba qian li 	十万八千里	c=1 d=1 t=1733
+shi wang 	失望	c=1 d=1 t=644
+shi wang de 	失望的	c=0 d=0.1 t=295
+shi wo 	使我	c=1 d=1 t=1211
+shi wo 	是我	c=2 d=1.29623 t=1210
+shi xi 	实习	c=1 d=0.963306 t=1811
+shi xi dan wei 	实习单位	c=1 d=0.831104 t=1811
+shi xi shou huo 	实习收获	c=1 d=0.856415 t=1811
+shi xi zong jie 	实习总结	c=1 d=0.802519 t=1811
+shi xian 	实现	c=4 d=2.95875 t=1811
+shi yao 	是要	c=1 d=1 t=1267
+shi yi ge 	是一个	c=1 d=1 t=1552
+shi yi hao 	十一号	c=1 d=1 t=901
+shi yong 	使用	c=19 d=9.23213 t=1811
+shi yong le 	使用了	c=1 d=0.980199 t=1811
+shi yong shuo ming 	使用说明	c=1 d=0.937068 t=1811
+shi zai 	是在	c=1 d=0.0923116 t=1811
+shi zai wo 	是在我	c=1 d=0.927743 t=1811
+shi zui hao de 	是最好的	c=1 d=1 t=1792
+shou ci 	首次	c=1 d=1 t=800
+shou dong jing tou 	手动镜头	c=1 d=1 t=1762
+shou huo 	收获	c=0 d=0.0852144 t=1811
+shou ji 	手机	c=1 d=1 t=1571
+shou ji 	收集	c=1 d=0.980199 t=1811
+shu 	书	c=0 d=0.0970446 t=1811
+shu biao 	鼠标	c=2 d=1.89356 t=1811
+shu biao zhi zhen 	鼠标指针	c=1 d=0.941765 t=1811
+shu li 	数理	c=1 d=0.856415 t=1811
+shu mu 	树木	c=0 d=0.1 t=1114
+shu mu hui 	树木会	c=1 d=1 t=1115
+shu qian 	书签	c=2 d=1.67584 t=1811
+shu ru 	输入	c=1 d=0.951229 t=1811
+shu ru fa 	输入法	c=3 d=2.7006 t=1811
+shu shi 	舒适	c=1 d=1 t=1708
+shu xing 	属性	c=2 d=0.980199 t=1811
+shu xue 	数学	c=1 d=1 t=1811
+shu yu 	属于	c=0 d=0.1 t=1160
+shu yuan 	疏远	c=1 d=1 t=605
+shu zu 	数组	c=1 d=1 t=1295
+shuang 	双	c=1 d=0.932394 t=1811
+shui 	谁	c=1 d=1 t=1811
+shui mian zhong 	睡眠中	c=1 d=1 t=1194
+shuo hua 	说话	c=1 d=1 t=564
+shuo ming 	说明	c=1 d=0.955997 t=1811
+shuo shen me 	说什么	c=1 d=1 t=549
+si 	四	c=1 d=1 t=1641
+si dian 	四点	c=0 d=0.1 t=1567
+si dian shi liu fen 	四点十六分	c=1 d=1 t=1568
+si hu 	似乎	c=1 d=1 t=571
+si kao 	思考	c=0 d=0.1 t=330
+si xu 	思绪	c=3 d=1.08978 t=1070
+si yue shi hao 	四月十号	c=1 d=1 t=1565
+song xia 	松下	c=3 d=2.96531 t=1811
+sou suo 	搜索	c=1 d=0.941765 t=1811
+su shuo 	诉说	c=1 d=1 t=740
+su zhou 	苏州	c=1 d=0.937067 t=1811
+sui 	随	c=2 d=1.03159 t=1564
+sui bi 	随笔	c=1 d=1 t=871
+sui ran 	虽然	c=1 d=1 t=576
+suo 	所	c=0 d=0.1 t=245
+suo chu de 	所处的	c=1 d=0.913931 t=1811
+suo jin 	缩进	c=1 d=0.932394 t=1811
+suo lve 	缩略	c=1 d=0.995012 t=1811
+suo shi 	所示	c=1 d=1 t=1471
+suo shu 	所属	c=2 d=1.84366 t=1811
+suo xiao 	缩小	c=1 d=0.941765 t=1811
+suo xiao de 	缩小的	c=1 d=1 t=392
+suo yi 	所以	c=3 d=2.98411 t=1477
+suo yi wo men 	所以我们	c=1 d=1 t=1517
+suo yi wu fa 	所以无法	c=1 d=1 t=1398
+suo you 	所有	c=1 d=1 t=1301
+ta 	他	c=1 d=0.0980199 t=1811
+ta 	她	c=1 d=1 t=1002
+ta 	它	c=1 d=1.05023 t=1811
+ta chen deng chun 	它臣等春	c=1 d=0.995012 t=1811
+ta jiang 	他将	c=1 d=1 t=312
+ta men 	他们	c=3 d=2.94402 t=1092
+ta shang le 	踏上了	c=1 d=1 t=912
+tai 	太	c=1 d=0.99005 t=1811
+tan chu 	弹出	c=1 d=0.927743 t=1811
+tang guo 	糖果	c=1 d=0.909373 t=1811
+ti chu 	提出	c=1 d=0.923116 t=1811
+ti dan 	题单	c=1 d=0.965605 t=1811
+ti huan 	替换	c=2 d=0.951229 t=1811
+ti huan wei 	替换为	c=1 d=1 t=1415
+ti ji 	体积	c=2 d=1.95123 t=1811
+ti jiao 	提交	c=2 d=1.64156 t=1811
+ti shi 	提示	c=1 d=0.839457 t=1811
+tian bao 	填报	c=1 d=1 t=1657
+tian jia 	添加	c=2 d=1.80063 t=1811
+tian jin gong ye da xue 	天津工业大学	c=1 d=0.860708 t=1811
+tian qi 	天气	c=2 d=1.13332 t=1744
+tiao di 	调低	c=1 d=1 t=1811
+tiao guo 	跳过	c=1 d=1 t=1240
+tiao jie 	调节	c=3 d=2.92862 t=1811
+tiao shi 	调试	c=1 d=0.980199 t=1811
+tiao zhuan 	跳转	c=1 d=0.960789 t=1811
+ting bu jian 	听不见	c=0 d=0.1 t=264
+ting jian 	听见	c=2 d=1.97045 t=1010
+ting qi lai 	听起来	c=1 d=1 t=877
+ting wo shuo 	听我说	c=1 d=1 t=553
+ting zhi le 	停止了	c=0 d=0.1 t=247
+tong bu 	同步	c=1 d=0.995012 t=1811
+tong deng 	同等	c=1 d=0.960789 t=1811
+tong guo 	通过	c=2 d=1.81775 t=1811
+tong yi ge 	同一个	c=1 d=0.995012 t=1811
+tong zhi 	通知	c=1 d=1 t=1576
+tou cha fa 	头插法	c=1 d=0.386741 t=1811
+tu 	图	c=1 d=1 t=1811
+tu mu 	土木	c=2 d=1.55061 t=1811
+tu pian 	图片	c=4 d=3.59982 t=1811
+tu rang 	土壤	c=1 d=0.970446 t=1811
+tu xing 	图形	c=1 d=0.932394 t=1811
+tuan ju 	团聚	c=1 d=1 t=950
+tui chu 	退出	c=0 d=0.0946485 t=1811
+tui chu de 	退出的	c=1 d=0.951229 t=1811
+tui chu shi 	退出时	c=1 d=0.97531 t=1811
+tui duan 	推断	c=2 d=1.91393 t=1407
+tui duan chu 	推断出	c=2 d=1.97045 t=1399
+tui jian 	推荐	c=1 d=0.839457 t=1811
+wai 	外	c=1 d=1 t=1699
+wan 	完	c=1 d=1 t=1716
+wan 	玩	c=1 d=1 t=1717
+wan ren 	万人	c=0 d=0.1 t=448
+wan ren zhong wei du 	万人中唯独	c=1 d=1 t=449
+wang luo 	网络	c=1 d=1 t=486
+wang na 	往哪	c=0 d=0.1 t=691
+wang ye 	网页	c=4 d=3.60811 t=1811
+wang ye xian shi 	网页显示	c=1 d=1 t=1811
+wang zhan 	网站	c=5 d=3.56951 t=1811
+wang zhan shi 	网站时	c=1 d=0.771051 t=1811
+wang zhe 	望着	c=1 d=1 t=1131
+wei 	为	c=5 d=3.83117 t=1811
+wei 	尾	c=0 d=0.0951229 t=1811
+wei du 	唯独	c=0 d=0.1 t=448
+wei li 	为例	c=1 d=1 t=521
+wei li 	威力	c=0 d=0.1 t=518
+wei shen me 	为什么	c=9 d=6.5611 t=1811
+wei xin 	微信	c=4 d=3.69652 t=1811
+wei yi 	唯一	c=1 d=1 t=1272
+wei zhi 	位置	c=1 d=0.980199 t=1811
+wei zhi zhen 	尾指针	c=1 d=0.955997 t=1811
+wen ben 	文本	c=1 d=0.955997 t=1811
+wen jian 	文件	c=14 d=8.8337 t=1811
+wen jian jia 	文件夹	c=2 d=1.79189 t=1811
+wen jian jia li 	文件夹里	c=1 d=0.755784 t=1811
+wen nuan 	温暖	c=1 d=1 t=985
+wen ti 	问题	c=2 d=1.77526 t=1811
+wen xian 	文献	c=1 d=1 t=1811
+wen zhang 	文章	c=1 d=0.951229 t=1811
+wen zi 	文字	c=1 d=0.878095 t=1811
+wo 	我	c=6 d=1.89185 t=1811
+wo ba 	我把	c=0 d=0.1 t=567
+wo ba ta men 	我把他们	c=1 d=1 t=568
+wo bu 	我不	c=0 d=0.1 t=1160
+wo bu jue de 	我不觉得	c=1 d=1 t=282
+wo bu shu yu zhe li 	我不属于这里	c=1 d=1 t=1161
+wo bu zhi dao 	我不知道	c=2 d=1.91851 t=697
+wo cai 	我才	c=1 d=1 t=1043
+wo cha jue de dao 	我察觉得到	c=1 d=1 t=1740
+wo che di 	我彻底	c=1 d=1 t=1700
+wo dang shi 	我当时	c=1 d=1 t=976
+wo de 	我的	c=6 d=0.99889 t=1811
+wo de 	握的	c=1 d=1 t=1781
+wo de jia ren 	我的家人	c=1 d=1 t=1074
+wo de xi tong 	我的系统	c=1 d=0.955997 t=1811
+wo de zhi 	我得知	c=1 d=1 t=1780
+wo dian le 	我点了	c=1 d=1 t=1579
+wo dou 	我都	c=0 d=0.1 t=1789
+wo dou hen kai xin 	我都很开心	c=1 d=1 t=1790
+wo duo xiang 	我多想	c=1 d=1 t=322
+wo gai 	我该	c=1 d=0.847894 t=1811
+wo gan dao 	我感到	c=0 d=0.1 t=605
+wo gan xie 	我感谢	c=2 d=1.06891 t=1090
+wo gan xie ni 	我感谢你	c=1 d=1 t=537
+wo gei 	我给	c=1 d=0.900325 t=1811
+wo hao xiang 	我好想	c=1 d=1 t=1181
+wo he ni 	我和你	c=1 d=1 t=547
+wo hui 	我会	c=0 d=0.1 t=735
+wo hui yi zhi 	我会一直	c=1 d=1 t=736
+wo huo zai 	我活在	c=1 d=1 t=329
+wo jie shou 	我接受	c=1 d=1 t=1674
+wo jin nian 	我今年	c=0 d=0.1 t=710
+wo jin nian de 	我今年的	c=1 d=1 t=711
+wo jing 	我竟	c=1 d=1 t=1806
+wo jiu 	我就	c=1 d=1 t=906
+wo jue de zhe yang 	我觉得这样	c=0 d=0.0366045 t=1811
+wo jue de zhe yang hen hao 	我觉得这样很好	c=1 d=0.367879 t=1811
+wo ke yi 	我可以	c=1 d=0.855784 t=691
+wo ke yi wang na ge 	我可以往哪个	c=1 d=1 t=692
+wo lao 	我老	c=0 d=0.1 t=933
+wo lao die 	我老爹	c=1 d=1 t=934
+wo ma 	我吗	c=0 d=0.097531 t=1811
+wo mei xiang guo 	我没想过	c=1 d=1 t=1606
+wo mei you 	我没有	c=2 d=1.0534 t=1623
+wo men 	我们	c=6 d=2.5012 t=961
+wo men de 	我们的	c=1 d=1 t=556
+wo men ji hu mei yi tian dou zai 	我们几乎每一天都在	c=1 d=1 t=563
+wo men you 	我们又	c=1 d=1 t=1026
+wo men zi ji de shi qing 	我们自己的事情	c=1 d=1 t=597
+wo na 	我那	c=0 d=0.1 t=1086
+wo na xie 	我那些	c=1 d=1 t=1087
+wo neng 	我能	c=1 d=1.00102 t=1607
+wo neng zuo de 	我能做的	c=1 d=1 t=725
+wo shi 	我使	c=0 d=0.0951229 t=1811
+wo shi 	我是	c=3 d=2.98506 t=868
+wo shi yi ge 	我是一个	c=1 d=1 t=1045
+wo shi yong le 	我使用了	c=1 d=0.955997 t=1811
+wo tang zai 	我躺在	c=1 d=1 t=957
+wo ting zhi le 	我停止了	c=1 d=1 t=248
+wo tu 	沃土	c=1 d=1 t=1177
+wo wang le 	我忘了	c=1 d=1 t=888
+wo wu xiu zhi de yu wang 	我无休止的欲望	c=1 d=1 t=299
+wo xi huan 	我喜欢	c=1 d=1 t=1758
+wo xi wang 	我希望	c=2 d=1.61087 t=1811
+wo xi wang wo men 	我希望我们	c=1 d=1 t=554
+wo xi yi wei chang de 	我习以为常的	c=1 d=1 t=288
+wo xian ru 	我陷入	c=1 d=1 t=1722
+wo xiang 	我想	c=2 d=1.05448 t=1159
+wo xiang xiang 	我想象	c=0 d=0.1 t=1000
+wo xiang xiang zhe 	我想象着	c=1 d=1 t=1001
+wo xiang yao 	我想要	c=0 d=0.1 t=698
+wo xiang yao jian dao ni 	我想要见到你	c=1 d=1 t=699
+wo xie 	我写	c=0 d=0.0941765 t=1811
+wo xie gei 	我写给	c=1 d=0.946485 t=1811
+wo xin zhong 	我心中	c=1 d=1 t=319
+wo xu yao 	我需要	c=0 d=0.0980199 t=1811
+wo xu yao yi ge 	我需要一个	c=1 d=0.985112 t=1811
+wo yao 	我要	c=0 d=0.1 t=681
+wo yao zuo shen me 	我要做什么	c=1 d=1 t=682
+wo ye 	我也	c=2 d=1.62189 t=717
+wo ye gan xie 	我也感谢	c=1 d=1 t=558
+wo yi ge ren 	我一个人	c=1 d=1 t=991
+wo ying gai 	我应该	c=1 d=0.955997 t=1811
+wo ying gai zen me zuo 	我应该怎么做	c=1 d=0.965605 t=1811
+wo you 	我有	c=0 d=0.1 t=524
+wo you hen duo de 	我有很多的	c=1 d=1 t=284
+wo you yi xie 	我有一些	c=1 d=1 t=525
+wo zai 	我在	c=4 d=0.882497 t=1811
+wo zai si kao 	我在思考	c=1 d=1 t=331
+wo zhen de 	我真的	c=1 d=1 t=302
+wo zheng kai yan jing 	我睁开眼睛	c=1 d=1 t=306
+wo zhi dao 	我知道	c=1 d=1 t=335
+wo zou 	我走	c=0 d=0.1 t=445
+wo zuo de 	我做的	c=0 d=0.1 t=565
+wo zuo de yi qie shi qing 	我做的一切事情	c=1 d=1 t=566
+wo zuo wei 	我作为	c=1 d=0.937067 t=1811
+wu can shu 	无参数	c=2 d=1.9802 t=810
+wu de 	雾的	c=1 d=1 t=1352
+wu duan 	无端	c=1 d=1 t=1723
+wu fa 	无法	c=1 d=0.904837 t=1811
+wu fa shi yong 	无法使用	c=1 d=1 t=1282
+wu hou 	午后	c=3 d=1.04684 t=1604
+wu neng wei li 	无能为力	c=1 d=1 t=1742
+wu shu ci 	无数次	c=1 d=1 t=1260
+wu song 	雾凇	c=1 d=0.923116 t=1811
+wu song pin yin 	雾凇拼音	c=1 d=1 t=494
+wu xiu zhi 	无休止	c=0 d=0.1 t=298
+xi ban ya 	西班牙	c=1 d=0.980199 t=1811
+xi ban ya yu 	西班牙语	c=4 d=3.60153 t=1811
+xi le 	喜乐	c=2 d=0.423322 t=671
+xi le he 	喜乐和	c=1 d=1 t=672
+xi tong 	系统	c=6 d=4.97873 t=1811
+xi tong de 	系统的	c=1 d=0.826959 t=1811
+xi tong shang 	系统商	c=1 d=1 t=827
+xi tong xia 	系统下	c=1 d=0.806541 t=1811
+xi wang 	希望	c=2 d=1.16696 t=671
+xi xi rang rang 	熙熙攘攘	c=1 d=1 t=1136
+xi yi wei chang 	习以为常	c=0 d=0.1 t=287
+xia 	下	c=8 d=6.65152 t=1811
+xia bian xian 	下边线	c=1 d=0.965605 t=1811
+xia biao 	下标	c=1 d=1 t=431
+xia biao 	下表	c=1 d=1 t=430
+xia ci 	下次	c=1 d=0.99005 t=1811
+xia de 	下得	c=1 d=1 t=955
+xia mian 	下面	c=2 d=1.81517 t=1811
+xia tian 	夏天	c=2 d=1.04394 t=883
+xia wu 	下午	c=2 d=1.32792 t=1789
+xia zai 	下载	c=5 d=4.16533 t=1811
+xian 	先	c=1 d=1 t=470
+xian ru 	陷入	c=0 d=0.1 t=1721
+xian ru feng kuang 	陷入疯狂	c=0 d=0.1 t=1072
+xian sheng 	先生	c=1 d=0.941765 t=1811
+xian shi 	显示	c=6 d=4.50762 t=1811
+xian shi hang hao 	显示行号	c=1 d=1 t=761
+xian shi qi 	显示器	c=1 d=0.0946485 t=1811
+xian shi qi de 	显示器的	c=1 d=0.951229 t=1811
+xian shi qu yu 	显示区域	c=1 d=1 t=763
+xian shi wei 	显示为	c=1 d=0.856415 t=1811
+xian xing jian bian 	线性渐变	c=1 d=1 t=1811
+xiang 	像	c=2 d=1.99005 t=1377
+xiang 	想	c=2 d=1.6441 t=1811
+xiang cha 	相差	c=1 d=1 t=1656
+xiang dang yu 	相当于	c=1 d=1 t=1484
+xiang dui ni shuo 	想对你说	c=1 d=1 t=527
+xiang guan 	相关	c=1 d=1.0507 t=1811
+xiang guan nei rong 	相关内容	c=1 d=0.869358 t=1811
+xiang ji 	相机	c=1 d=1 t=1760
+xiang jian 	相见	c=1 d=1 t=700
+xiang nan 	向南	c=0 d=0.1 t=916
+xiang nan kai 	向南开	c=1 d=1 t=917
+xiang qi le 	想起了	c=1 d=1 t=1141
+xiang qian 	向前	c=1 d=1 t=1811
+xiang rang 	想让	c=0 d=0.1 t=1400
+xiang rang qi 	想让其	c=1 d=1 t=1401
+xiang shou zhe 	享受着	c=1 d=1 t=1703
+xiang tong 	相同	c=0 d=0.1 t=436
+xiang tong de 	相同的	c=1 d=1 t=845
+xiang tong wei 	相同为	c=1 d=1 t=437
+xiang xiang 	想想	c=1 d=1 t=560
+xiang zuo 	想做	c=0 d=0.1 t=1687
+xiang zuo de 	想做的	c=1 d=1 t=1688
+xiao 	小	c=1 d=0.995012 t=1811
+xiao 	消	c=1 d=0.97531 t=1811
+xiao 	筱	c=2 d=1.87888 t=1811
+xiao che 	小车	c=1 d=0.923116 t=1811
+xiao hai zi kan 	小孩子看	c=1 d=1 t=1086
+xiao hui 	销毁	c=1 d=1.07408 t=1328
+xiao hui de 	销毁的	c=1 d=1 t=1269
+xiao kuo hao 	小括号	c=1 d=1 t=1317
+xiao kuo hua 	小括话	c=1 d=1 t=1316
+xiao le 	笑了	c=1 d=1 t=1592
+xiao qian 	消遣	c=1 d=1 t=1777
+xiao rong 	笑容	c=1 d=1 t=1596
+xiao shuo 	小说	c=1 d=0.985112 t=1811
+xiao xi 	消息	c=2 d=0.392586 t=1811
+xie 	些	c=0 d=0.1 t=1086
+xie de 	写的	c=1 d=0.918512 t=1811
+xie dong xi 	写东西	c=1 d=1 t=249
+xie fa 	写法	c=1 d=1 t=1811
+xie le 	写了	c=1 d=1 t=1330
+xie lou 	泄露	c=1 d=1 t=1332
+xie luo 	蝎螺	c=1 d=1 t=1331
+xie ru 	写入	c=2 d=1.69417 t=1811
+xie ti 	斜体	c=1 d=0.918512 t=1811
+xie xie 	谢谢	c=2 d=1.81004 t=1811
+xie xie ni 	谢谢你	c=1 d=1 t=541
+xie xie shang di 	谢谢上帝	c=1 d=1 t=641
+xie yi pian 	写一篇	c=1 d=0.798516 t=1811
+xin 	信	c=1 d=0.923116 t=1811
+xin 	心	c=1 d=1 t=543
+xin 	新	c=1 d=0.99005 t=1811
+xin de 	新的	c=1 d=0.99005 t=1811
+xin de yi tian 	新的一天	c=0 d=0.1 t=306
+xin jian 	新建	c=1 d=0.97531 t=1811
+xin li 	心里	c=3 d=1.02998 t=1669
+xin shang 	心上	c=1 d=1 t=1680
+xin shi 	心事	c=1 d=1 t=724
+xin xi 	信息	c=4 d=3.09193 t=1811
+xin xi ke ji 	信息科技	c=0 d=0.0737123 t=1811
+xin xi ke ji da xue 	信息科技大学	c=1 d=0.740818 t=1811
+xin ya 	新芽	c=1 d=1 t=1117
+xin zhong 	心中	c=0 d=0.1 t=1057
+xin zhong zai 	心中在	c=1 d=1 t=1058
+xing zhi 	性质	c=1 d=0.839457 t=1811
+xing zhuang 	形状	c=1 d=1 t=267
+xiu fu 	修复	c=2 d=1.15961 t=765
+xiu gai 	修改	c=1 d=1 t=1811
+xiu shi 	修饰	c=3 d=2.70757 t=1428
+xu duo peng you 	许多朋友	c=1 d=1 t=610
+xu kong 	虚空	c=1 d=1 t=338
+xu yao 	需要	c=5 d=0.83527 t=1811
+xuan zhong 	选中	c=1 d=1 t=395
+xue 	学	c=3 d=2.07797 t=1811
+xue 	雪	c=1 d=1 t=954
+xue hua 	雪花	c=1 d=1 t=1147
+xue li 	学力	c=1 d=0.965605 t=1811
+xue ren 	学人	c=1 d=1 t=973
+xue ren 	雪人	c=2 d=1.97045 t=980
+xue xi 	学习	c=1 d=1 t=631
+xue xiao 	学校	c=1 d=1 t=1156
+xue yuan 	学院	c=4 d=3.05523 t=1811
+xue zhong 	雪中	c=1 d=1 t=958
+xun huan 	循环	c=1 d=1 t=443
+xun ji 	寻迹	c=2 d=1.99005 t=1811
+xun ji 	循迹	c=1 d=0.918512 t=1811
+xun zhao 	寻找	c=1 d=1 t=1200
+xun zhi 	寻址	c=1 d=1 t=1273
+ya 	呀	c=1 d=1 t=823
+ya li 	压力	c=1 d=1 t=1685
+ya suo 	压缩	c=3 d=2.7905 t=1811
+ya yi 	压抑	c=1 d=0.980199 t=1811
+yan gai 	掩盖	c=1 d=1 t=1633
+yan hou 	延后	c=1 d=1 t=397
+yan jing 	眼睛	c=1 d=1 t=1164
+yan jiu 	研究	c=2 d=1.66825 t=1811
+yan jiu sheng 	研究生	c=8 d=5.48871 t=1811
+yan juan 	厌倦	c=1 d=1 t=1212
+yan se 	颜色	c=1 d=0.869358 t=1811
+yan zai 	淹在	c=1 d=1 t=1801
+yan zhao wang 	研招网	c=6 d=4.8279 t=1811
+yan zhong 	眼中	c=1 d=1 t=1802
+yang 	养	c=1 d=0.985112 t=1811
+yang guang 	阳光	c=1 d=1 t=1602
+yao 	要	c=2 d=1.75136 t=1811
+yao hao 	要好	c=0 d=0.1 t=1671
+yao hao yi dian 	要好一点	c=1 d=1 t=1672
+yao yao yu zhui 	摇摇欲坠	c=1 d=1 t=1637
+ye 	也	c=3 d=2.35782 t=1811
+ye bu 	也不	c=0 d=0.1 t=289
+ye bu shi wo 	也不是我	c=1 d=1 t=290
+ye hen 	也很	c=1 d=1 t=1750
+ye jing 	液晶	c=1 d=0.941765 t=1811
+ye li 	夜里	c=1 d=1 t=1207
+ye mei you 	也没有	c=1 d=1 t=1690
+ye mian 	页面	c=5 d=3.98103 t=1811
+ye mo 	夜魔	c=1 d=1 t=415
+ye mo 	页末	c=1 d=1 t=416
+ye shi 	也是	c=1 d=1 t=678
+ye shi yi zhong 	也是一种	c=1 d=1 t=1214
+ye shou 	野兽	c=1 d=1 t=1811
+ye ting bu jian 	也听不见	c=1 d=1 t=265
+ye wu fa 	也无法	c=1 d=0.995012 t=1811
+ye xu 	也许	c=2 d=1.66698 t=1160
+ye xu shi 	也许是	c=1 d=1 t=252
+ye yong 	也用	c=1 d=1 t=1807
+ye yuan yi 	也愿意	c=1 d=1 t=552
+yi 	一	c=1 d=1 t=517
+yi 	以	c=3 d=2.3744 t=1811
+yi ban shi 	一般是	c=1 d=1 t=512
+yi bu you yi bu 	一步又一步	c=2 d=1.96561 t=461
+yi chang xue 	一场雪	c=0 d=0.1 t=1747
+yi ci 	一次	c=5 d=0.913931 t=1811
+yi ci you yi ci 	一次又一次	c=1 d=1 t=300
+yi cun zai 	已存在	c=1 d=0.891366 t=1811
+yi dai zong shi 	一代宗师	c=1 d=1 t=1811
+yi dao 	一道	c=1 d=1 t=709
+yi dao 	移到	c=1 d=0.985112 t=1811
+yi dian 	一点	c=0 d=0.172615 t=1735
+yi dong 	移动	c=1 d=0.985112 t=1811
+yi dong dao 	移动到	c=1 d=0.951229 t=1811
+yi duan 	一段	c=0 d=0.1 t=1032
+yi duan hua 	一段话	c=1 d=0.882497 t=1811
+yi feng xin 	一封信	c=1 d=0.980199 t=1811
+yi ge 	一个	c=11 d=7.20179 t=1811
+yi ge bo fang lie biao 	一个播放列表	c=1 d=0.946485 t=1811
+yi ge fen zhi 	一个分支	c=1 d=0.97531 t=1811
+yi ge han shu 	一个函数	c=0 d=0.0847894 t=1811
+yi ge jie yi ge 	一个接一个	c=1 d=1 t=1239
+yi han 	遗憾	c=1 d=1 t=1039
+yi hou bu 	以后不	c=0 d=0.1 t=1520
+yi hou bu zai 	以后不在	c=1 d=1 t=1521
+yi hua 	异化	c=1 d=1 t=1520
+yi huo 	异或	c=1 d=0.937067 t=1811
+yi ji 	以及	c=1 d=0.985112 t=1811
+yi jing 	已经	c=3 d=1.3821 t=1452
+yi jing fang qi le 	已经放弃了	c=1 d=1 t=303
+yi ke da xue 	医科大学	c=1 d=0.909373 t=1811
+yi lu 	一路	c=1 d=1 t=916
+yi nian 	一年	c=0 d=0.1 t=660
+yi qi 	一起	c=2 d=1.71177 t=1030
+yi qie shi qing 	一切事情	c=0 d=0.1 t=565
+yi shi dao 	意识到	c=2 d=1.97045 t=1044
+yi si 	意思	c=2 d=1.91851 t=1811
+yi tong 	一同	c=1 d=0.980199 t=1811
+yi wang 	遗忘	c=1 d=1 t=1184
+yi xia 	一下	c=2 d=1.25284 t=771
+yi xiang 	臆想	c=1 d=1 t=291
+yi xie 	一些	c=0 d=0.1 t=524
+yi xie hua 	一些话	c=1 d=1 t=743
+yi yang 	一样	c=1 d=1 t=1122
+yi yong 	医用	c=1 d=1 t=1121
+yi yue 	一月	c=1 d=1 t=900
+yi zhi 	一直	c=1 d=1.01773 t=1081
+yi zhi zai zhe li 	一直在这里	c=0 d=0.1 t=619
+yi zhong 	一种	c=1 d=0.985112 t=1811
+yi zhuan 	一转	c=1 d=1 t=1101
+yin 	引	c=0 d=0.190937 t=464
+yin cang 	隐藏	c=1 d=1 t=1169
+yin cang zai 	隐藏在	c=1 d=1 t=1351
+yin ci 	因此	c=1 d=1 t=603
+yin huan 	隐患	c=1 d=1 t=1470
+yin ru 	引入	c=1 d=1 t=858
+yin wo zou zhe ren sheng lu 	引我走这人生路	c=1 d=1 t=465
+yin wo zou zheng yi lu 	引我走正义路	c=1 d=1 t=446
+yin yong 	引用	c=10 d=1.88052 t=1811
+yin yong de 	引用的	c=1 d=1 t=1408
+yin yong fu hao 	引用符号	c=2 d=1.93707 t=1431
+yin yong zhi xiang de dui xiang 	引用指向的对象	c=1 d=1 t=1416
+ying gai 	应该	c=1 d=0.923116 t=1811
+ying she 	映射	c=1 d=0.918512 t=1811
+ying wen 	英文	c=2 d=1.75726 t=1811
+ying xu 	应许	c=0 d=0.1 t=450
+ying yu 	英语	c=6 d=5.51578 t=1811
+yong 	用	c=9 d=5.00913 t=1811
+yong chu 	用处	c=1 d=1 t=793
+yong fa 	用法	c=6 d=4.7623 t=1811
+yong heng de 	永恒的	c=1 d=1 t=1064
+yong hu 	用户	c=1 d=0.90977 t=1811
+yong hu mu lu 	用户目录	c=1 d=0.955997 t=1811
+yong lai 	用来	c=3 d=1.85225 t=860
+yong le 	用了	c=0 d=0.0951229 t=1811
+yong nuo 	永诺	c=1 d=1 t=1811
+yong qu 	用去	c=1 d=1 t=483
+yong tu 	用途	c=0 d=0.1 t=467
+yong tu de hua 	用途的话	c=1 d=1 t=468
+yong wan 	用完	c=1 d=1 t=1339
+yong you 	拥有	c=1 d=1 t=324
+yong yu 	用于	c=2 d=1.956 t=484
+yong yuan 	永远	c=1 d=1 t=323
+yong yuan bu bian 	永远不变	c=0 d=0.1 t=450
+yong yuan bu bian de ying xu 	永远不变的应许	c=1 d=1 t=451
+you 	又	c=0 d=0.1 t=1735
+you 	右	c=1 d=0.995012 t=1811
+you 	有	c=7 d=2.57154 t=1811
+you bian 	右边	c=1 d=0.960789 t=1811
+you cai hua 	油菜花	c=1 d=1 t=1755
+you di zhi 	有地址	c=1 d=0.902519 t=1535
+you hen duo de 	有很多的	c=0 d=0.1 t=283
+you hua 	优化	c=2 d=1.93635 t=1811
+you hua bu ju 	优化布局	c=1 d=1 t=1811
+you mei you 	有没有	c=1 d=0.774916 t=1811
+you na xie 	有哪些	c=4 d=3.08584 t=1811
+you qi 	尤其	c=1 d=1 t=983
+you qu de 	有趣的	c=1 d=1 t=588
+you shen me 	有什么	c=1 d=0.995012 t=1811
+you xi 	游戏	c=1 d=1 t=1773
+you xian ji 	优先级	c=1 d=0.83527 t=1811
+you yi ci 	又一次	c=1 d=1 t=1569
+you yi ge 	有一个	c=1 d=0.904837 t=1811
+you yi ge ke yi qing su de di fang 	有一个可以倾诉的地方	c=1 d=1 t=546
+you yi wu 	有义务	c=1 d=1 t=1518
+you yu le 	犹豫了	c=1 d=1 t=1577
+you zai 	又在	c=1 d=1 t=946
+you zhi 	右值	c=3 d=0.97531 t=1811
+you zhi yin yong 	右值引用	c=2 d=0.985112 t=1811
+yu 	与	c=1 d=0.837663 t=1811
+yu 	语	c=1 d=0.985112 t=1811
+yu ben zhuan ye xiang guan 	与本专业相关	c=1 d=0.843665 t=1811
+yu ce 	预测	c=1 d=1 t=1670
+yu dao 	遇到	c=1 d=0.774916 t=1811
+yu gu 	预估	c=2 d=1.97531 t=1665
+yu ji 	预计	c=1 d=1 t=1653
+yu ji shu 	与技术	c=1 d=0.995012 t=1811
+yu jian le ni 	遇见了你	c=1 d=1 t=559
+yu she 	预设	c=2 d=1.98511 t=1811
+yu shui 	雨水	c=0 d=0.1 t=1347
+yu shui zai 	雨水在	c=1 d=1 t=1348
+yu wang 	欲望	c=0 d=0.1 t=298
+yu xian 	预先	c=0 d=0.1 t=420
+yu yan 	语言	c=1 d=0.891366 t=1811
+yu yue 	愉悦	c=1 d=1 t=1189
+yu yue 	预约	c=1 d=1 t=1188
+yuan 	愿	c=1 d=1 t=663
+yuan 	院	c=2 d=1.81834 t=1811
+yuan su 	元素	c=1 d=1 t=433
+yuan wang 	愿望	c=1 d=1 t=713
+yuan yi 	愿意	c=0 d=0.1 t=551
+yuan yin 	原因	c=1 d=1 t=581
+yue guo 	越过	c=1 d=1 t=1752
+yue ji 	月季	c=1 d=1 t=1811
+yue lai yue 	越来越	c=0 d=0.1 t=683
+yue lai yue de 	越来越的	c=1 d=1 t=684
+yue lai yue jin 	越来越近	c=1 d=1 t=1015
+yun pan 	云盘	c=1 d=0.99005 t=1811
+yun suan fu 	运算符	c=1 d=1.08146 t=1547
+yun xing 	运行	c=2 d=1.80384 t=1811
+za luan 	杂乱	c=0 d=0.1 t=950
+zai 	再	c=1 d=0.941765 t=1811
+zai 	在	c=40 d=12.0252 t=1811
+zai bao hu 	在保护	c=0 d=0.1 t=447
+zai bian cheng 	在编程	c=1 d=1 t=758
+zai duan zan 	在短暂	c=1 d=1 t=1186
+zai guo qu 	在过去	c=0 d=0.1 t=527
+zai guo qu de 	在过去的	c=1 d=1 t=528
+zai he 	在和	c=1 d=1 t=1173
+zai wo 	在我	c=1 d=1.00292 t=1695
+zai wo di di 	在我弟弟	c=1 d=1 t=989
+zai wo men 	在我们	c=1 d=1 t=705
+zai xin de 	在新的	c=1 d=1.1 t=660
+zai xin de yi nian 	在新的一年	c=1 d=1 t=661
+zai xin nian 	在新年	c=0 d=0.1 t=522
+zai xin nian de 	在新年的	c=1 d=1 t=523
+zai yi dian you yi dian 	在一点又一点	c=1 d=1 t=1736
+zai yu xian 	在预先	c=1 d=1 t=421
+zai zhi xing 	再执行	c=1 d=1 t=495
+zan shi 	暂时	c=1 d=0.995012 t=1811
+zao gao 	糟糕	c=0 d=0.1 t=282
+ze 	则	c=1 d=1 t=1551
+zen me 	怎么	c=52 d=18.5837 t=1811
+zen me ba 	怎么把	c=1 d=0.904837 t=1811
+zen me cha kan 	怎么查看	c=1 d=0.946485 t=1811
+zen me kai qi 	怎么开启	c=1 d=0.995012 t=1811
+zen me rang 	怎么让	c=1 d=0.806541 t=1811
+zen me tiao jie 	怎么调节	c=1 d=1 t=1811
+zen me xie 	怎么写	c=1 d=0.955997 t=1811
+zen me yang 	怎么样	c=3 d=2.45481 t=1811
+zen me yong 	怎么用	c=3 d=2.72559 t=1811
+zen me zuo 	怎么做	c=1 d=0.960789 t=1811
+zen yang 	怎样	c=5 d=3.12515 t=1811
+zen yang zai 	怎样在	c=2 d=1.88825 t=1811
+zeng jia 	增加	c=1 d=1.099 t=520
+zeng jia wei li 	增加威力	c=1 d=1 t=519
+zhai yao 	摘要	c=1 d=1 t=1811
+zhan 	栈	c=2 d=1.93239 t=1280
+zhan 	站	c=1 d=0.980199 t=1811
+zhan ju le 	占据了	c=0 d=0.1 t=1191
+zhan ju le wo 	占据了我	c=1 d=1 t=1192
+zhan qu 	栈区	c=1 d=1 t=1444
+zhan yong 	占用	c=1 d=1 t=1336
+zhang hao 	账号	c=1 d=0.839457 t=1811
+zhang wei 	张伟	c=1 d=0.995012 t=1811
+zhang zhi 	涨至	c=0 d=0.0965605 t=1811
+zhao bu dao 	找不到	c=1 d=0.900325 t=1811
+zhao pian 	照片	c=1 d=0.970446 t=1811
+zhao pian ce 	照片册	c=1 d=0.99005 t=1811
+zhao sheng 	招生	c=2 d=1.87982 t=1811
+zhe 	着	c=2 d=0.237402 t=1354
+zhe 	这	c=1 d=0.995012 t=1811
+zhe ban nian 	这半年	c=1 d=1 t=627
+zhe duan 	这段	c=1 d=0.970446 t=1811
+zhe feng 	这封	c=1 d=0.941765 t=1811
+zhe ge 	这个	c=3 d=2.47705 t=1811
+zhe ge cang ku 	这个仓库	c=1 d=0.865022 t=1811
+zhe ge cha jian 	这个插件	c=1 d=0.97531 t=1811
+zhe ge jie guo 	这个结果	c=1 d=1 t=1676
+zhe guo qu 	着过去	c=1 d=1 t=278
+zhe guo qu 	这过去	c=1 d=1 t=279
+zhe ji ge yue 	这几个月	c=1 d=1 t=628
+zhe ju hua 	这句话	c=2 d=1.10915 t=1244
+zhe li 	这里	c=1 d=0.965605 t=1811
+zhe me 	这么	c=1 d=0.941765 t=1811
+zhe rang 	这让	c=0 d=0.1 t=605
+zhe rang wo gan dao 	这让我感到	c=1 d=1 t=606
+zhe shi 	这是	c=5 d=1.84467 t=1811
+zhe shi en dian zhi lu 	这是恩典之路	c=1 d=1 t=455
+zhe shi pan wang zhi lu 	这是盼望之路	c=1 d=1 t=462
+zhe shi yi duan 	这是一段	c=1 d=1 t=1033
+zhe yang de 	这样的	c=2 d=1.3379 t=1595
+zhe yang zuo 	这样做	c=0 d=0.1 t=678
+zhe yang zuo de 	这样做的	c=1 d=1 t=679
+zhe yi nian 	这一年	c=4 d=2.52123 t=889
+zhe yi sheng 	这一生	c=1 d=1 t=452
+zhen 	真	c=1 d=1 t=1811
+zhen ai 	真爱	c=1 d=0.951229 t=1811
+zhen duan 	诊断	c=2 d=0.791144 t=1811
+zhen li 	真理	c=1 d=1 t=1065
+zhen qiao 	真巧	c=2 d=1.99501 t=1811
+zhen zheng de 	真正的	c=1 d=1 t=1371
+zheng chang 	正常	c=1 d=0.873716 t=1811
+zheng fen duo miao 	争分夺秒	c=1 d=1 t=1631
+zheng ge 	整个	c=1 d=0.105656 t=1787
+zheng kai yan jing 	睁开眼睛	c=0 d=0.1 t=305
+zheng que de 	正确的	c=1 d=1 t=669
+zheng shang 	正上	c=1 d=0.965605 t=1811
+zheng wen 	正文	c=1 d=0.806541 t=1811
+zheng yan 	正艳	c=1 d=1 t=1757
+zheng yi lu 	正义路	c=0 d=0.1 t=445
+zhi 	之	c=1 d=0.99005 t=1811
+zhi 	只	c=0 d=0.1 t=1256
+zhi 	直	c=1 d=1 t=1083
+zhi 	知	c=1 d=1 t=1082
+zhi cheng zhe 	支撑着	c=0 d=0.1 t=316
+zhi cheng zhe wo 	支撑着我	c=1 d=1 t=317
+zhi chi ni 	支持你	c=1 d=1 t=739
+zhi chuang jian 	只创建	c=1 d=1 t=1257
+zhi ding 	指定	c=1 d=0.976116 t=1811
+zhi ding bao 	指定包	c=1 d=0.985112 t=1811
+zhi hou 	之后	c=2 d=1.8029 t=1811
+zhi hu 	知乎	c=1 d=0.923116 t=1811
+zhi hua 	之花	c=0 d=0.1 t=1040
+zhi hui 	只会	c=2 d=1.1097 t=1245
+zhi hui 	智慧	c=1 d=1.00954 t=802
+zhi jian 	之间	c=1 d=1 t=706
+zhi jian de 	之间的	c=1 d=0.985112 t=1811
+zhi jiang 	只将	c=1 d=1 t=1411
+zhi jie 	直接	c=2 d=1.83946 t=1683
+zhi lei xing 	值类型	c=0 d=0.1 t=1420
+zhi lei xing de 	值类型的	c=1 d=1 t=1421
+zhi lu 	之路	c=0 d=0.0965605 t=1811
+zhi nei 	之内	c=1 d=1 t=1229
+zhi neng 	只能	c=1 d=1 t=1392
+zhi neng 	智能	c=11 d=7.40254 t=1811
+zhi neng ke xue 	智能科学	c=1 d=0.99005 t=1811
+zhi neng shuo 	只能说	c=1 d=1 t=1620
+zhi shan 	之山	c=0 d=0.0995012 t=1811
+zhi shang 	至上	c=1 d=0.955997 t=1811
+zhi shi 	知识	c=1 d=0.414783 t=1811
+zhi shi you 	知识有	c=1 d=0.937067 t=1811
+zhi wu 	植物	c=1 d=0.99005 t=1811
+zhi xiang 	指向	c=1 d=0.907239 t=1486
+zhi xiang de 	指向的	c=1 d=1 t=1487
+zhi xing 	执行	c=5 d=1.61488 t=1811
+zhi you 	只有	c=1 d=1 t=808
+zhi yuan 	志愿	c=1 d=1 t=1658
+zhi zai 	只在	c=1 d=1 t=799
+zhi zhen 	指针	c=3 d=1.0855 t=1811
+zhi zhen de 	指针的	c=1 d=1 t=1461
+zhi zhen de wei zhi 	指针的位置	c=1 d=1 t=382
+zhong 	中	c=6 d=5.03367 t=1811
+zhong 	钟	c=1 d=1 t=1580
+zhong de 	中的	c=1 d=0.99005 t=1811
+zhong duan 	终端	c=10 d=6.2853 t=1811
+zhong duan xia 	终端下	c=2 d=0.980199 t=1811
+zhong guo 	中国	c=3 d=2.67126 t=1811
+zhong wen 	中文	c=5 d=3.48713 t=1811
+zhong wen hui da 	中文回答	c=2 d=1.93747 t=1811
+zhong wen hui da wo 	中文回答我	c=1 d=0.913931 t=1811
+zhong wen zi ti 	中文字体	c=1 d=0.869358 t=1811
+zhong xun 	中旬	c=1 d=1 t=1754
+zhong zhong 	种种	c=1 d=1 t=1048
+zhou qi 	周期	c=1 d=1 t=1232
+zhu 	主	c=0 d=0.1 t=444
+zhu 	住	c=1 d=0.869358 t=1811
+zhu fu 	祝福	c=0 d=0.1 t=452
+zhu ji ming 	主机名	c=1 d=1 t=491
+zhu jian 	逐渐	c=1 d=1 t=1334
+zhu ni hao yun 	祝你好运	c=1 d=0.970446 t=1811
+zhu shi 	注释	c=3 d=0.951229 t=1811
+zhu shi de 	注释的	c=1 d=0.865022 t=1811
+zhu ti 	主题	c=3 d=2.30702 t=1811
+zhu yao 	主要	c=1 d=1 t=825
+zhu yi dao 	注意到	c=1 d=1 t=979
+zhua zhu 	抓住	c=1 d=1 t=460
+zhuan ye 	专业	c=1 d=0.985112 t=1811
+zhuan yi 	转义	c=1 d=1 t=1811
+zhui zhu 	追逐	c=1 d=1 t=274
+zhuo mian 	桌面	c=1 d=0.955997 t=1811
+zi 	字	c=1 d=0.822835 t=1811
+zi ding yi de 	自定义的	c=1 d=0.946485 t=1811
+zi dong 	自动	c=5 d=2.20091 t=1811
+zi dong bao cun 	自动保存	c=2 d=1.99501 t=1811
+zi fu 	字符	c=1 d=0.99005 t=1811
+zi fu ji 	字符集	c=1 d=1 t=754
+zi ji 	自己	c=5 d=1.71361 t=1811
+zi ji de shi qing 	自己的事情	c=0 d=0.1 t=596
+zi mu 	字幕	c=0 d=0.099005 t=1811
+zi mu ku 	字幕库	c=1 d=0.995012 t=1811
+zi ti 	字体	c=7 d=5.80687 t=1811
+zi ti da xiao 	字体大小	c=1 d=0.99005 t=1811
+zi ti de 	字体的	c=1 d=0.970446 t=1811
+zi ti de da xiao 	字体的大小	c=1 d=0.99005 t=1811
+zi wo 	自我	c=1 d=1.00009 t=1727
+zi wo dang zhong 	自我当中	c=1 d=1 t=330
+zong yuan 	总院	c=2 d=1.67661 t=1811
+zou 	走	c=1 d=1 t=668
+zou jin 	走近	c=1 d=0.99005 t=1811
+zou jin 	走进	c=0 d=0.1 t=1354
+zou jin zhe 	走进着	c=1 d=1 t=1355
+zou zhe 	走这	c=0 d=0.1 t=464
+zu 	组	c=1 d=0.99005 t=1811
+zu ge 	阻隔	c=1 d=1 t=710
+zui da 	最大	c=1 d=1 t=971
+zui hou 	最后	c=1 d=0.970446 t=1811
+zui jin 	最近	c=1 d=1 t=967
+zui zhong 	最终	c=1 d=1.00402 t=1337
+zui zhong neng bu neng 	最终能不能	c=1 d=1 t=695
+zuo shang le 	坐上了	c=1 d=1 t=907
+zuo shen me 	做什么	c=0 d=0.1 t=681
+zuo wei 	作为	c=1 d=0.970446 t=1811
+zuo yong 	作用	c=2 d=0.955997 t=1811
+zuo you 	左右	c=1 d=0.970446 t=1811
+zuo zai 	坐在	c=1 d=1 t=1129
+zuo zhi 	左值	c=4 d=3.83039 t=1505
