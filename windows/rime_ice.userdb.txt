@@ -1,0 +1,30 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	14
+#@/user_id	windows
+ai zhe ni 	爱着你	c=1 d=1 t=6
+bu tong de shi qing 	不同的事情	c=0 d=0.1 t=3
+dan shi wo 	但是我	c=0 d=0.1 t=4
+dan shi wo yi jiu 	但是我依旧	c=1 d=1 t=5
+dao 	到	c=1 d=1 t=3
+ni de 	你的	c=1 d=1 t=2
+ni shi wo de you le mei 	你是我的优乐美	c=1 d=1 t=7
+ni zai wo de xin li 	你在我的心里	c=1 d=1 t=8
+shi 	是	c=1 d=1 t=9
+sui ran 	虽然	c=0 d=0.1 t=3
+sui ran you hen duo bu tong de shi qing 	虽然有很多不同的事情	c=1 d=1 t=4
+wei yi 	唯一	c=1 d=1 t=10
+wo jiu 	我就	c=0 d=0.1 t=10
+wo jiu xiang yao yong bao ni 	我就想要拥抱你	c=1 d=1 t=11
+wo xiang gao su ni 	我想告诉你	c=1 d=1 t=1
+xiang ni 	想你	c=0 d=0.1 t=12
+xiang yao 	想要	c=0 d=0.1 t=10
+yi jiu 	依旧	c=0 d=0.1 t=4
+yong bao ni 	拥抱你	c=0 d=0.1 t=10
+you hen duo 	有很多	c=0 d=0.1 t=3
+you yi ci 	又一次	c=0 d=0.1 t=12
+zai yi ci 	再一次	c=1 d=1 t=12
+zai yu tian 	在雨天	c=0 d=0.1 t=12
+zai yu tian you yi ci xiang ni 	在雨天又一次想你	c=2 d=1.99501 t=14
